@@ -1,0 +1,625 @@
+{
+  "schemaVersion": 1,
+  "timezone": "Asia/Singapore",
+  "meaningOfLearned": "接触过，不等于掌握",
+  "items": [
+    {
+      "id": "kudasai",
+      "japanese": "ください",
+      "romaji": "kudasai",
+      "meaning": "请给我；接在动作表达后可用于请求",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "kudasai-1",
+          "date": "2026-09-08",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 1,
+          "quote": "ください",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "mizu",
+      "japanese": "水",
+      "romaji": "mizu",
+      "meaning": "水",
+      "kind": "word",
+      "events": [
+        {
+          "id": "mizu-1",
+          "date": "2026-09-08",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 2,
+          "quote": "水",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mizu-2",
+          "date": "2026-09-08",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 3,
+          "quote": "水をください",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "ocha",
+      "japanese": "お茶",
+      "romaji": "ocha",
+      "meaning": "茶",
+      "kind": "word",
+      "events": [
+        {
+          "id": "ocha-1",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 4,
+          "quote": "お茶",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "ocha-2",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 5,
+          "quote": "お茶ぃでください",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "ocha-3",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 7,
+          "quote": "お茶をください",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "particle-o",
+      "japanese": "を",
+      "romaji": "o",
+      "meaning": "标记这里所请求的对象；输入通常敲 wo",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "o-1",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 6,
+          "quote": "「を」",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "o-2",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-08.md",
+          "turn": 7,
+          "quote": "お茶をください",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "save",
+      "japanese": "セーブ",
+      "romaji": "seebu",
+      "meaning": "游戏存档",
+      "kind": "word",
+      "events": [
+        {
+          "id": "save-1",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-12.md",
+          "turn": 1,
+          "quote": "セーブ",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "save-2",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-12.md",
+          "turn": 2,
+          "quote": "セーブしておきます。",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "te-oku",
+      "japanese": "～ておく",
+      "romaji": "te oku",
+      "meaning": "为后面提前做好准备",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "teoku-1",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-12.md",
+          "turn": 1,
+          "quote": "～ておく",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "teoku-2",
+          "date": "2026-09-12",
+          "file": "日常练习/2026-09-12.md",
+          "turn": 2,
+          "quote": "セーブしておきます。",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "teoku-3",
+          "date": "2026-09-13",
+          "file": "日常练习/2026-09-13.md",
+          "turn": 1,
+          "quote": "～ておく",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "teoku-4",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14.md",
+          "turn": 2,
+          "quote": "確認しておきます。",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "wakarimasen",
+      "japanese": "わかりません",
+      "romaji": "wakarimasen",
+      "meaning": "我不知道；我不明白（看语境）",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "wakari-1",
+          "date": "2026-09-13",
+          "file": "日常练习/2026-09-13.md",
+          "turn": 4,
+          "quote": "わかりません",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "wait-here",
+      "japanese": "ここで待ってください",
+      "romaji": "koko de matte kudasai",
+      "meaning": "请在这里等一下",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "wait-1",
+          "date": "2026-09-13",
+          "file": "日常练习/2026-09-13.md",
+          "turn": 7,
+          "quote": "ここで待ってください",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "wait-2",
+          "date": "2026-09-13",
+          "file": "日常练习/2026-09-13.md",
+          "turn": 8,
+          "quote": "ここで待ってください",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "kakunin",
+      "japanese": "確認",
+      "romaji": "kakunin",
+      "meaning": "确认；核对",
+      "kind": "word",
+      "events": [
+        {
+          "id": "kakunin-1",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14.md",
+          "turn": 2,
+          "quote": "確認しておきます。",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "mondai",
+      "japanese": "問題",
+      "romaji": "mondai",
+      "meaning": "问题",
+      "kind": "word",
+      "events": [
+        {
+          "id": "mondai-20260914-cont-07",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 7,
+          "quote": "問題",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mondai-20260914-cont-08",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 8,
+          "quote": "問題",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "shuusei",
+      "japanese": "修正",
+      "romaji": "shuusei",
+      "meaning": "修改；修正",
+      "kind": "word",
+      "events": [
+        {
+          "id": "shuusei-20260914-cont-11",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 11,
+          "quote": "修正",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "shuusei-20260914-cont-12",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 12,
+          "quote": "修正",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "yotei",
+      "japanese": "予定",
+      "romaji": "yotei",
+      "meaning": "计划；安排",
+      "kind": "word",
+      "events": [
+        {
+          "id": "yotei-20260914-cont-16",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 16,
+          "quote": "予定",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20260914-cont-17",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 17,
+          "quote": "予定",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "arimasu",
+      "japanese": "あります",
+      "romaji": "arimasu",
+      "meaning": "有；存在（事物）",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "arimasu-20260914-cont-07",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 7,
+          "quote": "あります",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20260914-cont-09",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 9,
+          "quote": "あります",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20260914-cont-10",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 10,
+          "quote": "あります",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "arimasen",
+      "japanese": "ありません",
+      "romaji": "arimasen",
+      "meaning": "没有；不存在（事物）",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "arimasen-20260914-cont-07",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 7,
+          "quote": "ありません",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasen-20260914-cont-08",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 8,
+          "quote": "ありません",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "shimashita",
+      "japanese": "しました",
+      "romaji": "shimashita",
+      "meaning": "做了：する的礼貌过去形式",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "shimashita-20260914-cont-05",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 5,
+          "quote": "しました",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "shimashita-20260914-cont-06",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 6,
+          "quote": "しました",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "geemu",
+      "japanese": "ゲーム",
+      "romaji": "geemu",
+      "meaning": "游戏",
+      "kind": "word",
+      "events": [
+        {
+          "id": "geemu-20260914-cont-18",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 18,
+          "quote": "ゲーム",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "geemu-20260914-cont-19",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 19,
+          "quote": "ゲーム",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "korekara",
+      "japanese": "これから",
+      "romaji": "kore kara",
+      "meaning": "接下来；从现在开始",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "korekara-20260914-cont-18",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 18,
+          "quote": "これから",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "korekara-20260914-cont-20",
+          "date": "2026-09-14",
+          "file": "日常练习/2026-09-14-续写.md",
+          "turn": 20,
+          "quote": "これから",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "mou",
+      "japanese": "もう",
+      "romaji": "mou",
+      "meaning": "已经（本次用法）",
+      "kind": "word",
+      "events": [
+        {
+          "id": "mou-20260916-2",
+          "date": "2026-09-16",
+          "file": "日常练习/2026-09-16.md",
+          "turn": 2,
+          "quote": "もう修正しました。",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "misu",
+      "japanese": "ミス",
+      "romaji": "misu",
+      "meaning": "错误；失误",
+      "kind": "word",
+      "events": [
+        {
+          "id": "misu-20260916-exposure",
+          "date": "2026-09-16",
+          "file": "日常练习/2026-09-16.md",
+          "turn": 4,
+          "quote": "ミス",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "mada",
+      "japanese": "まだ",
+      "romaji": "mada",
+      "meaning": "还；与否定搭配表示还没",
+      "kind": "word",
+      "events": [
+        {
+          "id": "mada-20260916-exposure",
+          "date": "2026-09-16",
+          "file": "日常练习/2026-09-16.md",
+          "turn": 5,
+          "quote": "まだ",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "imakara",
+      "japanese": "今から",
+      "romaji": "ima kara",
+      "meaning": "从现在开始",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "imakara-20260916-exposure",
+          "date": "2026-09-16",
+          "file": "日常练习/2026-09-16.md",
+          "turn": 8,
+          "quote": "今から",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "shitekudasai",
+      "japanese": "してください",
+      "romaji": "shite kudasai",
+      "meaning": "请做",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "shitekudasai-20260916-exposure",
+          "date": "2026-09-16",
+          "file": "日常练习/2026-09-16.md",
+          "turn": 10,
+          "quote": "してください",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "kyou",
+      "japanese": "今日",
+      "romaji": "kyou",
+      "meaning": "今天",
+      "kind": "word",
+      "events": [
+        {
+          "id": "kyou-20260916-exposure",
+          "date": "2026-09-16",
+          "file": "日常练习/2026-09-16.md",
+          "turn": 13,
+          "quote": "今日",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "kokomadenishimasu",
+      "japanese": "ここまでにします",
+      "romaji": "koko made ni shimasu",
+      "meaning": "就到这里",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "kokomadenishimasu-20260916-exposure",
+          "date": "2026-09-16",
+          "file": "日常练习/2026-09-16.md",
+          "turn": 13,
+          "quote": "ここまでにします",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    }
+  ],
+  "sessions": [
+    {
+      "id": "2026-09-16-01",
+      "date": "2026-09-16",
+      "source": "日常练习/2026-09-16.md",
+      "newItemIds": [
+        "mou",
+        "misu",
+        "mada",
+        "imakara",
+        "shitekudasai",
+        "kyou",
+        "kokomadenishimasu"
+      ],
+      "revisitedItemIds": [
+        "shuusei",
+        "shimashita",
+        "kudasai"
+      ],
+      "contentSummary": "已经与还没修改、现在开始修改、请求确认、今天结束及时间表达区别",
+      "status": "ended",
+      "assessmentSessionId": "2026-09-16-01"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0",
+  "taskId": "JP-N3-000",
+  "taskType": "project-setup",
+  "title": "初始化个体自适应日语辅导工程",
+  "deliveryUnit": "可接续且经结构检查的本地 N3 辅导工作区",
+  "scope": {
+    "in": [
+      "稳定规则与单教师边界",
+      "自然理解及个体教学探索政策",
+      "任务模板与起点观察包",
+      "结构检查及恢复清单"
+    ],
+    "out": [
+      "正式教学或能力测验",
+      "生成完整课程",
+      "考试报名与采购",
+      "发布、自动提醒及多代理运行"
+    ]
+  },
+  "status": "closed",
+  "currentStage": "delivered",
+  "owner": "tutor",
+  "dependencies": [],
+  "skills": [],
+  "instructions": [
+    ".ai/instructions/teaching.md",
+    ".ai/instructions/adaptive-tutoring.md",
+    ".ai/instructions/material-design.md",
+    ".ai/docs/task-policy.md"
+  ],
+  "deliverables": [
+    "2026-Winter-Exam/tasks/000-project-setup/README.md",
+    "2026-Winter-Exam/tasks/000-project-setup/学习目标与计划.md",
+    "2026-Winter-Exam/tasks/000-project-setup/练习.md",
+    "2026-Winter-Exam/tasks/000-project-setup/作答与反馈.md",
+    "2026-Winter-Exam/tasks/000-project-setup/验收与证据.md",
+    "2026-Winter-Exam/tasks/000-project-setup/接续与变更.md",
+    "2026-Winter-Exam/tasks/000-project-setup/教法探索.md",
+    "2026-Winter-Exam/tasks/000-project-setup/structure-check.json",
+    "tools/check_project.py",
+    "tools/initialization-manifest.json"
+  ],
+  "acceptanceStatus": "passed",
+  "acceptedExceptions": [],
+  "activeChange": null,
+  "createdAt": "2026-09-08T20:15:22+08:00",
+  "updatedAt": "2026-09-08T20:22:22+08:00"
+}

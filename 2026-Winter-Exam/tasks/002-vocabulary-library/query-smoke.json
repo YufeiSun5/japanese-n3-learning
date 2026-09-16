@@ -1,0 +1,281 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "case": "chinese-search",
+      "status": "passed",
+      "arguments": [
+        "search",
+        "确认",
+        "--limit",
+        "2"
+      ],
+      "output": {
+        "totalMatches": 1,
+        "showing": 1,
+        "entries": [
+          {
+            "id": "jmdict-1205900",
+            "form": {
+              "word": "確認",
+              "reading": "かくにん"
+            },
+            "referenceLevels": [
+              "N3"
+            ],
+            "originalEnglish": [
+              "affirmation,confirmation"
+            ],
+            "teaching": {
+              "word": "確認",
+              "reading": "かくにん",
+              "zh": "确认；核实",
+              "simpleEn": "check; confirmation",
+              "note": "先核实再执行。",
+              "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit"
+            },
+            "priorityTags": [
+              "workflow"
+            ],
+            "officialEvidence": [],
+            "qualityFlags": [
+              "reference-level-is-nonofficial"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": "official-target",
+      "status": "passed",
+      "arguments": [
+        "search",
+        "--tag",
+        "official-sample",
+        "--limit",
+        "2"
+      ],
+      "output": {
+        "totalMatches": 48,
+        "showing": 2,
+        "entries": [
+          {
+            "id": "local-9b6f6661d37672c8",
+            "form": {
+              "word": "余る",
+              "reading": "あまる"
+            },
+            "referenceLevels": [],
+            "originalEnglish": [],
+            "teaching": {
+              "word": "余る",
+              "reading": "あまる",
+              "zh": "剩余；多出来",
+              "simpleEn": "be left over",
+              "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+              "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit"
+            },
+            "priorityTags": [
+              "official-sample"
+            ],
+            "officialEvidence": [
+              {
+                "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+                "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+                "question": 29,
+                "pdfPage": 6,
+                "printedPage": 4,
+                "questionType": "paraphrase",
+                "observedTarget": "あまりました",
+                "role": "tested-target",
+                "verification": "visual page review; canonical headword normalized by tutor"
+              }
+            ],
+            "qualityFlags": [
+              "supplement-outside-selected-reference-lists"
+            ]
+          },
+          {
+            "id": "jmdict-1154860",
+            "form": {
+              "word": "案内",
+              "reading": "あんない"
+            },
+            "referenceLevels": [
+              "N4"
+            ],
+            "originalEnglish": [
+              "to guide"
+            ],
+            "teaching": {
+              "word": "案内",
+              "reading": "あんない",
+              "zh": "引导；指引",
+              "simpleEn": "guidance; showing someone around",
+              "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+              "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit"
+            },
+            "priorityTags": [
+              "official-sample"
+            ],
+            "officialEvidence": [
+              {
+                "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+                "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+                "question": 10,
+                "pdfPage": 4,
+                "printedPage": 6,
+                "questionType": "orthography",
+                "observedTarget": "あんない",
+                "role": "tested-target",
+                "verification": "visual page review; canonical headword normalized by tutor"
+              }
+            ],
+            "qualityFlags": [
+              "reference-level-is-nonofficial"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": "software",
+      "status": "passed",
+      "arguments": [
+        "search",
+        "--tag",
+        "software",
+        "--limit",
+        "2"
+      ],
+      "output": {
+        "totalMatches": 19,
+        "showing": 2,
+        "entries": [
+          {
+            "id": "local-68b8b0a2070939ff",
+            "form": {
+              "word": "一覧",
+              "reading": "いちらん"
+            },
+            "referenceLevels": [],
+            "originalEnglish": [],
+            "teaching": {
+              "word": "一覧",
+              "reading": "いちらん",
+              "zh": "一览；列表",
+              "simpleEn": "list; overview",
+              "note": "不是唯一可能的界面呈现方式。",
+              "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit"
+            },
+            "priorityTags": [
+              "software"
+            ],
+            "officialEvidence": [],
+            "qualityFlags": [
+              "supplement-outside-selected-reference-lists"
+            ]
+          },
+          {
+            "id": "local-cddcd29a4eef678c",
+            "form": {
+              "word": "画面",
+              "reading": "がめん"
+            },
+            "referenceLevels": [],
+            "originalEnglish": [],
+            "teaching": {
+              "word": "画面",
+              "reading": "がめん",
+              "zh": "画面；界面",
+              "simpleEn": "screen",
+              "note": "画面式样书的基本对象。",
+              "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit"
+            },
+            "priorityTags": [
+              "software"
+            ],
+            "officialEvidence": [],
+            "qualityFlags": [
+              "supplement-outside-selected-reference-lists"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "case": "level-with-priority",
+      "status": "passed",
+      "arguments": [
+        "search",
+        "--level",
+        "N3",
+        "--priority",
+        "--limit",
+        "2"
+      ],
+      "output": {
+        "totalMatches": 76,
+        "showing": 2,
+        "entries": [
+          {
+            "id": "jmdict-1157760",
+            "form": {
+              "word": "異常",
+              "reading": "いじょう"
+            },
+            "referenceLevels": [
+              "N3"
+            ],
+            "originalEnglish": [
+              "strangeness,abnormality,disorder"
+            ],
+            "teaching": {
+              "word": "異常",
+              "reading": "いじょう",
+              "zh": "异常",
+              "simpleEn": "abnormal; error condition",
+              "note": "与数值用语以上同音，按语境区分。",
+              "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit"
+            },
+            "priorityTags": [
+              "workflow"
+            ],
+            "officialEvidence": [],
+            "qualityFlags": [
+              "reference-level-is-nonofficial"
+            ]
+          },
+          {
+            "id": "jmdict-1155150",
+            "form": {
+              "word": "以前",
+              "reading": "いぜん"
+            },
+            "referenceLevels": [
+              "N3"
+            ],
+            "originalEnglish": [
+              "ago,since,before,previous"
+            ],
+            "teaching": {
+              "word": "以前",
+              "reading": "いぜん",
+              "zh": "以前；之前",
+              "simpleEn": "before; previously",
+              "note": "时间端点是否包含须看完整规定，不机械套数值规则。",
+              "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit"
+            },
+            "priorityTags": [
+              "sequence"
+            ],
+            "officialEvidence": [],
+            "qualityFlags": [
+              "reference-level-is-nonofficial"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

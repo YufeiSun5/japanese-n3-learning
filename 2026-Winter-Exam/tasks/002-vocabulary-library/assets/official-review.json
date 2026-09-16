@@ -1,0 +1,35 @@
+{
+  "reviewedAt": "2026-09-08",
+  "method": "Rendered and visually inspected physical PDF pages 3,4,6,7 for both workbooks. 2018 Poppler rendering lacked Japanese glyphs; re-rendered with macOS PDFKit and visually verified all four pages.",
+  "sources": [
+    {
+      "year": 2012,
+      "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+      "sha256": "e80bfe5be25d1c06df901a6f1b0f590cd7927160e374c12ded18e8dfb0b4eb79",
+      "reviewedPdfPages": [
+        3,
+        4,
+        6,
+        7
+      ],
+      "targetCount": 24
+    },
+    {
+      "year": 2018,
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+      "sha256": "66abec06d2e23d2ee66b94cdf905b34cc87f97a5ce0ce5da47dc304053d647ea",
+      "reviewedPdfPages": [
+        3,
+        4,
+        6,
+        7
+      ],
+      "targetCount": 24
+    }
+  ],
+  "limitations": [
+    "48 observed targets are a partial inventory, not an exam-frequency estimate.",
+    "Canonical spellings and concise glosses are tutor normalization.",
+    "No question sentences, options or full exam contents are included in the library."
+  ]
+}

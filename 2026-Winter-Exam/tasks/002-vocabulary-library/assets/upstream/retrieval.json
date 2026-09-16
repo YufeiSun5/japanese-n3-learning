@@ -1,0 +1,42 @@
+{
+  "repository": "https://github.com/stephenmk/yomitan-jlpt-vocab",
+  "commit": "b062d4e38c4bdd0950ae1d4ec55f04b176182e03",
+  "retrievedAt": "2026-09-08T20:41:22+08:00",
+  "files": [
+    {
+      "path": "original_data__n3.csv",
+      "upstreamPath": "original_data/n3.csv",
+      "url": "https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/b062d4e38c4bdd0950ae1d4ec55f04b176182e03/original_data/n3.csv",
+      "sha256": "bd4d68c59cfee861351e1bdf9d99818e434392201eabbed4d3657225fe53a3ac",
+      "bytes": 88623
+    },
+    {
+      "path": "original_data__n4.csv",
+      "upstreamPath": "original_data/n4.csv",
+      "url": "https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/b062d4e38c4bdd0950ae1d4ec55f04b176182e03/original_data/n4.csv",
+      "sha256": "a14dcc7fdc02259b22331a486c6ff66df74c16472c8aeb5a0ebe7e5fa8ee8eb4",
+      "bytes": 24772
+    },
+    {
+      "path": "original_data__n5.csv",
+      "upstreamPath": "original_data/n5.csv",
+      "url": "https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/b062d4e38c4bdd0950ae1d4ec55f04b176182e03/original_data/n5.csv",
+      "sha256": "07dc6f197b51cc076c65c3c9f23218d10c2b67f76545f5c1c4d9e3750495533a",
+      "bytes": 24010
+    },
+    {
+      "path": "README.txt",
+      "upstreamPath": "README.md",
+      "url": "https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/b062d4e38c4bdd0950ae1d4ec55f04b176182e03/README.md",
+      "sha256": "4efd40eecf18c01a61ca54d4c1731daa0756a384b0f4ade551b43914a087869a",
+      "bytes": 1596
+    },
+    {
+      "path": "LICENSE.txt",
+      "upstreamPath": "LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/stephenmk/yomitan-jlpt-vocab/b062d4e38c4bdd0950ae1d4ec55f04b176182e03/LICENSE.txt",
+      "sha256": "7abe19ec9bb73b36141b999b861d24ad855e808bafe0f81e84cce28556f6c297",
+      "bytes": 20131
+    }
+  ]
+}

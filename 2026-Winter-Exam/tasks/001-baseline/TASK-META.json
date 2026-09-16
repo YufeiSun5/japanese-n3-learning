@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "taskId": "JP-N3-001",
+  "taskType": "baseline",
+  "title": "初次互动与起点观察",
+  "deliveryUnit": "一份有实际互动依据、注明未测边界的起点观察和下一步建议",
+  "scope": {
+    "in": [
+      "了解学习所需的背景",
+      "一次低压力短互动中的理解观察",
+      "音频条件允许时观察真实听力",
+      "形成下一步小目标和首个教法假设"
+    ],
+    "out": [
+      "强制摸底考试",
+      "判定正式 JLPT 等级或合格概率",
+      "在未互动时编造能力档案",
+      "提前布置整套课表"
+    ]
+  },
+  "status": "active",
+  "currentStage": "short-scene-interaction",
+  "owner": "tutor",
+  "dependencies": [],
+  "skills": [],
+  "instructions": [
+    ".ai/instructions/teaching.md",
+    ".ai/instructions/adaptive-tutoring.md",
+    ".ai/instructions/material-design.md",
+    ".ai/docs/task-policy.md"
+  ],
+  "deliverables": [
+    "2026-Winter-Exam/tasks/001-baseline/README.md",
+    "2026-Winter-Exam/tasks/001-baseline/学习目标与计划.md",
+    "2026-Winter-Exam/tasks/001-baseline/练习.md",
+    "2026-Winter-Exam/tasks/001-baseline/作答与反馈.md",
+    "2026-Winter-Exam/tasks/001-baseline/验收与证据.md",
+    "2026-Winter-Exam/tasks/001-baseline/接续与变更.md",
+    "2026-Winter-Exam/tasks/001-baseline/教法探索.md"
+  ],
+  "acceptanceStatus": "partial",
+  "acceptedExceptions": [],
+  "activeChange": null,
+  "createdAt": "2026-09-08T20:15:22+08:00",
+  "updatedAt": "2026-09-14T13:55:42+08:00"
+}

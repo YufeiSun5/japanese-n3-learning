@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.0",
+  "createdAt": "2026-09-08T20:22:22+08:00",
+  "preexistingDirectories": [
+    "2026-Winter-Exam"
+  ],
+  "files": [
+    {
+      "path": ".ai/agents/README.md",
+      "sha256": "47967e9db5395c24453cfb9957745156e269e793157f773e97554b6eadf4aa05"
+    },
+    {
+      "path": ".ai/agents/tutor.md",
+      "sha256": "35dabc3fe65ded062bd82dfa662b0fd28d51b2c1763568eb71edf91639dee1eb"
+    },
+    {
+      "path": ".ai/docs/README.md",
+      "sha256": "3ee93d3d812416a2dc259f51723d8020af9560802f8d65e73ef4bad3375e4734"
+    },
+    {
+      "path": ".ai/docs/task-policy.md",
+      "sha256": "71bbe5b4e2935b9985d97f8dbefdbbecd37a8e59f35bd1df7d406bdaf40a287c"
+    },
+    {
+      "path": ".ai/instructions/README.md",
+      "sha256": "17ef1f8443000dabe07ba4f6ad9353fc56811d68af2d8d901a58396cc374b93a"
+    },
+    {
+      "path": ".ai/instructions/adaptive-tutoring.md",
+      "sha256": "568307a7fb3c240e3972f699e4a6dc752b9fef7045d631dd25b012c47d41115c"
+    },
+    {
+      "path": ".ai/instructions/material-design.md",
+      "sha256": "3db47c22c951098b212205a6327ded5647cc7705459e32ad7eebfe9f91b83375"
+    },
+    {
+      "path": ".ai/instructions/teaching.md",
+      "sha256": "ff7d1f983f7e2a377fed24390ca3b291bf9535dc37120bd1810e081c42c5cc5f"
+    },
+    {
+      "path": ".ai/interactions/INDEX.md",
+      "sha256": "028e01fde1bbec1cfcc8ca9d46d92d291f1440b46af50bc0ff3329af94008aca"
+    },
+    {
+      "path": ".ai/interactions/README.md",
+      "sha256": "c5e012eb98323810716e2cd85082040fbfe557b43106e5b88677b20f75826475"
+    },
+    {
+      "path": ".ai/skills/README.md",
+      "sha256": "efca2a12d103c6b8b7103b88a80d87378ea79b2090619ee0d268e06a59145463"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "cb50e7dacb32ef0e2a27d50e6f96fe64282fb1b05b3825b2ea263256d48e8e7c"
+    },
+    {
+      "path": "2026-Winter-Exam/README.md",
+      "sha256": "b8c8285bf8a8920f2bd3ba8024651ffde15cfa0cf0f721a9c269bb26b81c3edb"
+    },
+    {
+      "path": "2026-Winter-Exam/exam-brief.md",
+      "sha256": "c3c9d6468ed027336f88435bb2c4e7038196b958f6a505f3fb82706468d4770e"
+    },
+    {
+      "path": "2026-Winter-Exam/resources.md",
+      "sha256": "eda7042b64beae057ae75eef250ac8e7c35cd2c156e6643ac437ba9d20dc24bd"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/README.md",
+      "sha256": "4248d18419864f4e0b468e5f0a47513e34a40c45f86af3c0034f3efeeaf7247c"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/TASK-META.json",
+      "sha256": "95b7718f5b0e03b35222d379a959f0c1620d6b941771483d32560c51f91fd774"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/structure-check.json",
+      "sha256": "16b959550fb0939f8892f876ea5236f42b5a281f7c6852429be4268de8207aaa"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/作答与反馈.md",
+      "sha256": "39afa195f008cb419c68045e7c61512c20adc0b67adc732baac3ae78b8380ac9"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/学习目标与计划.md",
+      "sha256": "573c0fec50d3fed74f4048f4a819f9c9f92135675a38acfb23cdea79b93873ba"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/接续与变更.md",
+      "sha256": "76d4fb7ec67e2449b9a10c4af408b34ec8aab91ab2ae1ad97293deeff1007d49"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/教法探索.md",
+      "sha256": "667d24c4a455c5ae7139cfa1288fd81b705436b24103b2107ec74c3247c65f47"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/练习.md",
+      "sha256": "c9d84f956a6878f5685051425458e20a5e0e390d5e05a902b94647b6a6899481"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/000-project-setup/验收与证据.md",
+      "sha256": "db388705a32b3a4ecfa0c7317d2d84389e58391cef75840154a4bbf42ef1bd48"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/README.md",
+      "sha256": "6ca4c3678d7451fc4a87704a5be865d877166b5dd621c8ce43e3b2a275d4f91f"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/TASK-META.json",
+      "sha256": "3ae588d49f4ccb2279feab0c8e81fc6de685a3d6b5600ece654adb60b301f689"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/作答与反馈.md",
+      "sha256": "2fbf8672031043bfd56e1f90bac1367f9c57cb38691c704b45b5a1395c39c689"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/学习目标与计划.md",
+      "sha256": "a7f4f51c54a4a6033c7781a5c34fe7951d1642bc02318ac81203dadda787879c"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/接续与变更.md",
+      "sha256": "35fb0c2eed64d9ec4d95f35d3134aaa09088fd68944273f31a3dfd30aab6eeee"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/教法探索.md",
+      "sha256": "3983e70ab49ab21f49beadd13317b0cdea2937575b8c11020ba2567951c0fb2d"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/练习.md",
+      "sha256": "d65fc0ba8889572e2faca18c9a5d5db0778e82a33ac28e18149e328c7655c233"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/001-baseline/验收与证据.md",
+      "sha256": "0a79681d7fa198b3d95b8636f265f2a3963bc6586bd0a6ecd377e7d61e2d1427"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/README.md",
+      "sha256": "1c19ddff63d181274c7230fc7a4cbff99ef57cc2c0d28b23ecf4e24e6d144f0c"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/TASK-META.json",
+      "sha256": "4ac0e25c035d7fc79831e410f907fc2c6b8e23885ebd38e06b716b79a3df2c30"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/作答与反馈.md",
+      "sha256": "1fd4b0a81d78f22cfd63eeb063ff852feb4ac2c616225b952bde5fdbb666c177"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/学习目标与计划.md",
+      "sha256": "20fc714b3a7b6e5456e0c5f5ceb50965aee17cb0b191e53d1fe5a44c41e5ad6d"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/接续与变更.md",
+      "sha256": "c8bce31aeb05ce04b30c07b2d898d3bcdc4568af3c821f667d61c5e11ffc9604"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/教法探索.md",
+      "sha256": "4b28eabae96114732530d89d8aef43488ec15cb96236a94a9a9176d4a4606a71"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/练习.md",
+      "sha256": "eab070a8212b238d485aacec4c5c98cbc9bd5cf28faab7c9018be3e525879552"
+    },
+    {
+      "path": "2026-Winter-Exam/templates/learning-task/验收与证据.md",
+      "sha256": "bdf3c0ac19258961c636d95251c0c0f2143ee82a3d71b11e5173809f758e0ed2"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "95ce723ae91ab1031331507a838cec4a99cac8bbb7f9675894dd5aab1da65c1a"
+    },
+    {
+      "path": "AI-INTERACTION-PANEL.md",
+      "sha256": "34c2f57c6222ea666f04626ce78fd7f51fa87aa777d9dadb4c30fd7cf19552cb"
+    },
+    {
+      "path": "MEMORY.md",
+      "sha256": "7a71eece4b1fb4b8af256d799a09817b5d07038e910601a0eb70668ef4490855"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2a06ca2aecbe1a52313d429a1fe215c340623cb63406a163827fe16877e69b90"
+    },
+    {
+      "path": "tools/check_project.py",
+      "sha256": "b2672964befe85c3ed43965184253bf62d9400b54827f105fc34d760d4584f3e"
+    }
+  ],
+  "notes": "Final initialization snapshot for scoped recovery; includes source, documentation and validation evidence. This newly created manifest is not self-hashed. Preserve later edits and user learning records."
+}

@@ -1,0 +1,2689 @@
+{
+  "schemaVersion": "1.0",
+  "purpose": "Small evidence-based priority layer, not an exhaustive frequency ranking",
+  "officialScope": "2012 and 2018 N3 vocabulary, sections 1/2/4/5; section 3, grammar, reading and listening not inventoried",
+  "entries": [
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "zh": "首都",
+      "simpleEn": "capital city",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 1,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "首都",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "地球",
+      "reading": "ちきゅう",
+      "zh": "地球",
+      "simpleEn": "Earth",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 2,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "地球",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "遅れる",
+      "reading": "おくれる",
+      "zh": "迟到；延迟；落后",
+      "simpleEn": "be late; be delayed",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 3,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "遅れて",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "zh": "合作；协助",
+      "simpleEn": "cooperation",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 4,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "協力",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "zh": "应征；申请参加",
+      "simpleEn": "apply for an opening or opportunity",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 5,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "応募",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "疑問",
+      "reading": "ぎもん",
+      "zh": "疑问；疑惑",
+      "simpleEn": "doubt; question",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 6,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "疑問",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "zh": "发表；公布",
+      "simpleEn": "announcement; presentation",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 7,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "発表",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "zh": "单词",
+      "simpleEn": "word",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "按单词理解，不沿用原表 usually single-character word 的误导性说明。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 8,
+          "pdfPage": 3,
+          "printedPage": 5,
+          "questionType": "reading",
+          "observedTarget": "単語",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "zh": "解决",
+      "simpleEn": "solution; resolution",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 9,
+          "pdfPage": 4,
+          "printedPage": 6,
+          "questionType": "orthography",
+          "observedTarget": "かいけつ",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "zh": "引导；指引",
+      "simpleEn": "guidance; showing someone around",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 10,
+          "pdfPage": 4,
+          "printedPage": 6,
+          "questionType": "orthography",
+          "observedTarget": "あんない",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "zh": "健康",
+      "simpleEn": "health",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 11,
+          "pdfPage": 4,
+          "printedPage": 6,
+          "questionType": "orthography",
+          "observedTarget": "けんこう",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "zh": "气温",
+      "simpleEn": "air temperature",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 12,
+          "pdfPage": 4,
+          "printedPage": 6,
+          "questionType": "orthography",
+          "observedTarget": "きおん",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "痛い",
+      "reading": "いたい",
+      "zh": "疼痛的",
+      "simpleEn": "painful",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 13,
+          "pdfPage": 4,
+          "printedPage": 6,
+          "questionType": "orthography",
+          "observedTarget": "いたい",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "大量",
+      "reading": "たいりょう",
+      "zh": "大量",
+      "simpleEn": "a large amount",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 14,
+          "pdfPage": 4,
+          "printedPage": 6,
+          "questionType": "orthography",
+          "observedTarget": "たいりょう",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "zh": "上下班通勤",
+      "simpleEn": "commuting to work",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 24,
+          "pdfPage": 6,
+          "printedPage": 8,
+          "questionType": "paraphrase",
+          "observedTarget": "通勤しています",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "恐ろしい",
+      "reading": "おそろしい",
+      "zh": "可怕的",
+      "simpleEn": "frightening",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 25,
+          "pdfPage": 6,
+          "printedPage": 8,
+          "questionType": "paraphrase",
+          "observedTarget": "おそろしい",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "訳",
+      "reading": "わけ",
+      "zh": "缘故；理由",
+      "simpleEn": "reason",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "本次目标读わけ，不能与翻译义的やく混淆。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 26,
+          "pdfPage": 6,
+          "printedPage": 8,
+          "questionType": "paraphrase",
+          "observedTarget": "わけ",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "zh": "减少",
+      "simpleEn": "decrease",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 27,
+          "pdfPage": 6,
+          "printedPage": 8,
+          "questionType": "paraphrase",
+          "observedTarget": "へった",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "やり直す",
+      "reading": "やりなおす",
+      "zh": "重新做",
+      "simpleEn": "do again; redo",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 28,
+          "pdfPage": 6,
+          "printedPage": 8,
+          "questionType": "paraphrase",
+          "observedTarget": "やりなおした",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "転ぶ",
+      "reading": "ころぶ",
+      "zh": "摔倒",
+      "simpleEn": "fall over",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 29,
+          "pdfPage": 7,
+          "printedPage": 9,
+          "questionType": "usage",
+          "observedTarget": "ころぶ",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "指示",
+      "reading": "しじ",
+      "zh": "指示；指令",
+      "simpleEn": "instruction",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 30,
+          "pdfPage": 7,
+          "printedPage": 9,
+          "questionType": "usage",
+          "observedTarget": "指示",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "見送る",
+      "reading": "みおくる",
+      "zh": "送行；暂缓",
+      "simpleEn": "see someone off; postpone",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "2012用法题的送行义与工作中暂缓/不采用的用法要区分。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 31,
+          "pdfPage": 7,
+          "printedPage": 9,
+          "questionType": "usage",
+          "observedTarget": "見送る",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "植える",
+      "reading": "うえる",
+      "zh": "种植",
+      "simpleEn": "plant",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 32,
+          "pdfPage": 7,
+          "printedPage": 9,
+          "questionType": "usage",
+          "observedTarget": "植える",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "zh": "诚实；坦率",
+      "simpleEn": "honest; frank",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2012-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+          "question": 33,
+          "pdfPage": 7,
+          "printedPage": 9,
+          "questionType": "usage",
+          "observedTarget": "正直",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "zh": "观众",
+      "simpleEn": "audience; spectator",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 1,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "観客",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "払う",
+      "reading": "はらう",
+      "zh": "支付；拂去",
+      "simpleEn": "pay; brush off",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 2,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "払って",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "到着",
+      "reading": "とうちゃく",
+      "zh": "到达",
+      "simpleEn": "arrival",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 3,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "到着",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "加える",
+      "reading": "くわえる",
+      "zh": "添加；加入",
+      "simpleEn": "add",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 4,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "加えました",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "訓練",
+      "reading": "くんれん",
+      "zh": "训练",
+      "simpleEn": "training",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 5,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "訓練",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "豆",
+      "reading": "まめ",
+      "zh": "豆子",
+      "simpleEn": "bean",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 6,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "豆",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "zh": "共同；共通",
+      "simpleEn": "shared; common",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 7,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "共通",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "税金",
+      "reading": "ぜいきん",
+      "zh": "税款",
+      "simpleEn": "tax",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 8,
+          "pdfPage": 3,
+          "printedPage": 1,
+          "questionType": "reading",
+          "observedTarget": "税金",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "波",
+      "reading": "なみ",
+      "zh": "波浪",
+      "simpleEn": "wave",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 9,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "questionType": "orthography",
+          "observedTarget": "なみ",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "速い",
+      "reading": "はやい",
+      "zh": "速度快的",
+      "simpleEn": "fast",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "此处为速度快；早い可表示时间早，不混用。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 10,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "questionType": "orthography",
+          "observedTarget": "はやく",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "zh": "满足；满意",
+      "simpleEn": "satisfaction",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 11,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "questionType": "orthography",
+          "observedTarget": "まんぞく",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "組む",
+      "reading": "くむ",
+      "zh": "组合；交叉；编组",
+      "simpleEn": "put together; cross; form a group",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "本次官方目标在交叉双臂的语境；另有组成、编组等义。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 12,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "questionType": "orthography",
+          "observedTarget": "くんで",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "輸出",
+      "reading": "ゆしゅつ",
+      "zh": "出口贸易",
+      "simpleEn": "export",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 13,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "questionType": "orthography",
+          "observedTarget": "ゆしゅつ",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "眠る",
+      "reading": "ねむる",
+      "zh": "睡觉",
+      "simpleEn": "sleep",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 14,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "questionType": "orthography",
+          "observedTarget": "ねむって",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "輝く",
+      "reading": "かがやく",
+      "zh": "发光；闪耀",
+      "simpleEn": "shine",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 26,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "questionType": "paraphrase",
+          "observedTarget": "かがやいて",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "がっかり",
+      "reading": "がっかり",
+      "zh": "失望；沮丧",
+      "simpleEn": "disappointed",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 27,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "questionType": "paraphrase",
+          "observedTarget": "がっかりした",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "zh": "当然；理所当然",
+      "simpleEn": "of course; natural",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 28,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "questionType": "paraphrase",
+          "observedTarget": "当然",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "余る",
+      "reading": "あまる",
+      "zh": "剩余；多出来",
+      "simpleEn": "be left over",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 29,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "questionType": "paraphrase",
+          "observedTarget": "あまりました",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "横断禁止",
+      "reading": "おうだんきんし",
+      "zh": "禁止横穿",
+      "simpleEn": "no crossing",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "官方下划线目标为横断禁止です；词库保留横断禁止这一表达，不把它伪装成单个词。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 30,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "questionType": "paraphrase",
+          "observedTarget": "横断禁止です",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "急",
+      "reading": "きゅう",
+      "zh": "突然；紧急；陡峭",
+      "simpleEn": "sudden; urgent; steep",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "官方用法题关注急に的突然性，不能一律理解为动作速度快。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 31,
+          "pdfPage": 7,
+          "printedPage": 5,
+          "questionType": "usage",
+          "observedTarget": "急",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "沸騰",
+      "reading": "ふっとう",
+      "zh": "沸腾",
+      "simpleEn": "boiling",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 32,
+          "pdfPage": 7,
+          "printedPage": 5,
+          "questionType": "usage",
+          "observedTarget": "沸騰",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "曲げる",
+      "reading": "まげる",
+      "zh": "使弯曲",
+      "simpleEn": "bend something",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 33,
+          "pdfPage": 7,
+          "printedPage": 5,
+          "questionType": "usage",
+          "observedTarget": "まげる",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "zh": "出差",
+      "simpleEn": "business trip",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 34,
+          "pdfPage": 7,
+          "printedPage": 5,
+          "questionType": "usage",
+          "observedTarget": "出張",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "慰める",
+      "reading": "なぐさめる",
+      "zh": "安慰",
+      "simpleEn": "comfort someone",
+      "tags": [
+        "official-sample"
+      ],
+      "note": "释义为教师整理的学习释义；按语境选义，不是官方译文。",
+      "officialEvidence": [
+        {
+          "sourceId": "jlpt-workbook-2018-n3-vocabulary",
+          "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+          "question": 35,
+          "pdfPage": 7,
+          "printedPage": 5,
+          "questionType": "usage",
+          "observedTarget": "慰める",
+          "role": "tested-target",
+          "verification": "visual page review; canonical headword normalized by tutor"
+        }
+      ],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "場合",
+      "reading": "ばあい",
+      "zh": "情况；场合",
+      "simpleEn": "case; situation",
+      "tags": [
+        "logic"
+      ],
+      "note": "用于引出适用条件。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "zh": "必要；需要",
+      "simpleEn": "necessary; required",
+      "tags": [
+        "logic"
+      ],
+      "note": "注意必要な与必要がある的接续。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "zh": "预定；计划",
+      "simpleEn": "plan; schedule",
+      "tags": [
+        "daily"
+      ],
+      "note": "与约定、预约区分。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "zh": "预约；预订",
+      "simpleEn": "reservation",
+      "tags": [
+        "daily"
+      ],
+      "note": "预约席位或服务等。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "約束",
+      "reading": "やくそく",
+      "zh": "约定；承诺",
+      "simpleEn": "promise; arrangement",
+      "tags": [
+        "daily"
+      ],
+      "note": "与予約、予定比较。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "zh": "联系；通知",
+      "simpleEn": "contact; notification",
+      "tags": [
+        "daily"
+      ],
+      "note": "留意联系对象和方式。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "zh": "确认；核实",
+      "simpleEn": "check; confirmation",
+      "tags": [
+        "workflow"
+      ],
+      "note": "先核实再执行。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "変更",
+      "reading": "へんこう",
+      "zh": "变更；修改",
+      "simpleEn": "change; modification",
+      "tags": [
+        "workflow"
+      ],
+      "note": "注意变更对象。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "zh": "中止；取消",
+      "simpleEn": "cancellation; stopping",
+      "tags": [
+        "workflow"
+      ],
+      "note": "与延期、終了区分。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "zh": "准备",
+      "simpleEn": "preparation",
+      "tags": [
+        "workflow"
+      ],
+      "note": "准备什么、为谁准备。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "zh": "参加",
+      "simpleEn": "participation",
+      "tags": [
+        "daily"
+      ],
+      "note": "参加活动通常用に。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "zh": "利用；使用",
+      "simpleEn": "use",
+      "tags": [
+        "workflow"
+      ],
+      "note": "常与设施、服务等搭配。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "zh": "使用",
+      "simpleEn": "use",
+      "tags": [
+        "workflow"
+      ],
+      "note": "同音的仕様属于另一词。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "zh": "方法",
+      "simpleEn": "method; way",
+      "tags": [
+        "logic"
+      ],
+      "note": "对应如何执行。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "zh": "理由",
+      "simpleEn": "reason",
+      "tags": [
+        "logic"
+      ],
+      "note": "区分说明的理由与实际原因。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "原因",
+      "reading": "げんいん",
+      "zh": "原因",
+      "simpleEn": "cause",
+      "tags": [
+        "logic"
+      ],
+      "note": "对应导致结果的因素。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "結果",
+      "reading": "けっか",
+      "zh": "结果",
+      "simpleEn": "result",
+      "tags": [
+        "logic"
+      ],
+      "note": "对应条件或行为之后的状态。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "条件",
+      "reading": "じょうけん",
+      "zh": "条件",
+      "simpleEn": "condition",
+      "tags": [
+        "logic"
+      ],
+      "note": "先看条件是否满足。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "状態",
+      "reading": "じょうたい",
+      "zh": "状态",
+      "simpleEn": "state; condition",
+      "tags": [
+        "workflow"
+      ],
+      "note": "可用于描述操作前后状态。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "内容",
+      "reading": "ないよう",
+      "zh": "内容",
+      "simpleEn": "content",
+      "tags": [
+        "logic"
+      ],
+      "note": "常指通知或输入的内容。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "zh": "说明；解释",
+      "simpleEn": "explanation",
+      "tags": [
+        "logic"
+      ],
+      "note": "阅读时找被说明的对象。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "意味",
+      "reading": "いみ",
+      "zh": "意思；含义",
+      "simpleEn": "meaning",
+      "tags": [
+        "logic"
+      ],
+      "note": "同一词在不同语境可能不同义。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "関係",
+      "reading": "かんけい",
+      "zh": "关系；关联",
+      "simpleEn": "relationship",
+      "tags": [
+        "logic"
+      ],
+      "note": "注意实体之间的关系。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "比較",
+      "reading": "ひかく",
+      "zh": "比较",
+      "simpleEn": "comparison",
+      "tags": [
+        "logic"
+      ],
+      "note": "识别比较对象与标准。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "zh": "选择",
+      "simpleEn": "selection; choice",
+      "tags": [
+        "workflow"
+      ],
+      "note": "注意允许选几个。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "zh": "判断",
+      "simpleEn": "judgment",
+      "tags": [
+        "logic"
+      ],
+      "note": "不要把判断标准与结果混淆。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "zh": "决定；确定",
+      "simpleEn": "decision",
+      "tags": [
+        "workflow"
+      ],
+      "note": "区别暂定与已决定。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "zh": "可能；可行",
+      "simpleEn": "possible",
+      "tags": [
+        "constraint"
+      ],
+      "note": "可能不等于必须。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "無理",
+      "reading": "むり",
+      "zh": "勉强；不可能；不合理",
+      "simpleEn": "too difficult; unreasonable",
+      "tags": [
+        "constraint"
+      ],
+      "note": "不是在所有场景都绝对不可能。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "zh": "充分；足够",
+      "simpleEn": "enough; sufficient",
+      "tags": [
+        "constraint"
+      ],
+      "note": "这里读じゅうぶん；数时长另看十分钟。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "適当",
+      "reading": "てきとう",
+      "zh": "适当；随便敷衍",
+      "simpleEn": "suitable; careless",
+      "tags": [
+        "contrast"
+      ],
+      "note": "褒贬依语境判断，不能固定译成合适。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "zh": "准确的",
+      "simpleEn": "accurate",
+      "tags": [
+        "constraint"
+      ],
+      "note": "与正直区分。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "zh": "普通；通常",
+      "simpleEn": "ordinary; usual",
+      "tags": [
+        "daily"
+      ],
+      "note": "列车语境可指普通列车。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "zh": "特别",
+      "simpleEn": "special",
+      "tags": [
+        "daily"
+      ],
+      "note": "识别例外条件。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "zh": "重要；珍贵",
+      "simpleEn": "important; precious",
+      "tags": [
+        "daily"
+      ],
+      "note": "可表达珍视。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "zh": "重要",
+      "simpleEn": "important",
+      "tags": [
+        "logic"
+      ],
+      "note": "留意重要条件与说明。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "zh": "安全",
+      "simpleEn": "safe; safety",
+      "tags": [
+        "constraint"
+      ],
+      "note": "与危険对照。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "危険",
+      "reading": "きけん",
+      "zh": "危险",
+      "simpleEn": "dangerous; danger",
+      "tags": [
+        "constraint"
+      ],
+      "note": "不能只看熟悉汉字猜读音。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "以上",
+      "reading": "いじょう",
+      "zh": "不少于；以上",
+      "simpleEn": "at least; greater than or equal to",
+      "tags": [
+        "boundary"
+      ],
+      "note": "在数值门槛中包含边界；原表 more than 过简，教学采用 greater than or equal to。 例：10以上为>=10，包含10。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "以下",
+      "reading": "いか",
+      "zh": "不多于；以下",
+      "simpleEn": "at most; less than or equal to",
+      "tags": [
+        "boundary"
+      ],
+      "note": "在数值门槛中包含边界；原表 less than 过简，教学采用 less than or equal to。 例：10以下为<=10，包含10。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "以内",
+      "reading": "いない",
+      "zh": "以内；不超过",
+      "simpleEn": "within; no more than",
+      "tags": [
+        "boundary"
+      ],
+      "note": "需看单位与起算点，不能自动补全日期规则。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "以外",
+      "reading": "いがい",
+      "zh": "以外；除外",
+      "simpleEn": "other than; except",
+      "tags": [
+        "boundary"
+      ],
+      "note": "先确定排除的对象。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "zh": "最初；开始",
+      "simpleEn": "first; beginning",
+      "tags": [
+        "sequence"
+      ],
+      "note": "与最後配对理解。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "zh": "最后；末尾",
+      "simpleEn": "last; end",
+      "tags": [
+        "sequence"
+      ],
+      "note": "与最初配对理解。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "zh": "最近",
+      "simpleEn": "recently",
+      "tags": [
+        "sequence"
+      ],
+      "note": "不是严格的固定天数。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "zh": "将来",
+      "simpleEn": "future",
+      "tags": [
+        "sequence"
+      ],
+      "note": "表达未来展望。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "zh": "现在；当前",
+      "simpleEn": "now; current",
+      "tags": [
+        "sequence"
+      ],
+      "note": "式样书中注意当前状态。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "過去",
+      "reading": "かこ",
+      "zh": "过去",
+      "simpleEn": "past",
+      "tags": [
+        "sequence"
+      ],
+      "note": "对应历史记录等。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "zh": "以前；之前",
+      "simpleEn": "before; previously",
+      "tags": [
+        "sequence"
+      ],
+      "note": "时间端点是否包含须看完整规定，不机械套数值规则。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "途中",
+      "reading": "とちゅう",
+      "zh": "途中；过程中",
+      "simpleEn": "on the way; in the middle",
+      "tags": [
+        "sequence"
+      ],
+      "note": "关注中断发生的阶段。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "zh": "直接",
+      "simpleEn": "directly",
+      "tags": [
+        "logic"
+      ],
+      "note": "与间接表达区分。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "必ず",
+      "reading": "かならず",
+      "zh": "一定；务必",
+      "simpleEn": "always; without fail",
+      "tags": [
+        "constraint"
+      ],
+      "note": "不与多分混淆。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "きっと",
+      "reading": "きっと",
+      "zh": "一定会；想必",
+      "simpleEn": "surely; probably with confidence",
+      "tags": [
+        "logic"
+      ],
+      "note": "说话者的确信不等于形式化保证。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "多分",
+      "reading": "たぶん",
+      "zh": "大概；也许",
+      "simpleEn": "probably",
+      "tags": [
+        "logic"
+      ],
+      "note": "表示推测，不能当确定事实。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "もし",
+      "reading": "もし",
+      "zh": "如果；假如",
+      "simpleEn": "if",
+      "tags": [
+        "logic"
+      ],
+      "note": "需要结合后面的条件表达。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "例えば",
+      "reading": "たとえば",
+      "zh": "例如",
+      "simpleEn": "for example",
+      "tags": [
+        "logic"
+      ],
+      "note": "例子不一定穷尽全部情况。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "つまり",
+      "reading": "つまり",
+      "zh": "也就是说；总之",
+      "simpleEn": "in other words",
+      "tags": [
+        "logic"
+      ],
+      "note": "帮助抓住改述后的意思。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "ところが",
+      "reading": "ところが",
+      "zh": "然而；可是",
+      "simpleEn": "however; unexpectedly",
+      "tags": [
+        "logic"
+      ],
+      "note": "常引出与预期不符的情况。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "それでも",
+      "reading": "それでも",
+      "zh": "即使如此；尽管如此",
+      "simpleEn": "even so",
+      "tags": [
+        "logic"
+      ],
+      "note": "先理解前面的条件或困难。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "それぞれ",
+      "reading": "それぞれ",
+      "zh": "各自；分别",
+      "simpleEn": "each; respectively",
+      "tags": [
+        "logic"
+      ],
+      "note": "对应对象与各自行为。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "それほど",
+      "reading": "それほど",
+      "zh": "那么；那种程度",
+      "simpleEn": "to that extent",
+      "tags": [
+        "logic"
+      ],
+      "note": "与否定搭配时常为没那么。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "筈",
+      "reading": "はず",
+      "zh": "按理应该；预期",
+      "simpleEn": "should; expected to",
+      "tags": [
+        "logic"
+      ],
+      "note": "通常写はず；不等于命令。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "積もり",
+      "reading": "つもり",
+      "zh": "打算；意图",
+      "simpleEn": "intention",
+      "tags": [
+        "logic"
+      ],
+      "note": "此义通常写つもり；区别客观计划与个人意图。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "為",
+      "reading": "ため",
+      "zh": "为了；因为",
+      "simpleEn": "for; because of",
+      "tags": [
+        "logic"
+      ],
+      "note": "此义常写ため；依据上下文区分目的与原因。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "おかげ",
+      "reading": "おかげ",
+      "zh": "多亏；由于",
+      "simpleEn": "thanks to",
+      "tags": [
+        "logic"
+      ],
+      "note": "常含积极结果，也可能用于反语。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "所為",
+      "reading": "せい",
+      "zh": "由于；归咎于",
+      "simpleEn": "because of; fault",
+      "tags": [
+        "logic"
+      ],
+      "note": "通常写せい；一般关联负面结果。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "通り",
+      "reading": "とおり",
+      "zh": "按照；道路",
+      "simpleEn": "as; in accordance with; street",
+      "tags": [
+        "logic"
+      ],
+      "note": "先判断词义；本条读とおり。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "保存",
+      "reading": "ほぞん",
+      "zh": "保存；储存",
+      "simpleEn": "save; preservation",
+      "tags": [
+        "workflow"
+      ],
+      "note": "软件中需读出保存对象与位置。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "zh": "处理",
+      "simpleEn": "processing",
+      "tags": [
+        "workflow"
+      ],
+      "note": "关注输入、结果和错误分支。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "異常",
+      "reading": "いじょう",
+      "zh": "异常",
+      "simpleEn": "abnormal; error condition",
+      "tags": [
+        "workflow"
+      ],
+      "note": "与数值用语以上同音，按语境区分。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "zh": "对象；目标",
+      "simpleEn": "target; subject",
+      "tags": [
+        "workflow"
+      ],
+      "note": "明确操作作用于谁或什么。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "zh": "要求；请求",
+      "simpleEn": "requirement; request",
+      "tags": [
+        "workflow"
+      ],
+      "note": "API请求与需求含义按语境区分。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "制限",
+      "reading": "せいげん",
+      "zh": "限制",
+      "simpleEn": "limit; restriction",
+      "tags": [
+        "constraint"
+      ],
+      "note": "明确限制对象与边界。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "完了",
+      "reading": "かんりょう",
+      "zh": "完成",
+      "simpleEn": "completion",
+      "tags": [
+        "workflow"
+      ],
+      "note": "不自动推断成功，须看错误和完成定义。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "zh": "开始",
+      "simpleEn": "start",
+      "tags": [
+        "workflow"
+      ],
+      "note": "识别触发条件。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "zh": "执行；实行",
+      "simpleEn": "execution; carry out",
+      "tags": [
+        "workflow"
+      ],
+      "note": "常用于程序或动作。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "成功",
+      "reading": "せいこう",
+      "zh": "成功",
+      "simpleEn": "success",
+      "tags": [
+        "workflow"
+      ],
+      "note": "与失敗配对理解。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "zh": "失败；失误",
+      "simpleEn": "failure; mistake",
+      "tags": [
+        "workflow"
+      ],
+      "note": "关注失败后的行为。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "zh": "行动",
+      "simpleEn": "action",
+      "tags": [
+        "story"
+      ],
+      "note": "用于人物行为，非原作台词。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "秘密",
+      "reading": "ひみつ",
+      "zh": "秘密",
+      "simpleEn": "secret",
+      "tags": [
+        "story"
+      ],
+      "note": "兴趣场景候选，不声称取自原作。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "影",
+      "reading": "かげ",
+      "zh": "影子；阴影",
+      "simpleEn": "shadow",
+      "tags": [
+        "story"
+      ],
+      "note": "作为兴趣入口，不等于官方词频。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "zh": "同伴；伙伴",
+      "simpleEn": "companion; teammate",
+      "tags": [
+        "story"
+      ],
+      "note": "注意人物关系。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "zh": "目的；目标",
+      "simpleEn": "purpose; goal",
+      "tags": [
+        "story"
+      ],
+      "note": "也可连接软件功能目的。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "zh": "计划",
+      "simpleEn": "plan",
+      "tags": [
+        "story"
+      ],
+      "note": "计划内容与实际结果分别理解。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "命令",
+      "reading": "めいれい",
+      "zh": "命令；指令",
+      "simpleEn": "order; command",
+      "tags": [
+        "story"
+      ],
+      "note": "现实交流语气需区别；也可用于软件指令。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "能力",
+      "reading": "のうりょく",
+      "zh": "能力",
+      "simpleEn": "ability",
+      "tags": [
+        "story"
+      ],
+      "note": "兴趣场景候选。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "守る",
+      "reading": "まもる",
+      "zh": "保护；遵守",
+      "simpleEn": "protect; follow rules",
+      "tags": [
+        "story"
+      ],
+      "note": "保护同伴与遵守规则是不同搭配。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "戦う",
+      "reading": "たたかう",
+      "zh": "战斗；斗争",
+      "simpleEn": "fight",
+      "tags": [
+        "story"
+      ],
+      "note": "非原作引用。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "隠す",
+      "reading": "かくす",
+      "zh": "隐藏某物",
+      "simpleEn": "hide something",
+      "tags": [
+        "contrast"
+      ],
+      "note": "与隠れる构成他动/自动对照。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "隠れる",
+      "reading": "かくれる",
+      "zh": "躲藏；被遮住",
+      "simpleEn": "hide oneself; be hidden",
+      "tags": [
+        "contrast"
+      ],
+      "note": "与隠す比较主体和对象。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "信じる",
+      "reading": "しんじる",
+      "zh": "相信",
+      "simpleEn": "believe",
+      "tags": [
+        "story"
+      ],
+      "note": "先理解人物态度。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "助ける",
+      "reading": "たすける",
+      "zh": "帮助；救助",
+      "simpleEn": "help; rescue",
+      "tags": [
+        "story"
+      ],
+      "note": "非原作引用。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "表示",
+      "reading": "ひょうじ",
+      "zh": "显示；表示",
+      "simpleEn": "display",
+      "tags": [
+        "software"
+      ],
+      "note": "工作补充；未列入当前参考表不代表不考。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "入力",
+      "reading": "にゅうりょく",
+      "zh": "输入",
+      "simpleEn": "input",
+      "tags": [
+        "software"
+      ],
+      "note": "工作补充；需结合输入项和约束。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "出力",
+      "reading": "しゅつりょく",
+      "zh": "输出",
+      "simpleEn": "output",
+      "tags": [
+        "software"
+      ],
+      "note": "工作补充；注意输出格式。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "削除",
+      "reading": "さくじょ",
+      "zh": "删除",
+      "simpleEn": "delete",
+      "tags": [
+        "software"
+      ],
+      "note": "区分删除对象与触发条件。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "更新",
+      "reading": "こうしん",
+      "zh": "更新",
+      "simpleEn": "update",
+      "tags": [
+        "software"
+      ],
+      "note": "区分更新字段与更新时机。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "登録",
+      "reading": "とうろく",
+      "zh": "登记；注册",
+      "simpleEn": "register",
+      "tags": [
+        "software"
+      ],
+      "note": "系统操作的具体含义看式样。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "設定",
+      "reading": "せってい",
+      "zh": "设置；配置",
+      "simpleEn": "setting; configuration",
+      "tags": [
+        "software"
+      ],
+      "note": "不凭经验补默认值。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "正常",
+      "reading": "せいじょう",
+      "zh": "正常",
+      "simpleEn": "normal",
+      "tags": [
+        "software"
+      ],
+      "note": "与異常对照。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "項目",
+      "reading": "こうもく",
+      "zh": "项目；字段",
+      "simpleEn": "item; field",
+      "tags": [
+        "software"
+      ],
+      "note": "不是所有項目都指数据库字段。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "画面",
+      "reading": "がめん",
+      "zh": "画面；界面",
+      "simpleEn": "screen",
+      "tags": [
+        "software"
+      ],
+      "note": "画面式样书的基本对象。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "一覧",
+      "reading": "いちらん",
+      "zh": "一览；列表",
+      "simpleEn": "list; overview",
+      "tags": [
+        "software"
+      ],
+      "note": "不是唯一可能的界面呈现方式。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "仕様",
+      "reading": "しよう",
+      "zh": "规格；技术要求",
+      "simpleEn": "specification",
+      "tags": [
+        "software"
+      ],
+      "note": "与使用同音；仕様書读しようしょ。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "zh": "结束；终止",
+      "simpleEn": "end; finish",
+      "tags": [
+        "software"
+      ],
+      "note": "終了不必然等于成功完了。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "必須",
+      "reading": "ひっす",
+      "zh": "必需；必填",
+      "simpleEn": "required; mandatory",
+      "tags": [
+        "software"
+      ],
+      "note": "必填项是否允许空白须结合定义。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "任意",
+      "reading": "にんい",
+      "zh": "任意；可选",
+      "simpleEn": "optional; arbitrary",
+      "tags": [
+        "software"
+      ],
+      "note": "可选字段与任意值的语义依上下文。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "zh": "不足；小于",
+      "simpleEn": "less than",
+      "tags": [
+        "boundary"
+      ],
+      "note": "10未満为<10，不含10；工作补充。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "除く",
+      "reading": "のぞく",
+      "zh": "排除；除外",
+      "simpleEn": "exclude",
+      "tags": [
+        "software"
+      ],
+      "note": "先找被排除的对象。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "初期値",
+      "reading": "しょきち",
+      "zh": "初始值",
+      "simpleEn": "initial value",
+      "tags": [
+        "software"
+      ],
+      "note": "初始值与默认值在具体系统中不一定相同。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "戻り値",
+      "reading": "もどりち",
+      "zh": "返回值",
+      "simpleEn": "return value",
+      "tags": [
+        "software"
+      ],
+      "note": "关注类型、成功值和错误值。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "zh": "例外",
+      "simpleEn": "exception",
+      "tags": [
+        "software"
+      ],
+      "note": "一般例外与程序异常按上下文判断。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "zh": "实际能力；实力",
+      "simpleEn": "actual ability",
+      "tags": [
+        "story"
+      ],
+      "note": "来自用户兴趣的补充词，不宣称原表标为N3。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    },
+    {
+      "word": "正体",
+      "reading": "しょうたい",
+      "zh": "真实身份；真面目",
+      "simpleEn": "true identity",
+      "tags": [
+        "story"
+      ],
+      "note": "无剧透的兴趣补充词。",
+      "officialEvidence": [],
+      "glossProvenance": "tutor-authored, assistant-reviewed; not an official translation or independent dictionary audit",
+      "learnerEvidence": []
+    }
+  ]
+}

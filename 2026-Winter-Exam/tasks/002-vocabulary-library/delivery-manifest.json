@@ -1,0 +1,120 @@
+{
+  "createdAt": "2026-09-08T21:01:07+08:00",
+  "newFiles": [
+    {
+      "path": "2026-Winter-Exam/vocabulary/N3参考词表.md",
+      "sha256": "a7c242597a8cd3ee387f58c8664112c1bd8db88ef951ce44048d4075eac4e3af"
+    },
+    {
+      "path": "2026-Winter-Exam/vocabulary/README.md",
+      "sha256": "5599ec471c3f2025c4384e6f86b2389a258e93823208f940415dff3c7e57fb8b"
+    },
+    {
+      "path": "2026-Winter-Exam/vocabulary/SOURCES.md",
+      "sha256": "213eea98a47c68186e10d43042b3eaafc733cb634a3217d5a6523f5819a672c9"
+    },
+    {
+      "path": "2026-Winter-Exam/vocabulary/lexicon.json",
+      "sha256": "a07ce44b97ea8dda51f66d45ab12db57528f42643712c64965fc211ad164946f"
+    },
+    {
+      "path": "2026-Winter-Exam/vocabulary/quality-report.json",
+      "sha256": "1b36b9d811eb720ce5ca0ecdda26a6b222c3347d1b7178809852932359a8cc23"
+    },
+    {
+      "path": "2026-Winter-Exam/vocabulary/重点词.md",
+      "sha256": "24618256fdcddb6d36675fbafb2de4388e554e6542d6abaf1d3d82e6106edb6c"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/README.md",
+      "sha256": "6bf26ca9fdb5ae0709e3c64dc0d1096a8dad6615bde8bfee581dada4caf191dd"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/TASK-META.json",
+      "sha256": "44bd08d7e54e1548f7b7e029dfac368d0480a56a2d86b9f7b4f5877bccb66cdf"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/curated-input.json",
+      "sha256": "496286a23acec5c6d750074964cabb207cc28a91c6e26ae2f00be5ac2a9570de"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/official-review.json",
+      "sha256": "5715f325a21a979a9a775c679196ef4c48616ae481423303e7e52b079cdb421d"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/upstream/LICENSE.txt",
+      "sha256": "7abe19ec9bb73b36141b999b861d24ad855e808bafe0f81e84cce28556f6c297"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/upstream/README.txt",
+      "sha256": "4efd40eecf18c01a61ca54d4c1731daa0756a384b0f4ade551b43914a087869a"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/upstream/original_data__n3.csv",
+      "sha256": "bd4d68c59cfee861351e1bdf9d99818e434392201eabbed4d3657225fe53a3ac"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/upstream/original_data__n4.csv",
+      "sha256": "a14dcc7fdc02259b22331a486c6ff66df74c16472c8aeb5a0ebe7e5fa8ee8eb4"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/upstream/original_data__n5.csv",
+      "sha256": "07dc6f197b51cc076c65c3c9f23218d10c2b67f76545f5c1c4d9e3750495533a"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/assets/upstream/retrieval.json",
+      "sha256": "7a2920068e175a6269763fc59bcaa819b768ab199cdc0a40138dc7cac3332261"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/data-check.json",
+      "sha256": "90c6fb1a9be472d7787f66c5f6acc447984d7ab2e3e2ae0054a553daca1b7035"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/query-smoke.json",
+      "sha256": "74af452fe81aaf8b8e7b20c0f9536f12654c6810c96ec52fb49f947ec7029314"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/structure-check.json",
+      "sha256": "2feef4ae43f675c722832940dd9ecbdc0cc69b22948a078b1923174af7a88a2e"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/作答与反馈.md",
+      "sha256": "883f28d1b56f376d93d6f380a43b0531c2151cee5c6839f975f3cebe5f7a8f11"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/学习目标与计划.md",
+      "sha256": "9b1c6063d97b5fb4e68e128436ca21bf880edfaea5b67cd02d1ba0361d680b2c"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/接续与变更.md",
+      "sha256": "a6d85138db62ebab10d3589e68e1f0ad261a8099d003e772be26711b7281ba2e"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/教法探索.md",
+      "sha256": "4e14fc2706c02518381beacf70f83ca3fe2c215fe3d48d3522a44152ad37588b"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/练习.md",
+      "sha256": "983afaa6747f3a10eb222dbda76f3fd2428542f2ca9b5794139798d1a9f1e8cb"
+    },
+    {
+      "path": "2026-Winter-Exam/tasks/002-vocabulary-library/验收与证据.md",
+      "sha256": "971440f7eec3e477bc665e731935ea0d796d12da7cb2a1b4cc5af782bac42410"
+    },
+    {
+      "path": "tools/vocabulary.py",
+      "sha256": "aa80a915ebbe1bec6905b783e7b7e79f4fb833c057ddd2677f840a6c3f56c748"
+    }
+  ],
+  "manifestSelf": "This manifest is also new and is not self-hashed.",
+  "modifiedExistingFiles": [
+    "AGENTS.md",
+    ".ai/docs/task-policy.md",
+    ".ai/instructions/teaching.md",
+    "tools/check_project.py",
+    "2026-Winter-Exam/README.md",
+    "2026-Winter-Exam/resources.md"
+  ],
+  "restoreMap": "backups/restore.json",
+  "note": "Preserve later edits and learning records; initialization-manifest.json remains unchanged."
+}

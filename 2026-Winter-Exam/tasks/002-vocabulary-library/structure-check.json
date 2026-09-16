@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-09-08T21:01:07+08:00",
+  "status": "passed",
+  "checks": 358,
+  "markdownFiles": 50,
+  "localLinks": 80,
+  "taskPackages": 3,
+  "failures": [],
+  "limits": [
+    "No external link/audio availability check",
+    "No Japanese content or learning-outcome verification",
+    "No proof that all future edits follow governance; manual review remains necessary"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "taskId": "JP-N3-002",
+  "taskType": "resource-build",
+  "title": "N3 参考词库与有依据的优先词",
+  "deliveryUnit": "可追溯、可查询的参考词库及分层优先词",
+  "scope": {
+    "in": [
+      "完整导入选定公开来源的 N3/N4/N5 词表",
+      "官方样题目标词出现位置核对",
+      "三语优先词及软件/兴趣补充",
+      "来源、许可、清洗、校验与辅导接入"
+    ],
+    "out": [
+      "宣称官方完整范围或必考频率",
+      "全文复制考试材料",
+      "强制背诵或课程执行",
+      "声称所有基础释义已人工校审"
+    ]
+  },
+  "status": "closed",
+  "currentStage": "delivered",
+  "owner": "tutor",
+  "dependencies": [
+    "JP-N3-000"
+  ],
+  "skills": [],
+  "instructions": [
+    ".ai/instructions/teaching.md",
+    ".ai/instructions/adaptive-tutoring.md",
+    ".ai/instructions/material-design.md",
+    ".ai/docs/task-policy.md"
+  ],
+  "deliverables": [
+    "2026-Winter-Exam/vocabulary/README.md",
+    "2026-Winter-Exam/vocabulary/lexicon.json",
+    "2026-Winter-Exam/vocabulary/重点词.md",
+    "2026-Winter-Exam/vocabulary/SOURCES.md",
+    "2026-Winter-Exam/vocabulary/quality-report.json",
+    "tools/vocabulary.py",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/assets/curated-input.json",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/structure-check.json",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/data-check.json",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/query-smoke.json",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/验收与证据.md",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/接续与变更.md",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/assets/official-review.json",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/assets/upstream/retrieval.json",
+    "2026-Winter-Exam/tasks/002-vocabulary-library/delivery-manifest.json"
+  ],
+  "acceptanceStatus": "passed",
+  "acceptedExceptions": [],
+  "activeChange": null,
+  "createdAt": "2026-09-08T20:46:57+08:00",
+  "updatedAt": "2026-09-08T21:01:07+08:00"
+}

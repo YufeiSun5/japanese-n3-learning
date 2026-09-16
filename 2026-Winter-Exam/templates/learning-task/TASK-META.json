@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "taskId": "REPLACE-TASK-ID",
+  "taskType": "learning-unit",
+  "title": "填写具体学习目标",
+  "deliveryUnit": "填写一个最小可验收目标",
+  "scope": {
+    "in": [
+      "替换为具体范围"
+    ],
+    "out": [
+      "替换为明确边界"
+    ]
+  },
+  "status": "draft",
+  "currentStage": "planning",
+  "owner": "tutor",
+  "dependencies": [],
+  "skills": [],
+  "instructions": [
+    ".ai/instructions/teaching.md",
+    ".ai/instructions/adaptive-tutoring.md",
+    ".ai/instructions/material-design.md",
+    ".ai/docs/task-policy.md"
+  ],
+  "deliverables": [],
+  "acceptanceStatus": "not-started",
+  "acceptedExceptions": [],
+  "activeChange": null,
+  "createdAt": "REPLACE-ISO8601",
+  "updatedAt": "REPLACE-ISO8601"
+}

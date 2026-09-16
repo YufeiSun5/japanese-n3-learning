@@ -1,0 +1,95 @@
+{
+  "sourceRows": {
+    "N3": 1730,
+    "N4": 640,
+    "N5": 684
+  },
+  "sourceRowsTotal": 3054,
+  "sourceUniqueEntryIds": 2948,
+  "sourceUniqueEntryIdsByLevel": {
+    "N3": 1710,
+    "N4": 635,
+    "N5": 667
+  },
+  "duplicateOrVariantRowsConsolidated": 106,
+  "totalLibraryEntries": 2982,
+  "trilingualPriorityEntries": 162,
+  "officialSampleTargetEntries": 48,
+  "officialTargetsOutsideSelectedReferenceLists": 13,
+  "totalSupplementEntries": 34,
+  "missingOriginalEnglishRows": [
+    {
+      "source": "original_data__n3.csv",
+      "row": 216,
+      "word": "お目に掛かる"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 403,
+      "word": "急に"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 763,
+      "word": "小"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 884,
+      "word": "税"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 960,
+      "word": "それと"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 970,
+      "word": "大"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 1000,
+      "word": "だが"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 1120,
+      "word": "釣"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 1139,
+      "word": "できれば"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 1294,
+      "word": "ノー"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 1310,
+      "word": "はあ"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 1366,
+      "word": "番"
+    },
+    {
+      "source": "original_data__n3.csv",
+      "row": 1560,
+      "word": "密"
+    }
+  ],
+  "entriesWithoutChineseTeachingGloss": 2820,
+  "warnings": [
+    "No complete official JLPT vocabulary inventory exists.",
+    "48 selected targets cover only sections 1/2/4/5 of two vocabulary workbooks.",
+    "Priority tags are source evidence or tutor selection, not exam-frequency estimates.",
+    "Reference spellings and English definitions can be dated, incomplete or misleading.",
+    "No learner mastery, listening or retention evidence has been collected."
+  ]
+}

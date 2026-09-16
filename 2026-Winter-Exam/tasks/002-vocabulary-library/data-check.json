@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "sourceRowsPreserved": 3054,
+  "uniqueEntries": 2982,
+  "trilingualPriorityEntries": 162,
+  "officialTargetReferences": 48,
+  "checked": [
+    "upstream checksums",
+    "reproducible generated views",
+    "source row coverage",
+    "homophone separation",
+    "priority translations and official question references",
+    "numerical boundary corrections",
+    "no invented frequency or mastery"
+  ],
+  "limits": [
+    "No full dictionary audit",
+    "No complete official exam inventory",
+    "No learner performance test"
+  ],
+  "checkedAt": "2026-09-08T21:00:03+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "purpose": "教学调整观察，不是心理测量或JLPT评分",
+  "sessions": [
+    {
+      "date": "2026-09-16",
+      "source": "日常练习/2026-09-16.md",
+      "writtenEvidenceTurns": [
+        3,
+        6,
+        9,
+        11
+      ],
+      "finalCorrect": 4,
+      "observedWrittenTargets": 4,
+      "conditions": "均有范句和讲解；最终保存结果，不是首答准确率",
+      "correctedTargetsAtLeast": 1,
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "understandingObservation": "用户主动询问已学词义、动词形式、时间表达；抄写正确不证明独立理解",
+      "selfReportedLoad": "舒适但偏慢，希望轻微挑战；后表示不想学、要求收尾",
+      "motivationScore": null,
+      "motivationEvidence": "主动回来学习、主动追问、明确要求结束；不转成固定热情分",
+      "comparison": "与前次任务及提示条件不统一，不能量化能力增长或速度变化",
+      "nextAdjustment": "稍增信息变化，减少无目的重复；困难先区分词义语法与输入操作，结束时立即停",
+      "confidence": "书面最终结果高；独立掌握与速度未知",
+      "id": "2026-09-16-01"
+    }
+  ]
+}
