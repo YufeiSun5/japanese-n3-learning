@@ -468,6 +468,15 @@
           "quote": "これから",
           "kind": "exposure",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "korekara-20260917-organized-6",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 6,
+          "quote": "これから休みます",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
         }
       ]
     },
@@ -485,6 +494,15 @@
           "turn": 2,
           "quote": "もう修正しました。",
           "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mou-20260917-supported-correct",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 3,
+          "quote": "もう",
+          "kind": "supported-correct",
           "support": "model-and-translation-visible"
         }
       ]
@@ -596,6 +614,177 @@
           "support": "model-and-translation-visible"
         }
       ]
+    },
+    {
+      "id": "shigoto",
+      "japanese": "仕事",
+      "romaji": "shigoto",
+      "meaning": "工作",
+      "kind": "word",
+      "events": [
+        {
+          "id": "shigoto-20260917-exposure",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 2,
+          "quote": "仕事",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "shigoto-20260917-supported-correct",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 3,
+          "quote": "仕事",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "owaru",
+      "japanese": "終わる",
+      "romaji": "owaru",
+      "meaning": "结束；本课使用其过去礼貌形式",
+      "kind": "word",
+      "events": [
+        {
+          "id": "owaru-20260917-exposure",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 2,
+          "quote": "終わりました",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "owaru-20260917-supported-correct",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 3,
+          "quote": "終わりました",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "yasumu",
+      "japanese": "休みます",
+      "romaji": "yasumimasu",
+      "meaning": "休息（礼貌形式）",
+      "kind": "word",
+      "events": [
+        {
+          "id": "yasumu-20260917-exposure",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 5,
+          "quote": "休みます",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yasumu-20260917-supported-correct",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 6,
+          "quote": "これから休みます",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yasumu-20260917-organized-11",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 11,
+          "quote": "明日休みます",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "ashita",
+      "japanese": "明日",
+      "romaji": "ashita",
+      "meaning": "明天",
+      "kind": "word",
+      "events": [
+        {
+          "id": "ashita-20260917-exposure",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 10,
+          "quote": "明日",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "ashita-20260917-supported-correct",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 11,
+          "quote": "明日休みます",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "matane",
+      "japanese": "またね",
+      "romaji": "mata ne",
+      "meaning": "朋友之间的回头见；不限定明天",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "matane-20260917-organized-13",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 13,
+          "quote": "またね",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "owari",
+      "japanese": "終わり",
+      "romaji": "owari",
+      "meaning": "结束、结尾（名词）",
+      "kind": "word",
+      "events": [
+        {
+          "id": "owari-20260917-organized-4",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 4,
+          "quote": "終わり",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "particle-ga",
+      "japanese": "が",
+      "romaji": "ga",
+      "meaning": "本课标出结束的主体",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "particle-ga-20260917-organized-2",
+          "date": "2026-09-17",
+          "file": "日常练习/2026-09-17.md",
+          "turn": 2,
+          "quote": "が",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
     }
   ],
   "sessions": [
@@ -620,6 +809,27 @@
       "contentSummary": "已经与还没修改、现在开始修改、请求确认、今天结束及时间表达区别",
       "status": "ended",
       "assessmentSessionId": "2026-09-16-01"
+    },
+    {
+      "id": "2026-09-17-01",
+      "date": "2026-09-17",
+      "source": "日常练习/2026-09-17.md",
+      "newItemIds": [
+        "shigoto",
+        "owaru",
+        "yasumu",
+        "ashita",
+        "matane",
+        "owari",
+        "particle-ga"
+      ],
+      "revisitedItemIds": [
+        "mou",
+        "korekara"
+      ],
+      "contentSummary": "工作结束、接下来休息、明天休息；告别表达及名词动词区别。人名读音仅作兴趣旁注，不计通用词汇。三类句子有提示书面正确；连续回忆困难。",
+      "status": "ended",
+      "assessmentSessionId": "2026-09-17-01"
     }
   ]
 }
