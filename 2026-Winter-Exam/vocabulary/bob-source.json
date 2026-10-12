@@ -1,0 +1,9 @@
+{
+  "id": "bob-favorites",
+  "databasePath": "~/Library/Containers/com.hezongyidev.Bob/Data/Documents/bob-core.sqlite",
+  "access": "read-only",
+  "table": "translate_translate_favorite",
+  "translationColumn": "resultTuple0",
+  "checkedOn": "2026-10-07",
+  "favoritesAtCheck": 133
+}

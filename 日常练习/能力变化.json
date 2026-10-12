@@ -60,6 +60,170 @@
         "语音讲解未及时同步文件",
         "编辑器问题中断，不能将总会话时长视为有效学习时长"
       ]
+    },
+    {
+      "id": "2026-10-06-01",
+      "date": "2026-10-06",
+      "source": "日常练习/2026-10-06.md",
+      "writtenEvidenceTurns": [
+        2
+      ],
+      "finalCorrect": 2,
+      "observedWrittenTargets": 2,
+      "conditions": "范句、假名、罗马音、输入按键和译文可见；结束时读取保存结果，不是首答或无提示测试",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "understandingObservation": "两条书面输入与示范一致；时间长短的含义提问未回答，不能据此判定理解或不会",
+      "selfReportedLoad": null,
+      "motivationScore": null,
+      "motivationEvidence": "主动要求继续今天的学习，随后明确要求结束；不推断热情分或疲劳",
+      "inputDifficulties": null,
+      "comparison": "本课材料和提示条件与前课不同，未量化能力或速度变化",
+      "nextAdjustment": "下次在新生活场景中轻量重遇稍微，保留拼读支持，根据真实含义回应调整，不要求重复抄写或背完整句",
+      "confidence": "有提示书面结果可确认；独立理解、回忆与听说未知"
+    },
+    {
+      "id": "2026-10-08-01",
+      "date": "2026-10-08",
+      "source": "日常练习/2026-10-08.md",
+      "recordStatus": "in-progress",
+      "lastEvidenceTurn": 36,
+      "writtenEvidenceTurns": [
+        3,
+        7,
+        13,
+        22,
+        27,
+        30,
+        33,
+        36
+      ],
+      "finalCorrect": null,
+      "observedWrittenTargets": null,
+      "conditions": "范句、假名、罗马音、输入按键与释义可见；增量观察，不是首答准确率或无提示测验。整句与词的长度不同，不硬凑统一目标计数。",
+      "writtenObservations": [
+        {
+          "itemId": "sou-kamo-shirenai",
+          "turns": [
+            3,
+            7
+          ],
+          "result": "首次漏长音且ri/re不同；第二次修复长音，仍需re。"
+        },
+        {
+          "itemId": "naruhodo",
+          "turns": [
+            7
+          ],
+          "result": "有提示书面正确。"
+        },
+        {
+          "itemId": "ii-kangae-da",
+          "turns": [
+            13
+          ],
+          "result": "有提示书面正确。"
+        },
+        {
+          "itemId": "yasumu",
+          "turns": [
+            13,
+            16
+          ],
+          "result": "旧休息句书面漏ma；语音转写能说出休息一会儿，书面与词义分开。"
+        },
+        {
+          "itemId": "mochiron",
+          "turns": [
+            22
+          ],
+          "result": "有提示书面正确。"
+        },
+        {
+          "itemId": "yotei",
+          "turns": [
+            22
+          ],
+          "result": "此前漏i、助词拼写不同，最后两条完整句修正后正确。"
+        },
+        {
+          "itemId": "yappari",
+          "turns": [
+            27,
+            30,
+            33
+          ],
+          "result": "单词及组合句有提示书面正确；曾询问是否表示坏，词义独立理解未验证。"
+        },
+        {
+          "itemId": "doukan-da-yo",
+          "turns": [
+            36
+          ],
+          "result": "两遍书面正确，有可见示范，不计两份新词或独立掌握。"
+        }
+      ],
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "understandingObservation": "语音摘录能解释有可能与休息一会儿；主动问果然是否表示坏，教师给解释但用户未作独立含义回应。",
+      "selfReportedLoad": null,
+      "motivationScore": null,
+      "motivationEvidence": "主动开始学习、多次要求继续、要求下一句后休息；不推算热情分。",
+      "inputDifficulties": "保存文字出现长音、ri/re、漏ma及助词读音与按键的差异；部分已修复，不能混作词义不懂。",
+      "comparison": "与此前材料和提示条件不统一，无法量化能力增长或学习速度。",
+      "nextAdjustment": "从最后安全保存内容自然接续；开场轻量编排旧词，旧词嵌入自然新句，每轮保存新证据，不依赖结尾总结。",
+      "confidence": "当前书面结果可核验；独立记忆、听说及速度未知。",
+      "teachingConfounds": [
+        "语音曾把安排误说成要点",
+        "曾未读文件就评价输入和发音",
+        "规则交流打断课堂并已移出学习页",
+        "读取期间用户保存不同版本，历史来源已保全并修复引用"
+      ]
+    },
+    {
+      "id": "2026-10-12-01",
+      "date": "2026-10-12",
+      "source": "日常练习/2026-10-12.md",
+      "recordStatus": "in-progress",
+      "writtenEvidenceTurns": [
+        3
+      ],
+      "finalCorrect": null,
+      "observedWrittenTargets": 1,
+      "conditions": "第一句四项提示与释义可见，尚无作答。",
+      "understandingObservation": null,
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "selfReportedLoad": "希望十几到二十几分钟，不超过半小时；不是已测时长。",
+      "motivationScore": null,
+      "inputDifficulties": null,
+      "nextAdjustment": "第一句不用重抄，第二句两块解释；核对06实际作答后按用户两句与时间偏好停止加课。",
+      "teachingConfounds": [
+        "语音在实际材料写入前误报就绪和旧编号，影响开课。"
+      ],
+      "lastEvidenceTurn": 3,
+      "latestSupportedCorrect": 1,
+      "writtenObservations": [
+        {
+          "itemId": "kekka-wa",
+          "turns": [
+            3
+          ],
+          "result": "词与助词正确，句末句号；提问建议问号，有可见示范。"
+        }
+      ]
     }
   ]
 }

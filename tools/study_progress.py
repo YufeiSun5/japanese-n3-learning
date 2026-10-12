@@ -3,6 +3,7 @@
 import argparse
 from datetime import datetime, date, timedelta
 import json
+import os
 from pathlib import Path
 import re
 from zoneinfo import ZoneInfo
@@ -88,9 +89,10 @@ def render(root, rows, day):
         i = r['item']
         e = i['events'][-1]
         link = Path(e['file']).name
+        target = os.path.relpath((root / e['file']).resolve(), (root / '日常练习').resolve())
         state = '复习验证过' if r['verified'] else '练习过（有提示）' if r['practiced'] else '接触过'
         kind = {'word': '词条', 'expression': '表达', 'grammar': '语法'}[i['kind']]
-        lines.append(f'| {i["japanese"]} | {i["romaji"]} | {i["meaning"]} | {kind} | {state} | {r["first"]} / {r["last"]} | [{link} · 第 {e["turn"]} 轮]({link}) |')
+        lines.append(f'| {i["japanese"]} | {i["romaji"]} | {i["meaning"]} | {kind} | {state} | {r["first"]} / {r["last"]} | [{link} · 第 {e["turn"]} 轮]({target}) |')
     lines += ['', '## 下次可自然重遇', '',
               '这是教师选材候选，不是欠下的作业。每次最多选 1–2 项，用户要换主题时可以跳过。', '']
     candidates = sorted((r for r in rows if r['due'] <= day), key=lambda r: (r['due'], r['item']['id']))[:2]
@@ -107,12 +109,52 @@ def render(root, rows, day):
     return '\n'.join(lines)
 
 
+def lesson_ready(root, catalog, day, teacher_turn=2, reply_turn=3):
+    """Verify written material and reply location; never create a page."""
+    page = root / '日常练习' / f'{day.isoformat()}.md'
+    if not page.is_file():
+        raise ValueError('Today\'s learning page does not exist')
+    sections = re.split(r'^### (\d+) · ([^\n]+)\n',
+                        page.read_text(encoding='utf-8'), flags=re.M)
+    turns = {}
+    for pos in range(1, len(sections), 3):
+        number = int(sections[pos])
+        if number in turns:
+            raise ValueError('Duplicate turn numbers in learning page')
+        turns[number] = (sections[pos + 1], sections[pos + 2])
+    role, body = turns.get(teacher_turn, ('', ''))
+    if not role.startswith('老师'):
+        raise ValueError('Requested teaching turn is missing')
+    for field in ['原文', '假名', '罗马音（拼读）', '输入法按键']:
+        match = re.search(r'^- ' + re.escape(field) + r'：([^\n]+)', body, re.M)
+        if not match or not match[1].strip(' *`'):
+            raise ValueError(f'Teaching material needs a nonempty {field} field')
+    if reply_turn <= teacher_turn or not turns.get(reply_turn, ('', ''))[0].startswith('我'):
+        raise ValueError('A subsequent user reply turn is missing')
+    relative = page.relative_to(root).as_posix()
+    sessions = [s for s in catalog.get('sessions', [])
+                if s.get('date') == str(day) and s.get('source') == relative]
+    if not any(s.get('reviewPlan', {}).get('targets') for s in sessions):
+        raise ValueError('Current session has no recorded review plan')
+    return {'ready': True, 'today': str(day), 'page': str(page),
+            'teacherTurn': teacher_turn, 'replyTurn': reply_turn}
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['sync', 'check'])
+    parser.add_argument('command', choices=['sync', 'check', 'ready'])
+    parser.add_argument('--teacher-turn', type=int, default=2)
+    parser.add_argument('--reply-turn', type=int, default=3)
     args = parser.parse_args()
     catalog = json.loads((ROOT / '日常练习/学习索引.json').read_text(encoding='utf-8'))
     day = local_day(catalog['timezone'])
+    if args.command == 'ready':
+        try:
+            result = lesson_ready(ROOT, catalog, day, args.teacher_turn, args.reply_turn)
+        except ValueError as exc:
+            parser.exit(2, f'Not ready: {exc}\n')
+        print(json.dumps(result, ensure_ascii=False))
+        return
     rows = summarize(ROOT, catalog, day)
     if args.command == 'sync':
         page = ensure_today(ROOT, day)

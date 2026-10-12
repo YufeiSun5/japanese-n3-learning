@@ -108,6 +108,24 @@
           "quote": "お茶をください",
           "kind": "supported-correct",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "particle-o-20261008-exposure-21",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 21,
+          "quote": "を",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "particle-o-20261008-supported-correct-94",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 22,
+          "quote": "もちろん。予定を確認します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
         }
       ]
     },
@@ -243,6 +261,33 @@
           "quote": "確認しておきます。",
           "kind": "exposure",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "kakunin-20261008-exposure-21",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 21,
+          "quote": "確認",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "kakunin-20261008-supported-correct-94",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 22,
+          "quote": "もちろん。予定を確認します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "kakunin-20261012-exposure-2",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 2,
+          "quote": "確認しました",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
         }
       ]
     },
@@ -269,6 +314,42 @@
           "turn": 8,
           "quote": "問題",
           "kind": "attempt",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mondai-20261008-exposure-26",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 26,
+          "quote": "問題",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mondai-20261008-supported-correct-30",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 30,
+          "quote": "問題",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mondai-20261008-supported-correct-33",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 33,
+          "quote": "問題",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mondai-20261012-exposure-5",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 5,
+          "quote": "問題",
+          "kind": "exposure",
           "support": "model-and-translation-visible"
         }
       ]
@@ -324,6 +405,24 @@
           "quote": "予定",
           "kind": "attempt",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261008-exposure-21",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 21,
+          "quote": "予定",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261008-supported-correct-94",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 22,
+          "quote": "もちろん。予定を確認します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
         }
       ]
     },
@@ -359,6 +458,42 @@
           "turn": 10,
           "quote": "あります",
           "kind": "attempt",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20261008-exposure-26",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 26,
+          "quote": "ありました",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20261008-supported-correct-30",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 30,
+          "quote": "ありました",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20261008-supported-correct-33",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 33,
+          "quote": "ありました",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20261012-exposure-5",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 5,
+          "quote": "あります",
+          "kind": "exposure",
           "support": "model-and-translation-visible"
         }
       ]
@@ -702,6 +837,42 @@
           "quote": "明日休みます",
           "kind": "supported-correct",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yasumu-20261006-exposure-4",
+          "date": "2026-10-06",
+          "file": "日常练习/2026-10-06.md",
+          "turn": 4,
+          "quote": "休みます",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yasumu-20261006-supported-correct-2",
+          "date": "2026-10-06",
+          "file": "日常练习/2026-10-06.md",
+          "turn": 2,
+          "quote": "少し休みます",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yasumu-20261008-exposure-12",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 12,
+          "quote": "休みます",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yasumu-20261008-attempt-13",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 13,
+          "quote": "少し休みす",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
         }
       ]
     },
@@ -785,6 +956,377 @@
           "support": "model-and-translation-visible"
         }
       ]
+    },
+    {
+      "id": "hisashiburi",
+      "japanese": "久しぶり",
+      "romaji": "hisashiburi",
+      "meaning": "好久不见",
+      "kind": "word",
+      "events": [
+        {
+          "id": "hisashiburi-20261006-exposure-1",
+          "date": "2026-10-06",
+          "file": "日常练习/2026-10-06.md",
+          "turn": 1,
+          "quote": "久しぶり",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "hisashiburi-20261006-supported-correct-2",
+          "date": "2026-10-06",
+          "file": "日常练习/2026-10-06.md",
+          "turn": 2,
+          "quote": "久しぶり",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "hisashiburi-20261008-exposure-10",
+          "date": "2026-10-08",
+          "file": ".ai/records/2026-10-08-协作记录.md",
+          "turn": 10,
+          "quote": "久しぶり",
+          "kind": "exposure",
+          "support": "written-form-kana-romaji-visible-no-meaning"
+        },
+        {
+          "id": "hisashiburi-20261008-supported-correct-13",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 13,
+          "quote": "久しぶり",
+          "kind": "supported-correct",
+          "support": "written-form-kana-romaji-visible-no-meaning"
+        }
+      ]
+    },
+    {
+      "id": "sukoshi",
+      "japanese": "少し",
+      "romaji": "sukoshi",
+      "meaning": "一点儿、稍微；本句指休息一会儿",
+      "kind": "word",
+      "events": [
+        {
+          "id": "sukoshi-20261006-exposure-4",
+          "date": "2026-10-06",
+          "file": "日常练习/2026-10-06.md",
+          "turn": 4,
+          "quote": "少し",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "sukoshi-20261006-supported-correct-2",
+          "date": "2026-10-06",
+          "file": "日常练习/2026-10-06.md",
+          "turn": 2,
+          "quote": "少し休みます",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "sukoshi-20261008-exposure-12",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 12,
+          "quote": "少し",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "sukoshi-20261008-supported-correct-13",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 13,
+          "quote": "少し",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "sou-kamo-shirenai",
+      "japanese": "そうかもしれない",
+      "romaji": "sou kamo shirenai",
+      "meaning": "也许是这样；表示可能而非肯定",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "sou-kamo-shirenai-20261008-exposure-2",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 2,
+          "quote": "そうかもしれない",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-102"
+        },
+        {
+          "id": "sou-kamo-shirenai-20261008-attempt-3",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 3,
+          "quote": "そかもしりない",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "sou-kamo-shirenai-20261008-attempt-7",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 7,
+          "quote": "そうかもしりない",
+          "kind": "attempt",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "naruhodo",
+      "japanese": "なるほど",
+      "romaji": "naruhodo",
+      "meaning": "原来如此；听解释后表示理解",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "naruhodo-20261008-exposure-6",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 6,
+          "quote": "なるほど",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-14"
+        },
+        {
+          "id": "naruhodo-20261008-supported-correct-7",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 7,
+          "quote": "なるほど",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "ii-kangae-da",
+      "japanese": "いい考えだ",
+      "romaji": "ii kangae da",
+      "meaning": "好主意；随意地评价对方的想法",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "ii-kangae-da-20261008-exposure-12",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 12,
+          "quote": "いい考えだ",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-120"
+        },
+        {
+          "id": "ii-kangae-da-20261008-supported-correct-13",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 13,
+          "quote": "いい考えだ",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "ii-kangae-da-20261008-exposure-32",
+          "date": "2026-10-08",
+          "file": ".ai/records/2026-10-08-协作记录.md",
+          "turn": 96,
+          "quote": "いい考えだ",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "mochiron",
+      "japanese": "もちろん",
+      "romaji": "mochiron",
+      "meaning": "当然；本场景明确答应",
+      "kind": "word",
+      "events": [
+        {
+          "id": "mochiron-20261008-exposure-18",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 18,
+          "quote": "もちろん",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-93"
+        },
+        {
+          "id": "mochiron-20261008-exposure-21",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 21,
+          "quote": "もちろん",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mochiron-20261008-supported-correct-94",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 22,
+          "quote": "もちろん。予定を確認します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "yappari",
+      "japanese": "やっぱり",
+      "romaji": "yappari",
+      "meaning": "本课为果然：实际结果符合原先猜想",
+      "kind": "word",
+      "events": [
+        {
+          "id": "yappari-20261008-exposure-26",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 26,
+          "quote": "やっぱり",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-97"
+        },
+        {
+          "id": "yappari-20261008-supported-correct-27",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 27,
+          "quote": "やっぱり",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yappari-20261008-attempt-28",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 28,
+          "quote": "坏了,不好的意思",
+          "kind": "attempt",
+          "support": "model-and-translation-visible",
+          "assessment": "用户询问是否表示坏，词义需要澄清；有提示拼写正确不算词义掌握。"
+        },
+        {
+          "id": "yappari-20261008-supported-correct-30",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 30,
+          "quote": "やっぱり",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yappari-20261008-supported-correct-33",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 33,
+          "quote": "やっぱり",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "doukan-da-yo",
+      "japanese": "同感だよ",
+      "romaji": "doukan da yo",
+      "meaning": "我也有同感；熟人之间表示相同看法或感受",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "doukan-da-yo-20261008-exposure-32",
+          "date": "2026-10-08",
+          "file": ".ai/records/2026-10-08-协作记录.md",
+          "turn": 96,
+          "quote": "同感だよ",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-34"
+        },
+        {
+          "id": "doukan-da-yo-20261008-exposure-35",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 35,
+          "quote": "同感だよ",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-34"
+        },
+        {
+          "id": "doukan-da-yo-20261008-supported-correct-36",
+          "date": "2026-10-08",
+          "file": "日常练习/2026-10-08.md",
+          "turn": 36,
+          "quote": "同感だよ",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "kekka-wa",
+      "japanese": "結果は？",
+      "romaji": "kekka wa",
+      "meaning": "结果呢？询问已进行事项的结果",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "kekka-wa-20261012-exposure-2",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 2,
+          "quote": "結果は",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-110"
+        },
+        {
+          "id": "kekka-wa-20261012-supported-correct-3",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 3,
+          "quote": "結果は",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible",
+          "assessment": "词及助词正确；提问场景建议问号，不要求反复抄写。"
+        }
+      ]
+    },
+    {
+      "id": "zannen-nagara",
+      "japanese": "残念ながら",
+      "romaji": "zannen nagara",
+      "meaning": "很遗憾；引出不如人意的信息",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "zannen-nagara-20261012-exposure-5",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 5,
+          "quote": "残念ながら",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-19"
+        }
+      ]
     }
   ],
   "sessions": [
@@ -830,6 +1372,343 @@
       "contentSummary": "工作结束、接下来休息、明天休息；告别表达及名词动词区别。人名读音仅作兴趣旁注，不计通用词汇。三类句子有提示书面正确；连续回忆困难。",
       "status": "ended",
       "assessmentSessionId": "2026-09-17-01"
+    },
+    {
+      "id": "2026-10-06-01",
+      "date": "2026-10-06",
+      "source": "日常练习/2026-10-06.md",
+      "newItemIds": [
+        "hisashiburi",
+        "sukoshi"
+      ],
+      "revisitedItemIds": [
+        "yasumu"
+      ],
+      "contentSummary": "寒暄与休息一会儿：新接触好久不见、稍微，重遇休息；两条保存书面输入正确且有范句提示。含义提问未答，独立掌握未验证。",
+      "status": "ended",
+      "assessmentSessionId": "2026-10-06-01"
+    },
+    {
+      "id": "2026-10-07-01",
+      "date": "2026-10-07",
+      "source": "日常练习/2026-10-07.md",
+      "newItemIds": [],
+      "revisitedItemIds": [],
+      "contentSummary": "用户于10.08明确上次未学习；10.07仅准备游戏材料，无已学项目、真实练习或能力评价。撤回当日提前登记的教学接触事件，原文保留。",
+      "status": "ended",
+      "assessmentSessionId": null
+    },
+    {
+      "id": "2026-10-08-01",
+      "date": "2026-10-08",
+      "source": "日常练习/2026-10-08.md",
+      "newItemIds": [
+        "sou-kamo-shirenai",
+        "naruhodo",
+        "ii-kangae-da",
+        "mochiron",
+        "yappari",
+        "doukan-da-yo"
+      ],
+      "revisitedItemIds": [
+        "hisashiburi",
+        "yasumu",
+        "sukoshi",
+        "kakunin",
+        "yotei",
+        "particle-o",
+        "mondai",
+        "arimasu",
+        "ii-kangae-da"
+      ],
+      "contentSummary": "有可能书面ri/re仍需修正；原来如此与好主意看示范写对。用户要求开场编排、旧词穿插新知识并闭环保存未完成项。旧休息句能解释含义但书面漏ma；好久不见文字正确而词义未回应。新当然接旧确认句，等待19实际回应。 后续澄清不要机械搬旧句，第21回合用旧安排、确认和助词造新句，新回应不变，第19回合仍待答。 再读最新保存文字，第二条完整安排确认句正确；末尾半行不算整句错误。学习页未修改，核对证据暂在协作记录94，后续编辑交接再整理归属。 最后新追加的完整句也正确；三条原书面输入已保留在22用户回合，24明确最后两条正确，核对证据迁回课堂，避免旧错误被反复纠正。 用户明确继续，26开展游戏果然，旧问题词与有的过去变化融入功能检查；27待新词输入。 果然27有提示拼写正确，28询问是否表示坏，29解释无好坏含义；词义待后续实际回应。 用户不需要更多果然例句、明确继续；31简短说明pp促音，32游戏同感回应，复用本课好主意的自然对话；33待答。用户未解释果然含义，不能推断已掌握。 最新保存页移除了提前安排的同感段，历史教学来源迁至协作96，未重新插入课堂。用户明确等他写完，当前两条果然+有/没有问题均书面正确，日页32反馈，不再推进新词。 最新33有/没有问题两句正确，用户要求下一句后休息；35最后一句同感，36待答。最新用户保存版本不含此前34按键单列段，本轮不重插无关旧段。 最后同感两遍在36书面正确，37仅作具体反馈。用户要求随时开始停止、每轮增量归档而非收尾，规范交流另存，能力记录已建立进行中观察。",
+      "status": "active",
+      "assessmentSessionId": "2026-10-08-01",
+      "reviewPlan": {
+        "arrangedOn": "2026-10-08",
+        "stage": "mid-session-correction",
+        "source": {
+          "file": ".ai/records/2026-10-08-协作记录.md",
+          "turn": 15
+        },
+        "selectionBasis": "两项于10月6日实际教过且在有提示时写对，距今两天；隔日记忆未验证。可自然融入游戏新回应，避免独立旧词测验。间隔依据是可调整候选，不是个人遗忘概率。",
+        "targets": [
+          {
+            "itemId": "sukoshi",
+            "priorEvidence": {
+              "file": "日常练习/2026-10-06.md",
+              "turn": 2
+            },
+            "integration": "旧句作为自编小对话A，带出游戏卡03新回应B。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-08.md",
+              "turn": 12
+            },
+            "status": "responded-with-support",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 13
+              },
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 16
+              }
+            ],
+            "support": "model-and-translation-visible",
+            "result": "旧词书面正确；语音转写能解释休息一会儿，未检验独立回忆。",
+            "nextAction": "以后自然穿插，不立即重抄。"
+          },
+          {
+            "itemId": "yasumu",
+            "priorEvidence": {
+              "file": "日常练习/2026-10-06.md",
+              "turn": 2
+            },
+            "integration": "旧句作为自编小对话A，带出游戏卡03新回应B。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-08.md",
+              "turn": 12
+            },
+            "status": "needs-followup",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 13
+              },
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 16
+              }
+            ],
+            "support": "model-and-translation-visible",
+            "result": "旧句含义能说出，但书面漏ma；已给有限纠错，待实际修正。",
+            "nextAction": "当前或下次用户交接后核对是否补ma，区分拼写与词义。"
+          },
+          {
+            "itemId": "kakunin",
+            "selectionBasis": "此前已教过，可在查看安排的同一情境自然重组。",
+            "integration": "自编查看安排的句子，与当然的答应回应衔接。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-08.md",
+              "turn": 21
+            },
+            "status": "responded-with-support",
+            "support": "model-and-translation-visible",
+            "nextAction": "自然穿插后续内容，不重复抄写。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 22
+              }
+            ],
+            "result": "第二条完整书面句正确，含可见示范；安排与助词先前拼写差异已修正，不作独立掌握结论。"
+          },
+          {
+            "itemId": "yotei",
+            "selectionBasis": "此前已教过，可在查看安排的同一情境自然重组。",
+            "integration": "自编查看安排的句子，与当然的答应回应衔接。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-08.md",
+              "turn": 21
+            },
+            "status": "responded-with-support",
+            "support": "model-and-translation-visible",
+            "nextAction": "自然穿插后续内容，不重复抄写。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 22
+              }
+            ],
+            "result": "第二条完整书面句正确，含可见示范；安排与助词先前拼写差异已修正，不作独立掌握结论。"
+          },
+          {
+            "itemId": "particle-o",
+            "selectionBasis": "此前已教过，可在查看安排的同一情境自然重组。",
+            "integration": "自编查看安排的句子，与当然的答应回应衔接。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-08.md",
+              "turn": 21
+            },
+            "status": "responded-with-support",
+            "support": "model-and-translation-visible",
+            "nextAction": "自然穿插后续内容，不重复抄写。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 22
+              }
+            ],
+            "result": "第二条完整书面句正确，含可见示范；安排与助词先前拼写差异已修正，不作独立掌握结论。"
+          },
+          {
+            "itemId": "mondai",
+            "selectionBasis": "旧问题词与有的动词可自然融入功能检查结果，过去变化适量推进。",
+            "integration": "自编发现问题的场景，与游戏新回应果然衔接。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-08.md",
+              "turn": 26
+            },
+            "status": "responded-with-support",
+            "support": "model-and-translation-visible",
+            "result": "最新有问题的过去形式及没有问题的书面表达正确，有提示；未验证独立回忆。",
+            "nextAction": "用户仍在本段，不推进到同感；不要求重抄。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 30
+              }
+            ]
+          },
+          {
+            "itemId": "arimasu",
+            "selectionBasis": "旧问题词与有的动词可自然融入功能检查结果，过去变化适量推进。",
+            "integration": "自编发现问题的场景，与游戏新回应果然衔接。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-08.md",
+              "turn": 26
+            },
+            "status": "responded-with-support",
+            "support": "model-and-translation-visible",
+            "result": "最新有问题的过去形式及没有问题的书面表达正确，有提示；未验证独立回忆。",
+            "nextAction": "用户仍在本段，不推进到同感；不要求重抄。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-08.md",
+                "turn": 30
+              }
+            ]
+          }
+        ],
+        "adjustment": "本次用户提醒后补排；后续每课第一轮正式教学前完成起步编排，课中据表现调整。 用户要求旧词拆出造自然新句，不硬搬整句；追加自编查看安排的情境，复用安排、确认、宾语助词，新回应不变。"
+      },
+      "followUps": [
+        {
+          "itemId": "yasumu",
+          "status": "awaiting-correction",
+          "evidence": {
+            "file": "日常练习/2026-10-08.md",
+            "turn": 13
+          },
+          "reason": "遗漏ma，原答保留。",
+          "nextAction": "用户交接后核对实际修正；未完成时下次开场读取。"
+        },
+        {
+          "itemId": "sou-kamo-shirenai",
+          "status": "awaiting-correction",
+          "evidence": {
+            "file": "日常练习/2026-10-08.md",
+            "turn": 7
+          },
+          "reason": "仍将re写成ri。",
+          "nextAction": "待后续实际修正或融入新场景提供拼写提示，不重复整句抄写。"
+        },
+        {
+          "itemId": "yappari",
+          "status": "deferred-by-user",
+          "evidence": {
+            "file": "日常练习/2026-10-08.md",
+            "turn": 28
+          },
+          "reason": "词写对但问是否表示坏；29好坏场景都可用果然。",
+          "nextAction": "用户明确不继续解释，暂缓独立词义检查；以后在新情境自然重遇，不当作不理解或失败。"
+        }
+      ],
+      "coordinationSource": ".ai/records/2026-10-08-协作记录.md",
+      "recordingMode": "incremental-per-interaction"
+    },
+    {
+      "id": "2026-10-12-01",
+      "date": "2026-10-12",
+      "source": "日常练习/2026-10-12.md",
+      "newItemIds": [
+        "kekka-wa",
+        "zannen-nagara"
+      ],
+      "revisitedItemIds": [
+        "kakunin",
+        "mondai",
+        "arimasu"
+      ],
+      "contentSummary": "第一句结果呢在03的词及助词有提示写对，提问建议问号。05很遗憾配旧有问题，06待答；两句起步，无发音评价，实际时长未测。",
+      "status": "active",
+      "assessmentSessionId": "2026-10-12-01",
+      "recordingMode": "incremental-per-interaction",
+      "timePreference": {
+        "maxMinutes": 30,
+        "preferredDescription": "十几分钟到二十几分钟",
+        "firstObservedAt": "2026-10-12T22:18:40+08:00",
+        "activeLearningMinutes": null
+      },
+      "reviewPlan": {
+        "arrangedOn": "2026-10-12",
+        "stage": "before-first-teaching",
+        "selectionBasis": "旧确认、问题与有于10月8日有提示写对，距今4天、独立记忆未知；自然融入询问检查结果和报告结果，不单独测验。",
+        "targets": [
+          {
+            "itemId": "kakunin",
+            "integration": "检查结果提问前的已确认背景。",
+            "status": "presented-not-assessed",
+            "presentedAt": {
+              "file": "日常练习/2026-10-12.md",
+              "turn": 2
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "通过后续结果场景自然观察；不单独考旧词。"
+          },
+          {
+            "itemId": "mondai",
+            "integration": "下一句报告不如人意的检查结果。",
+            "status": "presented-not-assessed",
+            "presentedAt": {
+              "file": "日常练习/2026-10-12.md",
+              "turn": 5
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "根据第二句实际作答观察，不要求额外旧词题。"
+          },
+          {
+            "itemId": "arimasu",
+            "integration": "下一句报告有问题的结果。",
+            "status": "presented-not-assessed",
+            "presentedAt": {
+              "file": "日常练习/2026-10-12.md",
+              "turn": 5
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "根据第二句实际作答观察，不要求额外旧词题。"
+          }
+        ],
+        "unresolvedPriorItems": [
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "yasumu",
+            "decision": "deferred",
+            "reason": "本次两句短活动，先不打断选定场景；以后自然穿插时确认拼写。"
+          },
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "sou-kamo-shirenai",
+            "decision": "deferred",
+            "reason": "保留ri/re待修正，不要求本次补抄。"
+          },
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "yappari",
+            "decision": "deferred",
+            "reason": "上次用户暂缓词义检查，本次不单独测验。"
+          }
+        ]
+      },
+      "materialReadiness": {
+        "checkedOn": "2026-10-12",
+        "page": "日常练习/2026-10-12.md",
+        "teacherTurn": 5,
+        "replyTurn": 6,
+        "ready": true,
+        "verification": "study_progress.py ready passed"
+      }
     }
   ]
 }
