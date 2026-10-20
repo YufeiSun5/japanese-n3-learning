@@ -194,12 +194,13 @@
       "source": "日常练习/2026-10-12.md",
       "recordStatus": "in-progress",
       "writtenEvidenceTurns": [
-        3
+        3,
+        6
       ],
       "finalCorrect": null,
-      "observedWrittenTargets": 1,
-      "conditions": "第一句四项提示与释义可见，尚无作答。",
-      "understandingObservation": null,
+      "observedWrittenTargets": 2,
+      "conditions": "两句都有范句、假名、罗马音、输入按键和译文。03结果句词与助词正确，句末是句号。06第二行与示范一致，第一行汉字不同。不是首答准确率，也不是无提示测验。",
+      "understandingObservation": "第二句最终写出了很遗憾、有问题；同一回合先写成斬炎。不能据此判断独立回忆。",
       "independentTransfer": null,
       "delayedRecall": null,
       "listening": null,
@@ -209,12 +210,12 @@
       "selfReportedLoad": "希望十几到二十几分钟，不超过半小时；不是已测时长。",
       "motivationScore": null,
       "inputDifficulties": null,
-      "nextAdjustment": "第一句不用重抄，第二句两块解释；核对06实际作答后按用户两句与时间偏好停止加课。",
+      "nextAdjustment": "第二句汉字已对照，不要求重抄。10月20日另开马里奥画面三句，先等关卡名的实际输入。",
       "teachingConfounds": [
         "语音在实际材料写入前误报就绪和旧编号，影响开课。"
       ],
-      "lastEvidenceTurn": 3,
-      "latestSupportedCorrect": 1,
+      "lastEvidenceTurn": 6,
+      "latestSupportedCorrect": 2,
       "writtenObservations": [
         {
           "itemId": "kekka-wa",
@@ -222,8 +223,42 @@
             3
           ],
           "result": "词与助词正确，句末句号；提问建议问号，有可见示范。"
+        },
+        {
+          "itemId": "zannen-nagara",
+          "turns": [
+            6
+          ],
+          "result": "第二行有提示写对；第一行汉字为斬炎。問題和あります同时出现在正确行里。"
         }
       ]
+    },
+    {
+      "id": "2026-10-20-01",
+      "date": "2026-10-20",
+      "source": "日常练习/2026-10-20.md",
+      "recordStatus": "in-progress",
+      "writtenEvidenceTurns": [],
+      "finalCorrect": null,
+      "observedWrittenTargets": null,
+      "conditions": "三句画面文字的原文、假名、罗马音、输入按键和中文都可见。第05回合尚无作答。不是无提示测验，也没有音频。",
+      "understandingObservation": null,
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "selfReportedLoad": null,
+      "motivationScore": null,
+      "motivationEvidence": null,
+      "inputDifficulties": null,
+      "comparison": "本课是游戏画面认读，和10月12日的检查结果对话材料不同，不能比较能力或速度。",
+      "nextAdjustment": "先看第05回合有没有打出关卡名。吃力就停在这一句；写下来后再看清敌句里的を。",
+      "confidence": "材料已写入。理解、输出、听说和速度都还没有本课证据。",
+      "lastEvidenceTurn": 4,
+      "writtenObservations": [],
+      "teachingConfounds": []
     }
   ]
 }
