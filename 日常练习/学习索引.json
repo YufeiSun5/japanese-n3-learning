@@ -126,6 +126,44 @@
           "quote": "もちろん。予定を確認します",
           "kind": "supported-correct",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "particle-o-20261015-exposure-14",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 14,
+          "quote": "を",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "particle-o-20261015-supported-correct-15",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 15,
+          "quote": "予定を変更します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible",
+          "assessment": "两条完整句均正确；不因重复两遍记为两个新目标，不判无提示掌握。"
+        },
+        {
+          "id": "particle-o-20261029-exposure-01",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 1,
+          "quote": "わけ",
+          "kind": "exposure",
+          "support": "grouped-kana-romaji-ime-visible",
+          "materialSource": "official-2012-n3-v-q26"
+        },
+        {
+          "id": "particle-o-20261029-exposure-05",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 5,
+          "quote": "経験を",
+          "kind": "exposure",
+          "support": "grouped-kana-romaji-ime-visible"
         }
       ]
     },
@@ -351,6 +389,24 @@
           "quote": "問題",
           "kind": "exposure",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mondai-20261012-supported-correct-6",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 6,
+          "quote": "残念ながら、問題があります",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mondai-20261015-exposure-2",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 2,
+          "quote": "問題",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
         }
       ]
     },
@@ -423,6 +479,81 @@
           "quote": "もちろん。予定を確認します",
           "kind": "supported-correct",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261015-exposure-14",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 14,
+          "quote": "予定",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261015-supported-correct-15",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 15,
+          "quote": "予定を変更します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible",
+          "assessment": "两条完整句均正确；不因重复两遍记为两个新目标，不判无提示掌握。"
+        },
+        {
+          "id": "yotei-20261015-exposure-16",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 16,
+          "quote": "予定",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261015-supported-correct-17",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 17,
+          "quote": "予定を中止します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261015-exposure-18",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 18,
+          "quote": "予定を延期します",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261015-supported-correct-19",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 19,
+          "quote": "予定を延期します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yotei-20261026-exposure-1",
+          "date": "2026-10-26",
+          "file": "日常练习/2026-10-26.md",
+          "turn": 1,
+          "quote": "予定を変更しなくてもいいです。",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "yotei-20261027-exposure-5",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 5,
+          "quote": "予定を変更しなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-old-word-gloss-logic-hint-and-options-visible",
+          "materialSource": "tutor-authored"
         }
       ]
     },
@@ -492,6 +623,24 @@
           "date": "2026-10-12",
           "file": "日常练习/2026-10-12.md",
           "turn": 5,
+          "quote": "あります",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20261012-supported-correct-6",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 6,
+          "quote": "残念ながら、問題があります",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "arimasu-20261015-exposure-2",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 2,
           "quote": "あります",
           "kind": "exposure",
           "support": "model-and-translation-visible"
@@ -729,6 +878,26 @@
           "quote": "今日",
           "kind": "exposure",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "kyou-20261027-exposure-7",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 7,
+          "quote": "今日は仕事をしなくてもいいです。明日は仕事をしなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-time-gloss-and-options-visible-no-new-ending-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "kyou-20261027-listening-attempt-10",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 10,
+          "quote": "有点听不懂，应还是a；きおわ是今天，然后是しなければなりませえん。应该是今天不行的意思，我听了好多遍",
+          "kind": "attempt",
+          "support": "self-reported-multiple-listens-familiar-words",
+          "assessment": "用户把听到的开头对应今天，含义识别有证据；键盘近似写法不用于判定真实发音或精确听辨。"
         }
       ]
     },
@@ -774,6 +943,26 @@
           "quote": "仕事",
           "kind": "supported-correct",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "shigoto-20261027-exposure-1",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 1,
+          "quote": "明日は仕事をしなくてもいいです。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-word-gloss-and-options-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "shigoto-20261027-exposure-7",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 7,
+          "quote": "今日は仕事をしなくてもいいです。明日は仕事をしなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-time-gloss-and-options-visible-no-new-ending-translation",
+          "materialSource": "tutor-authored"
         }
       ]
     },
@@ -873,6 +1062,15 @@
           "quote": "少し休みす",
           "kind": "attempt",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "yasumu-20261015-exposure-9",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 9,
+          "quote": "休みます",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
         }
       ]
     },
@@ -900,6 +1098,54 @@
           "quote": "明日休みます",
           "kind": "supported-correct",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "ashita-20261015-exposure-9",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 9,
+          "quote": "明日",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "ashita-20261027-exposure-1",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 1,
+          "quote": "明日は仕事をしなくてもいいです。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-word-gloss-and-options-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "ashita-20261027-exposure-7",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 7,
+          "quote": "今日は仕事をしなくてもいいです。明日は仕事をしなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-time-gloss-and-options-visible-no-new-ending-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "ashita-20261028-attempt-10",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 10,
+          "quote": "明日",
+          "kind": "attempt",
+          "support": "audio-task-known-prefix-and-Chinese-time-options-current-full-transcript-not-shown",
+          "assessment": "回答的时间词对应明天，语义匹配正确；本轮未另行明确报告实际播放/次数，不能据此推出听懂整句。"
+        },
+        {
+          "id": "ashita-20261028-exposure-11",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 11,
+          "quote": "明日",
+          "kind": "exposure",
+          "support": "full-transcript-grouped-reading-kana-romaji-ime-and-Chinese-meaning-visible"
         }
       ]
     },
@@ -1043,6 +1289,15 @@
           "turn": 13,
           "quote": "少し",
           "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "sukoshi-20261015-exposure-2",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 2,
+          "quote": "少し",
+          "kind": "exposure",
           "support": "model-and-translation-visible"
         }
       ]
@@ -1325,6 +1580,1479 @@
           "kind": "exposure",
           "support": "model-and-translation-visible",
           "materialSource": "bob-favorite-19"
+        },
+        {
+          "id": "zannen-nagara-20261012-attempt-6",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 6,
+          "quote": "斬炎ながら",
+          "kind": "attempt",
+          "support": "model-and-translation-visible",
+          "assessment": "首次开头两个汉字不符；不由选字结果推断实际按键或读音。"
+        },
+        {
+          "id": "zannen-nagara-20261012-supported-correct-6",
+          "date": "2026-10-12",
+          "file": "日常练习/2026-10-12.md",
+          "turn": 6,
+          "quote": "残念ながら、問題があります",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "dou-shita-no",
+      "japanese": "どうしたの？",
+      "romaji": "dou shita no",
+      "meaning": "怎么了？熟人间询问发生什么事",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "dou-shita-no-20261015-exposure-2",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 2,
+          "quote": "どうしたの",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-88"
+        },
+        {
+          "id": "dou-shita-no-20261015-supported-correct-3",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 3,
+          "quote": "どうしたの",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "dou-shita-no-20261015-supported-correct-10",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 10,
+          "quote": "どうしたの",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible",
+          "assessment": "用户明确想写怎么了，当前末行已正确；不按为什么的意图再纠错。"
+        }
+      ]
+    },
+    {
+      "id": "doushite",
+      "japanese": "どうして？",
+      "romaji": "doushite",
+      "meaning": "为什么？询问原因",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "doushite-20261015-exposure-9",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 9,
+          "quote": "どうして",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-126"
+        },
+        {
+          "id": "doushite-20261015-supported-correct-13",
+          "date": "2026-10-15",
+          "file": ".ai/records/2026-10-15-协作记录.md",
+          "turn": 6,
+          "quote": "どうして应该是为什么",
+          "kind": "supported-correct",
+          "support": "contrast-model-and-translation-visible",
+          "assessment": "看过含义对照后在同一语音回合自我修正为为什么；不是独立回忆或键盘测试。"
+        },
+        {
+          "id": "doushite-20261015-supported-correct-10-first-two",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 10,
+          "quote": "どうして",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible",
+          "assessment": "前两行正确且写出why；最后追加の，11已有限纠错。"
+        },
+        {
+          "id": "doushite-20261015-attempt-10-last-line",
+          "date": "2026-10-15",
+          "file": ".ai/records/2026-10-15-协作记录.md",
+          "turn": 8,
+          "quote": "どうしての",
+          "kind": "attempt",
+          "support": "model-and-translation-visible",
+          "assessment": "前两行正确且写出why；最后追加の，11已有限纠错。"
+        }
+      ]
+    },
+    {
+      "id": "ii-ne",
+      "japanese": "いいね",
+      "romaji": "ii ne",
+      "meaning": "不错啊；好呀；熟人间的认同回应",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "ii-ne-20261015-exposure-12",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 12,
+          "quote": "いいね",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "bob-favorite-56"
+        },
+        {
+          "id": "ii-ne-20261015-supported-correct-13",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 15,
+          "quote": "いいね",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "henkou",
+      "japanese": "変更",
+      "romaji": "henkou",
+      "meaning": "变更；修改，这里指调整安排",
+      "kind": "word",
+      "events": [
+        {
+          "id": "henkou-20261015-exposure-14",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 14,
+          "quote": "変更",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "reference-lexicon:jmdict-1511040",
+          "referenceLevel": "N3"
+        },
+        {
+          "id": "henkou-20261015-supported-correct-15",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 15,
+          "quote": "予定を変更します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible",
+          "assessment": "两条完整句均正确；不因重复两遍记为两个新目标，不判无提示掌握。"
+        },
+        {
+          "id": "henkou-20261015-exposure-16",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 16,
+          "quote": "変更",
+          "kind": "exposure",
+          "support": "model-and-translation-visible"
+        },
+        {
+          "id": "henkou-20261026-exposure-1",
+          "date": "2026-10-26",
+          "file": "日常练习/2026-10-26.md",
+          "turn": 1,
+          "quote": "予定を変更しなくてもいいです。",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "henkou-20261027-exposure-5",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 5,
+          "quote": "予定を変更しなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-old-word-gloss-logic-hint-and-options-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "henkou-20261027-exposure-19",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 19,
+          "quote": "予約を変更しなくてもいいです。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-new-word-gloss-and-prior-grammar-explanation-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "henkou-20261027-exposure-21",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 21,
+          "quote": "予約を変更しなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-visible-after-prior-teaching-no-current-full-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "henkou-20261028-exposure-1",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 1,
+          "quote": "予約を変更するので、ホテルに電話で（　）しました。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-Chinese-situation-and-untranslated-options-visible",
+          "materialSource": "tutor-authored"
+        }
+      ]
+    },
+    {
+      "id": "chuushi",
+      "japanese": "中止",
+      "romaji": "chuushi",
+      "meaning": "中止；取消原定活动或安排",
+      "kind": "word",
+      "events": [
+        {
+          "id": "chuushi-20261015-exposure-16",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 16,
+          "quote": "中止",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "reference-lexicon:jmdict-1424410",
+          "referenceLevel": "N3"
+        },
+        {
+          "id": "chuushi-20261015-supported-correct-17",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 17,
+          "quote": "予定を中止します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "enki",
+      "japanese": "延期",
+      "romaji": "enki",
+      "meaning": "延期；把原定活动往后推",
+      "kind": "word",
+      "events": [
+        {
+          "id": "enki-20261015-exposure-18",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 18,
+          "quote": "延期",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "reference-lexicon:jmdict-1176430",
+          "referenceLevel": "N3"
+        },
+        {
+          "id": "enki-20261015-supported-correct-19",
+          "date": "2026-10-15",
+          "file": "日常练习/2026-10-15.md",
+          "turn": 19,
+          "quote": "予定を延期します",
+          "kind": "supported-correct",
+          "support": "model-and-translation-visible"
+        }
+      ]
+    },
+    {
+      "id": "nakutemo-ii",
+      "japanese": "〜なくてもいい",
+      "romaji": "nakute mo ii",
+      "meaning": "不必……；不……也可以，不表示禁止",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "nakutemo-ii-20261026-exposure-1",
+          "date": "2026-10-26",
+          "file": "日常练习/2026-10-26.md",
+          "turn": 1,
+          "quote": "予定を変更しなくてもいいです。",
+          "kind": "exposure",
+          "support": "model-and-translation-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakutemo-ii-20261026-attempt-2",
+          "date": "2026-10-26",
+          "file": "日常练习/2026-10-26.md",
+          "turn": 2,
+          "quote": "有阻止的意思，没有禁止的意思吧，然后预定和变更我认识，一一得死应该是反对，中间的不认识",
+          "kind": "attempt",
+          "support": "model-and-translation-visible",
+          "assessment": "用户指出没有禁止，同时认为有阻止含义、将结尾理解为反对，并明确中间不认识；需拆解，不判整体理解正确。"
+        },
+        {
+          "id": "nakutemo-ii-20261026-exposure-3",
+          "date": "2026-10-26",
+          "file": "日常练习/2026-10-26.md",
+          "turn": 3,
+          "quote": "不更改 ＋ 也可以 → 不必更改。",
+          "kind": "exposure",
+          "support": "segmented-model-and-translation-visible"
+        },
+        {
+          "id": "nakutemo-ii-20261027-exposure-1",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 1,
+          "quote": "明日は仕事をしなくてもいいです。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-word-gloss-and-options-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakutemo-ii-20261027-attempt-2",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 2,
+          "quote": "しなくていも是不期待，应该是明天的工作不期待いいでし是好的；所以就是明天的工作不做也可以",
+          "kind": "attempt",
+          "support": "kana-romaji-ime-word-gloss-and-options-visible",
+          "assessment": "最终中文整句意思正确，但将中段理解为不期待，结尾解释为好的；有提示的整体判断正确与错误拆解并存，不计独立掌握。"
+        },
+        {
+          "id": "nakutemo-ii-20261027-exposure-3",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 3,
+          "quote": "不做也可以 → 不必做。",
+          "kind": "exposure",
+          "support": "segmented-model-and-translation-visible"
+        },
+        {
+          "id": "nakutemo-ii-20261027-exposure-7",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 7,
+          "quote": "今日は仕事をしなくてもいいです。明日は仕事をしなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-time-gloss-and-options-visible-no-new-ending-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakutemo-ii-20261027-attempt-8",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 8,
+          "quote": "しなくてい是不必，しなければ是不得不；所以是b吗",
+          "kind": "attempt",
+          "support": "kana-romaji-ime-time-gloss-and-options-visible-after-same-session-teaching",
+          "assessment": "B正确，能辨认两句的义务差异；口头式片段概括不完整，尤其条件前半本身不等于必须。完整结构仍需点拨，不判独立掌握。"
+        },
+        {
+          "id": "nakutemo-ii-20261027-exposure-9",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 9,
+          "quote": "しなくてもいいです。／しなければなりません。",
+          "kind": "exposure",
+          "support": "full-chunk-comparison-and-translation-visible"
+        },
+        {
+          "id": "nakutemo-ii-20261027-exposure-17",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 17,
+          "quote": "明日は仕事をしなくてもいいです。",
+          "kind": "exposure",
+          "support": "full-transcript-kana-romaji-ime-and-segmented-Chinese-meaning-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakutemo-ii-20261027-attempt-18",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 18,
+          "quote": "しなくても我理解为不做行吗，いいです是可以",
+          "kind": "attempt",
+          "support": "second-sentence-transcript-kana-romaji-ime-and-segmented-Chinese-meaning-visible",
+          "assessment": "用户询问前半可否先抓不做，后半可以理解正确；这是分块确认，不当作完整行动题作答或新听力通过。"
+        },
+        {
+          "id": "nakutemo-ii-20261027-exposure-19",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 19,
+          "quote": "予約を変更しなくてもいいです。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-new-word-gloss-and-prior-grammar-explanation-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakutemo-ii-20261027-supported-correct-20",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 20,
+          "quote": "可以保留",
+          "kind": "supported-correct",
+          "support": "kana-romaji-ime-new-word-gloss-and-prior-grammar-explanation-visible",
+          "assessment": "换到酒店预订后，正确判断可以保留原预订；同课近迁移，有可见支持，不算隔日独立保持。"
+        },
+        {
+          "id": "nakutemo-ii-20261027-attempt-24",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 24,
+          "quote": "不必更了",
+          "kind": "attempt",
+          "support": "audio-question-with-known-prefix-and-prior-identical-text-exposure-playback-not-explicitly-confirmed",
+          "assessment": "所选意思不必更改正确；未明确自报听过本条，实际播放与次数未知，不登记听力通过。"
+        },
+        {
+          "id": "nakutemo-ii-20261027-supported-correct-26",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 26,
+          "quote": "第一句是不做不行，第二句是不做可以",
+          "kind": "supported-correct",
+          "support": "familiar-text-audio-pair-context-known-prefix-second-clip-reused-playback-not-explicitly-confirmed",
+          "assessment": "正确对应第一句不做不行、第二句不做可以；为本课熟悉材料组合判断，用户未明确报告本组播放，不能写为陌生纯听通过或隔日保持。"
+        },
+        {
+          "id": "nakutemo-ii-20261028-exposure-3",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 3,
+          "quote": "予約を変更する人は、前日までに連絡してください。変更しない人は、連絡しなくてもいいです。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-time-gloss-and-Chinese-clause-subject-hints-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakutemo-ii-20261028-exposure-5",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 5,
+          "quote": "変更しない人は、連絡しなくてもいいです。",
+          "kind": "exposure",
+          "support": "grouped-Japanese-kana-romaji-ime-visible-no-new-translation-of-ending",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakutemo-ii-20261028-supported-correct-6",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 6,
+          "quote": "不用，但是你要带我解读一下这个句子一会儿，我很多不认识，我认为是変更しない是变更否定；人は是人；連絡しなくでも是联络否定，しなく长得像しない应该是否定；いいです是可以，就是不联络可以",
+          "kind": "supported-correct",
+          "support": "grouped-Japanese-kana-romaji-ime-visible-and-prior-same-notice-context",
+          "assessment": "回答不用并正确组合不联系可以，能由与不做形式的相似推测否定；分块与拼读可见，不记无提示隔日复习。用户主动要求完整解读。"
+        },
+        {
+          "id": "nakutemo-ii-20261028-exposure-7",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 7,
+          "quote": "変更しない人は、連絡しなくてもいいです。",
+          "kind": "exposure",
+          "support": "grouped-Japanese-and-full-Chinese-chunk-explanation-visible"
+        },
+        {
+          "id": "nakutemo-ii-20261028-supported-correct-8",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 8,
+          "quote": "不能，他改了预订，需要联系酒店。",
+          "kind": "supported-correct",
+          "support": "full-Chinese-chunk-and-permission-scope-explanation-visible",
+          "assessment": "正确判断更改入住日者不属免联系的人群，并结合通知要求得出需要联系；中文解释后条件应用，不算无提示识读。"
+        },
+        {
+          "id": "nakutemo-ii-20261028-exposure-17",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 17,
+          "quote": "予約を変更する人は、前日の午後５時までに電話で連絡してください。メールでは変更できません。変更しない人は、連絡しなくてもいいです。",
+          "kind": "exposure",
+          "support": "original-grouped-reading-kana-romaji-ime-visible-no-new-whole-text-translation",
+          "materialSource": "tutor-authored"
+        }
+      ]
+    },
+    {
+      "id": "nakereba-naranai",
+      "japanese": "〜なければならない",
+      "romaji": "nakereba naranai",
+      "meaning": "必须……；本轮呈现礼貌形式〜なければなりません（nakereba narimasen）",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "nakereba-naranai-20261027-exposure-5",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 5,
+          "quote": "予定を変更しなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-old-word-gloss-logic-hint-and-options-visible",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakereba-naranai-20261027-supported-correct-6",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 6,
+          "quote": "a",
+          "kind": "supported-correct",
+          "support": "kana-romaji-ime-old-word-gloss-logic-hint-and-options-visible",
+          "assessment": "选择必须更改正确；仅为逻辑提示下的中文选项辨认，不代表日语输出或无提示迁移。",
+          "responseMode": "multiple-choice"
+        },
+        {
+          "id": "nakereba-naranai-20261027-exposure-7",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 7,
+          "quote": "今日は仕事をしなくてもいいです。明日は仕事をしなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-time-gloss-and-options-visible-no-new-ending-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakereba-naranai-20261027-attempt-8",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 8,
+          "quote": "しなくてい是不必，しなければ是不得不；所以是b吗",
+          "kind": "attempt",
+          "support": "kana-romaji-ime-time-gloss-and-options-visible-after-same-session-teaching",
+          "assessment": "B正确，能辨认两句的义务差异；口头式片段概括不完整，尤其条件前半本身不等于必须。完整结构仍需点拨，不判独立掌握。"
+        },
+        {
+          "id": "nakereba-naranai-20261027-exposure-9",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 9,
+          "quote": "しなくてもいいです。／しなければなりません。",
+          "kind": "exposure",
+          "support": "full-chunk-comparison-and-translation-visible"
+        },
+        {
+          "id": "nakereba-naranai-20261027-listening-attempt-10",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 10,
+          "quote": "有点听不懂，应还是a；きおわ是今天，然后是しなければなりませえん。应该是今天不行的意思，我听了好多遍",
+          "kind": "attempt",
+          "support": "self-reported-multiple-listens-familiar-grammar-prior-text-no-current-transcript-presented",
+          "assessment": "选择A错误；自报多次听音，写出接近关键句尾但解释为今天不行。明确出现义务结构的语义误判，其他听辨困难尚未排除。"
+        },
+        {
+          "id": "nakereba-naranai-20261027-exposure-11",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 11,
+          "quote": "今日は仕事をしなければなりません。",
+          "kind": "exposure",
+          "support": "audio-transcript-kana-romaji-ime-and-explicit-negation-scope-visible"
+        },
+        {
+          "id": "nakereba-naranai-20261027-attempt-12",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 12,
+          "quote": "なりません是不行，しなけりば是什么意思呢，如果是今天的工作做不行，可以是想休息不工作，",
+          "kind": "attempt",
+          "support": "first-sentence-transcript-and-negation-scope-explanation-visible",
+          "assessment": "用户认识本结构后半的不行，明确询问前半意义，仍将条件前半理解成做而漏掉不；当前瓶颈可定位为否定条件形式，并非仅完整句尾记忆。"
+        },
+        {
+          "id": "nakereba-naranai-20261027-exposure-13",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 13,
+          "quote": "する → しない → しなければ",
+          "kind": "exposure",
+          "support": "base-negative-conditional-forms-kana-romaji-ime-and-Chinese-mapping-visible"
+        },
+        {
+          "id": "nakereba-naranai-20261027-supported-correct-14",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 14,
+          "quote": "しなけりば是如果不，なりなせん是不行了，如果不做就不行了，今天工作要做啊",
+          "kind": "supported-correct",
+          "support": "base-negative-conditional-forms-and-explicit-Chinese-logic-visible",
+          "assessment": "用户明确推导如果不做就不行，并得出今天要工作，当前有提示语义理解正确；输入形式有差异，读音及无提示保持未知。"
+        },
+        {
+          "id": "nakereba-naranai-20261027-exposure-15",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 15,
+          "quote": "今日は仕事をしなければなりません。",
+          "kind": "exposure",
+          "support": "full-transcript-kana-romaji-ime-and-Chinese-meaning-visible"
+        },
+        {
+          "id": "nakereba-naranai-20261027-exposure-21",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 21,
+          "quote": "予約を変更しなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-visible-after-prior-teaching-no-current-full-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "nakereba-naranai-20261027-supported-correct-22",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 22,
+          "quote": "不符合",
+          "kind": "supported-correct",
+          "support": "kana-romaji-ime-visible-after-prior-teaching-no-current-full-translation",
+          "assessment": "酒店场景换成必须句尾后，正确判断不更改不符合要求；同课文字近迁移正确，听音迁移待新回应。"
+        },
+        {
+          "id": "nakereba-naranai-20261027-supported-correct-26",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 26,
+          "quote": "第一句是不做不行，第二句是不做可以",
+          "kind": "supported-correct",
+          "support": "familiar-text-audio-pair-context-known-prefix-second-clip-reused-playback-not-explicitly-confirmed",
+          "assessment": "正确对应第一句不做不行、第二句不做可以；为本课熟悉材料组合判断，用户未明确报告本组播放，不能写为陌生纯听通过或隔日保持。"
+        }
+      ]
+    },
+    {
+      "id": "suru",
+      "japanese": "する",
+      "romaji": "suru",
+      "meaning": "做；本轮同时明确不做形式しない（shinai）及条件形式しなければ（shinakereba）",
+      "kind": "word",
+      "events": [
+        {
+          "id": "suru-20261027-exposure-13",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 13,
+          "quote": "する → しない → しなければ",
+          "kind": "exposure",
+          "support": "base-negative-conditional-forms-kana-romaji-ime-and-Chinese-mapping-visible"
+        },
+        {
+          "id": "suru-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "した",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        }
+      ]
+    },
+    {
+      "id": "yoyaku",
+      "japanese": "予約",
+      "romaji": "yoyaku",
+      "meaning": "预约；预订（这里为酒店预订）",
+      "kind": "word",
+      "events": [
+        {
+          "id": "yoyaku-20261027-exposure-19",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 19,
+          "quote": "予約",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-and-Chinese-gloss-visible",
+          "materialSource": "reference-lexicon:jmdict-1543750",
+          "referenceLevel": "N4",
+          "selectionBasis": "教师选用于预约变更通知，不宣称官方必考频率。"
+        },
+        {
+          "id": "yoyaku-20261027-exposure-21",
+          "date": "2026-10-27",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 21,
+          "quote": "予約を変更しなければなりません。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-visible-after-prior-teaching-no-current-full-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "yoyaku-20261028-exposure-1",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 1,
+          "quote": "予約を変更するので、ホテルに電話で（　）しました。",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-Chinese-situation-and-untranslated-options-visible",
+          "materialSource": "tutor-authored"
+        }
+      ]
+    },
+    {
+      "id": "renraku",
+      "japanese": "連絡",
+      "romaji": "renraku",
+      "meaning": "联系；通知",
+      "kind": "word",
+      "events": [
+        {
+          "id": "renraku-20261028-attempt-2",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 2,
+          "quote": "B",
+          "kind": "attempt",
+          "support": "kana-romaji-ime-Chinese-situation-and-untranslated-options-visible",
+          "assessment": "语境选词正确，选择联系；不证明无提示回忆或整句翻译。"
+        },
+        {
+          "id": "renraku-20261028-exposure-3",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 3,
+          "quote": "連絡",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-Chinese-gloss-and-context-visible",
+          "materialSource": "reference-lexicon:jmdict-1559900",
+          "referenceLevel": "N4"
+        },
+        {
+          "id": "renraku-20261028-attempt-6",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 6,
+          "quote": "不用，但是你要带我解读一下这个句子一会儿，我很多不认识，我认为是変更しない是变更否定；人は是人；連絡しなくでも是联络否定，しなく长得像しない应该是否定；いいです是可以，就是不联络可以",
+          "kind": "attempt",
+          "support": "grouped-Japanese-kana-romaji-ime-and-prior-gloss-visible",
+          "assessment": "能把联系词块解释为联络否定并组合允许义；片段有假名差异，不据此判断真实发音。"
+        }
+      ]
+    },
+    {
+      "id": "zenjitsu-made-ni",
+      "japanese": "前日までに",
+      "romaji": "zenjitsu made ni",
+      "meaning": "最晚在前一天（此通知相对于入住日）",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "zenjitsu-made-ni-20261028-exposure-3",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 3,
+          "quote": "前日までに",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-and-Chinese-time-gloss-visible",
+          "materialSource": "tutor-selected-deadline-expression",
+          "referenceLevel": null
+        },
+        {
+          "id": "zenjitsu-made-ni-20261028-supported-correct-4",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 4,
+          "quote": "周4",
+          "kind": "supported-correct",
+          "support": "time-expression-Chinese-gloss-kana-romaji-and-clause-subject-hints-visible",
+          "assessment": "正确把周五入住的前日应用为周四；中文时间释义已给，不作无提示词义回忆。"
+        },
+        {
+          "id": "zenjitsu-made-ni-20261028-attempt-18",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 18,
+          "quote": "前日の午後５時までに電話で連絡してください；前日のごご　ごじまでに電話で連絡しでください；应该是前日就是后天，吧，后天下午5点まて截止；电话联系しでください可以。",
+          "kind": "attempt",
+          "support": "Japanese-notice-grouped-reading-kana-romaji-ime-no-new-whole-translation",
+          "assessment": "能定位截止块，但把前日误解为后天；此前带中译的日期应用正确不等于词义已保持。"
+        }
+      ]
+    },
+    {
+      "id": "hito",
+      "japanese": "人",
+      "romaji": "hito",
+      "meaning": "人；本句由前面的不更改限定是哪类人",
+      "kind": "word",
+      "events": [
+        {
+          "id": "hito-20261028-attempt-6",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 6,
+          "quote": "不用，但是你要带我解读一下这个句子一会儿，我很多不认识，我认为是変更しない是变更否定；人は是人；連絡しなくでも是联络否定，しなく长得像しない应该是否定；いいです是可以，就是不联络可以",
+          "kind": "attempt",
+          "support": "grouped-Japanese-kana-romaji-ime-visible",
+          "assessment": "用户自行把人对应为人，话题助词功能在07再讲。"
+        },
+        {
+          "id": "hito-20261028-exposure-7",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 7,
+          "quote": "人",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-Chinese-gloss-and-topic-explanation-visible"
+        }
+      ]
+    },
+    {
+      "id": "shinai-hito",
+      "japanese": "〜しない人",
+      "romaji": "shinai hito",
+      "meaning": "不做某件事的人；本句是不更改预订的人",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "shinai-hito-20261028-exposure-7",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 7,
+          "quote": "変更しない人は、連絡しなくてもいいです。",
+          "kind": "exposure",
+          "support": "grouped-Japanese-and-Chinese-noun-modifier-explanation-visible"
+        },
+        {
+          "id": "shinai-hito-20261028-supported-correct-8",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 8,
+          "quote": "不能，他改了预订，需要联系酒店。",
+          "kind": "supported-correct",
+          "support": "full-Chinese-chunk-and-permission-scope-explanation-visible",
+          "assessment": "正确判断更改入住日者不属免联系的人群，并结合通知要求得出需要联系；中文解释后条件应用，不算无提示识读。"
+        }
+      ]
+    },
+    {
+      "id": "made-ni",
+      "japanese": "〜までに",
+      "romaji": "made ni",
+      "meaning": "最晚在某时间完成动作；表示截止时间",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "made-ni-20261028-exposure-11",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 11,
+          "quote": "予約を変更する人は、明日までに連絡してください。",
+          "kind": "exposure",
+          "support": "full-transcript-grouped-reading-and-explicit-deadline-explanation-visible"
+        },
+        {
+          "id": "made-ni-20261028-attempt-12",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 12,
+          "quote": "あしたまてに、我听是这个，其实是明日までに、明日是明天，までに是截止吗，是词根？まで是不要停止吧に是什么",
+          "kind": "attempt",
+          "support": "current-audio-full-transcript-and-deadline-meaning-visible",
+          "assessment": "用户明确自报所听片段并询问截止、词根、两个助词意义；至今未回答能否今天提前完成。"
+        },
+        {
+          "id": "made-ni-20261028-exposure-13",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 13,
+          "quote": "明日までに",
+          "kind": "exposure",
+          "support": "grouped-reading-and-explicit-particle-combination-deadline-explanation-visible",
+          "materialSource": "https://ba.jpf.go.jp/wp-content/uploads/2022/03/Akiko5_bunpoo382002.pdf",
+          "sourceLocation": "第22课(期限)，PDF第2—3页"
+        },
+        {
+          "id": "made-ni-20261028-supported-correct-16",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 16,
+          "quote": "可以的，满足的",
+          "kind": "supported-correct",
+          "support": "full-Chinese-deadline-explanation-visible",
+          "assessment": "确认中文截止概念理解，用户指出过易；不作为新的日语理解成绩。"
+        },
+        {
+          "id": "made-ni-20261028-exposure-17",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 17,
+          "quote": "予約を変更する人は、前日の午後５時までに電話で連絡してください。メールでは変更できません。変更しない人は、連絡しなくてもいいです。",
+          "kind": "exposure",
+          "support": "original-grouped-reading-kana-romaji-ime-visible-no-new-whole-text-translation",
+          "materialSource": "tutor-authored"
+        },
+        {
+          "id": "made-ni-20261028-supported-correct-24",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 24,
+          "quote": "A，前日の午後３時までにメールで連絡してください",
+          "kind": "supported-correct",
+          "support": "new-notice-grouping-kana-romaji-ime-visible-no-new-whole-translation-options-Chinese",
+          "assessment": "新渠道和时刻组合下选A并摘对截止/方式依据；前日纠正后能应用到新入住日期，同课支持下表现。"
+        }
+      ]
+    },
+    {
+      "id": "made",
+      "japanese": "〜まで",
+      "romaji": "made",
+      "meaning": "到某个界限为止；本轮讲时间界限，与期限表达区分",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "made-20261028-exposure-13",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 13,
+          "quote": "明日まで",
+          "kind": "exposure",
+          "support": "romaji-and-Chinese-limit-explanation-visible",
+          "materialSource": "https://ba.jpf.go.jp/wp-content/uploads/2022/03/Akiko5_bunpoo382002.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mate-command",
+      "japanese": "待て！",
+      "romaji": "mate",
+      "meaning": "等等！站住！等待的命令形，语气较强硬；非中二专用词",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "mate-command-20261028-exposure-15",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 15,
+          "quote": "待て！",
+          "kind": "exposure",
+          "support": "grouped-reading-kana-romaji-ime-Chinese-gloss-and-register-visible",
+          "materialSource": "tutor-reviewed-imperative-of-reference-lexicon:jmdict-1410590",
+          "sourceLimit": "用户未提供具体动漫音频，仅作为可能听到的候选词。"
+        }
+      ]
+    },
+    {
+      "id": "zenjitsu",
+      "japanese": "前日",
+      "romaji": "zenjitsu",
+      "meaning": "某个所说日期的前一天；本通知相对于入住日",
+      "kind": "word",
+      "events": [
+        {
+          "id": "zenjitsu-20261028-exposure-19",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 19,
+          "quote": "前日",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-and-explicit-relative-date-explanation-visible"
+        },
+        {
+          "id": "zenjitsu-20261028-supported-correct-24",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 24,
+          "quote": "A，前日の午後３時までにメールで連絡してください",
+          "kind": "supported-correct",
+          "support": "new-notice-grouping-kana-romaji-ime-visible-no-new-whole-translation-options-Chinese",
+          "assessment": "新渠道和时刻组合下选A并摘对截止/方式依据；前日纠正后能应用到新入住日期，同课支持下表现。"
+        }
+      ]
+    },
+    {
+      "id": "shite-kudasai",
+      "japanese": "してください",
+      "romaji": "shite kudasai",
+      "meaning": "请做……；本句为请联系，表示请求而非许可",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "shite-kudasai-20261028-exposure-19",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 19,
+          "quote": "連絡してください",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-and-request-versus-permission-explanation-visible"
+        },
+        {
+          "id": "shite-kudasai-20261028-attempt-26",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 26,
+          "quote": "メールでわへんこできません；email变更不行；電話でわしでください电话变更可以",
+          "kind": "attempt",
+          "support": "familiar-components-audio-task",
+          "assessment": "电话渠道判断对，后半转写不完整并概括为可以；请求功能尚未稳定。"
+        },
+        {
+          "id": "shite-kudasai-20261028-exposure-27",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 27,
+          "quote": "連絡してください",
+          "kind": "exposure",
+          "support": "full-transcript-grouped-reading-kana-romaji-ime-Chinese-request-gloss-visible"
+        },
+        {
+          "id": "shite-kudasai-20261029-exposure-03",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 3,
+          "quote": "話してください",
+          "kind": "exposure",
+          "support": "request-cue-and-reading-aids-visible"
+        },
+        {
+          "id": "shite-kudasai-20261029-supported-04",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 4,
+          "quote": "A",
+          "kind": "supported-correct",
+          "support": "Chinese-request-cue-and-reading-aids-visible",
+          "assessment": "显式请求提示和二选一条件下选请说明理由，不计独立隔日验证。"
+        }
+      ]
+    },
+    {
+      "id": "masen",
+      "japanese": "〜ません",
+      "romaji": "masen",
+      "meaning": "礼貌的否定结尾，本身不是道歉词",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "masen-20261028-exposure-21",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 21,
+          "quote": "ません",
+          "kind": "exposure",
+          "support": "kana-word-forms-romaji-ime-and-Chinese-contrast-visible"
+        },
+        {
+          "id": "masen-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "行きません",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        },
+        {
+          "id": "masen-20261029-supported-08",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 8,
+          "quote": "好可怕不去",
+          "kind": "supported-correct",
+          "support": "Chinese-meaning-and-cause-negative-cues-visible",
+          "assessment": "在词义和结构提示下正确判断原因与不去，未要求逐词输出；不计独立保持。"
+        }
+      ]
+    },
+    {
+      "id": "dekimasu-dekimasen",
+      "japanese": "できます／できません",
+      "romaji": "dekimasu / dekimasen",
+      "meaning": "能、能够／不能，礼貌形式对照",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "dekimasu-dekimasen-20261028-exposure-21",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 21,
+          "quote": "できます",
+          "kind": "exposure",
+          "support": "kana-word-forms-romaji-ime-and-Chinese-contrast-visible"
+        },
+        {
+          "id": "dekimasu-dekimasen-20261028-supported-correct-22",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 22,
+          "quote": "できます是可以，できません是不可以，结论わ可以",
+          "kind": "supported-correct",
+          "support": "form-pair-Chinese-meaning-and-phonetic-grouped-reading-visible",
+          "assessment": "正确区分能/不能，并正确判断电话肯定句；紧随解释的有提示辨认，后续需换材料。"
+        },
+        {
+          "id": "dekimasu-dekimasen-20261028-attempt-26",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 26,
+          "quote": "メールでわへんこできません；email变更不行；電話でわしでください电话变更可以",
+          "kind": "attempt",
+          "support": "audio-task-with-contact-word-gloss-prior-text-exposure-current-full-transcript-not-yet-shown",
+          "assessment": "音频内容转写中正确对应邮件不能办理；用户报告近似片段，不评实际发音，未听清的细节不补写。"
+        }
+      ]
+    },
+    {
+      "id": "sumimasen",
+      "japanese": "すみません",
+      "romaji": "sumimasen",
+      "meaning": "抱歉；不好意思，作为与否定结尾的对照",
+      "kind": "expression",
+      "events": [
+        {
+          "id": "sumimasen-20261028-exposure-21",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 21,
+          "quote": "すみません",
+          "kind": "exposure",
+          "support": "kana-word-forms-romaji-ime-and-Chinese-contrast-visible"
+        }
+      ]
+    },
+    {
+      "id": "denwa",
+      "japanese": "電話",
+      "romaji": "denwa",
+      "meaning": "电话",
+      "kind": "word",
+      "events": [
+        {
+          "id": "denwa-20261028-exposure-25",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 25,
+          "quote": "電話／メール",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-and-Chinese-word-gloss-visible",
+          "materialSource": "tutor-selected-contact-method-contrast"
+        }
+      ]
+    },
+    {
+      "id": "meeru",
+      "japanese": "メール",
+      "romaji": "mēru",
+      "meaning": "电子邮件；本通知的办理渠道",
+      "kind": "word",
+      "events": [
+        {
+          "id": "meeru-20261028-exposure-25",
+          "date": "2026-10-28",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 25,
+          "quote": "電話／メール",
+          "kind": "exposure",
+          "support": "kana-romaji-ime-and-Chinese-word-gloss-visible",
+          "materialSource": "tutor-selected-contact-method-contrast"
+        }
+      ]
+    },
+    {
+      "id": "wake",
+      "japanese": "わけ",
+      "romaji": "wake",
+      "meaning": "本题中：原因、缘由",
+      "kind": "word",
+      "events": [
+        {
+          "id": "wake-20261029-exposure-03",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 3,
+          "quote": "わけ",
+          "kind": "exposure",
+          "support": "meaning-explained-grouped-kana-romaji-ime-visible"
+        }
+      ]
+    },
+    {
+      "id": "riyuu",
+      "japanese": "理由",
+      "romaji": "riyū",
+      "meaning": "理由、原因",
+      "kind": "word",
+      "events": [
+        {
+          "id": "riyuu-20261029-exposure-03",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 3,
+          "quote": "理由",
+          "kind": "exposure",
+          "support": "meaning-explained-grouped-kana-romaji-ime-visible"
+        }
+      ]
+    },
+    {
+      "id": "hanasu",
+      "japanese": "話す",
+      "romaji": "hanasu",
+      "meaning": "说、讲；本课出现连接形式話して",
+      "kind": "word",
+      "events": [
+        {
+          "id": "hanasu-20261029-exposure-03",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 3,
+          "quote": "話して",
+          "kind": "exposure",
+          "support": "meaning-explained-grouped-kana-romaji-ime-visible"
+        }
+      ]
+    },
+    {
+      "id": "osoroshii",
+      "japanese": "おそろしい",
+      "romaji": "osoroshii",
+      "meaning": "可怕的、令人害怕的",
+      "kind": "word",
+      "events": [
+        {
+          "id": "osoroshii-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "おそろしい",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        }
+      ]
+    },
+    {
+      "id": "kowai",
+      "japanese": "こわい",
+      "romaji": "kowai",
+      "meaning": "可怕的；害怕",
+      "kind": "word",
+      "events": [
+        {
+          "id": "kowai-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "こわい",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        },
+        {
+          "id": "kowai-20261029-supported-08",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 8,
+          "quote": "好可怕不去",
+          "kind": "supported-correct",
+          "support": "Chinese-meaning-and-cause-negative-cues-visible",
+          "assessment": "在词义和结构提示下正确判断原因与不去，未要求逐词输出；不计独立保持。"
+        },
+        {
+          "id": "kowai-20261029-exposure-09",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 9,
+          "quote": "こわい",
+          "kind": "exposure",
+          "support": "grouped-kana-romaji-ime-visible"
+        },
+        {
+          "id": "kowai-20261029-attempt-10",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 10,
+          "quote": "好可怕不是吗？走吧。应该是去了",
+          "kind": "attempt",
+          "support": "contrast-gloss-and-reading-aids-visible",
+          "assessment": "害怕与去的方向正确；转折解作反问，动作解作邀请及已发生；句子整体不判正确。"
+        }
+      ]
+    },
+    {
+      "id": "keiken",
+      "japanese": "経験",
+      "romaji": "keiken",
+      "meaning": "经验；本题指经历",
+      "kind": "word",
+      "events": [
+        {
+          "id": "keiken-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "経験",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        }
+      ]
+    },
+    {
+      "id": "totemo",
+      "japanese": "とても",
+      "romaji": "totemo",
+      "meaning": "非常、很",
+      "kind": "word",
+      "events": [
+        {
+          "id": "totemo-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "とても",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        }
+      ]
+    },
+    {
+      "id": "node",
+      "japanese": "ので",
+      "romaji": "node",
+      "meaning": "连接原因与结果，表示因为",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "node-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "ので",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        },
+        {
+          "id": "node-20261029-supported-08",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 8,
+          "quote": "好可怕不去",
+          "kind": "supported-correct",
+          "support": "Chinese-meaning-and-cause-negative-cues-visible",
+          "assessment": "在词义和结构提示下正确判断原因与不去，未要求逐词输出；不计独立保持。"
+        }
+      ]
+    },
+    {
+      "id": "iku",
+      "japanese": "行く",
+      "romaji": "iku",
+      "meaning": "去；礼貌形式行きます，否定行きません",
+      "kind": "word",
+      "events": [
+        {
+          "id": "iku-20261029-exposure-07",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 7,
+          "quote": "行きます",
+          "kind": "exposure",
+          "support": "Chinese-meaning-and-reading-aids-visible"
+        },
+        {
+          "id": "iku-20261029-supported-08",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 8,
+          "quote": "好可怕不去",
+          "kind": "supported-correct",
+          "support": "Chinese-meaning-and-cause-negative-cues-visible",
+          "assessment": "在词义和结构提示下正确判断原因与不去，未要求逐词输出；不计独立保持。"
+        },
+        {
+          "id": "iku-20261029-exposure-09",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 9,
+          "quote": "行きます",
+          "kind": "exposure",
+          "support": "grouped-kana-romaji-ime-visible"
+        },
+        {
+          "id": "iku-20261029-attempt-10",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 10,
+          "quote": "好可怕不是吗？走吧。应该是去了",
+          "kind": "attempt",
+          "support": "contrast-gloss-and-reading-aids-visible",
+          "assessment": "害怕与去的方向正确；转折解作反问，动作解作邀请及已发生；句子整体不判正确。"
+        },
+        {
+          "id": "iku-20261029-exposure-11",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 11,
+          "quote": "行きます",
+          "kind": "exposure",
+          "support": "explicit-Chinese-correction"
+        }
+      ]
+    },
+    {
+      "id": "desu-ga-contrast",
+      "japanese": "〜ですが",
+      "romaji": "desu ga",
+      "meaning": "本句中表示转折：但是",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "desu-ga-contrast-20261029-exposure-09",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 9,
+          "quote": "ですが",
+          "kind": "exposure",
+          "support": "Chinese-function-gloss-and-reading-aids-visible"
+        },
+        {
+          "id": "desu-ga-contrast-20261029-attempt-10",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 10,
+          "quote": "好可怕不是吗？走吧。应该是去了",
+          "kind": "attempt",
+          "support": "contrast-gloss-and-reading-aids-visible",
+          "assessment": "害怕与去的方向正确；转折解作反问，动作解作邀请及已发生；句子整体不判正确。"
+        },
+        {
+          "id": "desu-ga-contrast-20261029-exposure-11",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 11,
+          "quote": "ですが",
+          "kind": "exposure",
+          "support": "explicit-Chinese-correction"
+        }
+      ]
+    },
+    {
+      "id": "desu-ka-question",
+      "japanese": "〜ですか",
+      "romaji": "desu ka",
+      "meaning": "礼貌疑问句尾：……吗？",
+      "kind": "grammar",
+      "events": [
+        {
+          "id": "desu-ka-question-20261029-exposure-11",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 11,
+          "quote": "ですか",
+          "kind": "exposure",
+          "support": "explicit-ga-ka-contrast-and-reading-aids"
+        },
+        {
+          "id": "desu-ka-question-20261029-attempt-12",
+          "date": "2026-10-29",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 12,
+          "quote": "很可怕不是吗",
+          "kind": "attempt",
+          "support": "explicit-question-gloss-and-reading-aids-visible",
+          "assessment": "识别害怕和提问，但加入程度与征求认同语气；13纠正普通询问，不按完全等值翻译判通过。"
         }
       ]
     }
@@ -1631,8 +3359,8 @@
         "mondai",
         "arimasu"
       ],
-      "contentSummary": "第一句结果呢在03的词及助词有提示写对，提问建议问号。05很遗憾配旧有问题，06待答；两句起步，无发音评价，实际时长未测。",
-      "status": "active",
+      "contentSummary": "两句实际开展：结果呢的词与助词正确，提问可用问号；第二句首次开头汉字不符，第二次完整输入正确且已保存。均有四项提示，独立理解、听说未测。用户明确停止，不强制总结或追加内容。",
+      "status": "ended",
       "assessmentSessionId": "2026-10-12-01",
       "recordingMode": "incremental-per-interaction",
       "timePreference": {
@@ -1660,24 +3388,38 @@
           {
             "itemId": "mondai",
             "integration": "下一句报告不如人意的检查结果。",
-            "status": "presented-not-assessed",
+            "status": "responded-with-support",
             "presentedAt": {
               "file": "日常练习/2026-10-12.md",
               "turn": 5
             },
             "support": "model-and-translation-visible",
-            "nextAction": "根据第二句实际作答观察，不要求额外旧词题。"
+            "nextAction": "下次自然重遇，不要求补抄。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-12.md",
+                "turn": 6
+              }
+            ],
+            "result": "第二句完整书面回应正确，带示范，不作独立复习验证。"
           },
           {
             "itemId": "arimasu",
             "integration": "下一句报告有问题的结果。",
-            "status": "presented-not-assessed",
+            "status": "responded-with-support",
             "presentedAt": {
               "file": "日常练习/2026-10-12.md",
               "turn": 5
             },
             "support": "model-and-translation-visible",
-            "nextAction": "根据第二句实际作答观察，不要求额外旧词题。"
+            "nextAction": "下次自然重遇，不要求补抄。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-12.md",
+                "turn": 6
+              }
+            ],
+            "result": "第二句完整书面回应正确，带示范，不作独立复习验证。"
           }
         ],
         "unresolvedPriorItems": [
@@ -1708,7 +3450,1144 @@
         "replyTurn": 6,
         "ready": true,
         "verification": "study_progress.py ready passed"
+      },
+      "resumeSuggestion": "根据当下精力在新场景自然重遇询问结果与遗憾信息；不预设下次必须目标或总结。"
+    },
+    {
+      "id": "2026-10-15-01",
+      "date": "2026-10-15",
+      "source": "日常练习/2026-10-15.md",
+      "newItemIds": [
+        "dou-shita-no",
+        "doushite",
+        "ii-ne",
+        "henkou",
+        "chuushi",
+        "enki"
+      ],
+      "revisitedItemIds": [
+        "sukoshi",
+        "mondai",
+        "arimasu",
+        "ashita",
+        "yasumu",
+        "yotei",
+        "particle-o"
+      ],
+      "status": "stopped-by-user",
+      "assessmentSessionId": "2026-10-15-01",
+      "recordingMode": "incremental-per-interaction",
+      "contentSummary": "本课基础问法和回应及N3参考变更、中止、延期均有提示输入正确；19延期安排已保存且正确，按用户要求停止加课。独立记忆、听力和有效学习时长未知。",
+      "timePreference": {
+        "userQuote": "先学半个小时再说,咱先来开始吧,先开始吧,不管学多长时间,先开始吧",
+        "firstObservedAt": "2026-10-15T19:23:52+08:00",
+        "activeLearningMinutes": null,
+        "clarification": "用户指出等待时间占多，明确要求继续；不据会话跨度自动停止。"
+      },
+      "reviewPlan": {
+        "arrangedOn": "2026-10-15",
+        "stage": "before-first-teaching",
+        "selectionBasis": "问题与有在10月12日有提示写对，距今3天；稍微10月8日有提示写对，距今7天。独立记忆未知，复用旧单词造自然回应，不单独测验。",
+        "targets": [
+          {
+            "itemId": "sukoshi",
+            "integration": "朋友问怎么了，回应有点问题，旧词自然组合。",
+            "status": "presented-not-assessed",
+            "presentedAt": {
+              "file": "日常练习/2026-10-15.md",
+              "turn": 2
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "在后续实际回应中自然观察，不额外考旧词。"
+          },
+          {
+            "itemId": "mondai",
+            "integration": "朋友问怎么了，回应有点问题，旧词自然组合。",
+            "status": "presented-not-assessed",
+            "presentedAt": {
+              "file": "日常练习/2026-10-15.md",
+              "turn": 2
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "在后续实际回应中自然观察，不额外考旧词。"
+          },
+          {
+            "itemId": "arimasu",
+            "integration": "朋友问怎么了，回应有点问题，旧词自然组合。",
+            "status": "presented-not-assessed",
+            "presentedAt": {
+              "file": "日常练习/2026-10-15.md",
+              "turn": 2
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "在后续实际回应中自然观察，不额外考旧词。"
+          },
+          {
+            "itemId": "yasumu",
+            "status": "presented-not-assessed",
+            "integration": "朋友说明天休息，带出为什么的问句；不强行回改旧答案。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-15.md",
+              "turn": 9
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "后续自然观察，不因未抄旧句记失败。"
+          },
+          {
+            "itemId": "yotei",
+            "status": "responded-with-support",
+            "integration": "已学安排词与新变更动词自然搭配。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-15.md",
+              "turn": 14
+            },
+            "support": "model-and-translation-visible",
+            "nextAction": "后续自然换情境，不重复抄写。",
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-15.md",
+                "turn": 15
+              }
+            ],
+            "result": "安排词与变更搭配书面正确，有可见提示。"
+          }
+        ],
+        "priorUnfinished": [
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "yasumu",
+            "decision": "deferred",
+            "reason": "保留休息漏ma的旧证据，本次不强行凑入故障情境。"
+          },
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "sou-kamo-shirenai",
+            "decision": "deferred",
+            "reason": "保留ri/re差异，以后适合不确定情境时重遇。"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "itemId": "doushite",
+          "status": "resolved-by-intent-clarification",
+          "evidence": {
+            "file": "日常练习/2026-10-15.md",
+            "turn": 10
+          },
+          "reason": "末行多の；前两行及why正确。",
+          "nextAction": "按实际意图区分，两种词句均已写对，不重抄。",
+          "resolutionEvidence": {
+            "file": "日常练习/2026-10-15.md",
+            "turn": 10
+          }
+        }
+      ],
+      "selectionAdjustment": {
+        "reason": "用户质疑是否落实N3目标，今日新短回应偏基础；材料池先前顺序容易导致低级循环。",
+        "decision": "分类不作强制路线，改用N3参考词变化配旧安排词；可保留基础支撑，难度依据真实表现。",
+        "referenceEvidence": {
+          "itemId": "henkou",
+          "lexiconId": "jmdict-1511040",
+          "referenceLevels": [
+            "N3"
+          ],
+          "officialEvidence": []
+        },
+        "sourceBoundary": "当前新例句教师自编，词来自项目参考库，不冒充游戏原文或官方必考词。"
+      },
+      "lastCheckpoint": {
+        "file": "日常练习/2026-10-15.md",
+        "turn": 19,
+        "result": "latest-written-response-correct",
+        "nextSuggestion": "本次已停，下次按新日期与实际状态选材，自然穿插安排相关旧词；不要求重抄。"
       }
+    },
+    {
+      "id": "2026-10-26-01",
+      "date": "2026-10-26",
+      "source": "日常练习/2026-10-26.md",
+      "taskId": "JP-N3-003",
+      "newItemIds": [
+        "nakutemo-ii"
+      ],
+      "revisitedItemIds": [
+        "yotei",
+        "henkou"
+      ],
+      "status": "in-progress",
+      "assessmentSessionId": "2026-10-26-01",
+      "recordingMode": "incremental-per-interaction",
+      "contentSummary": "用户自述认识安排、变更，指出没有禁止；结尾反对与中间不认识的疑问已通过结构拆解解释，04待判断保持原安排是否符合句意。",
+      "reviewPlan": {
+        "arrangedOn": "2026-10-26",
+        "arrangedAt": "2026-10-26T21:48:02+08:00",
+        "stage": "before-first-teaching",
+        "selectionBasis": "安排与变更在10月15日有范句支持下写对，距今11天；独立记忆未测。复用原搭配，集中加入不必的判断，避免新词堆叠。",
+        "targets": [
+          {
+            "itemId": "yotei",
+            "integration": "原安排变更搭配中加入不必，判断是否禁止更改。",
+            "status": "responded-with-support",
+            "support": "model-and-translation-visible",
+            "nextAction": "保留在同一句拆解中；不重复教已自述认识的两词，不登记无提示复习通过。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-26.md",
+              "turn": 1
+            },
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-26.md",
+                "turn": 2
+              }
+            ],
+            "result": "用户自述认识预定和变更；提示及译文可见，未独立检查读音或词义。"
+          },
+          {
+            "itemId": "henkou",
+            "integration": "原安排变更搭配中加入不必，判断是否禁止更改。",
+            "status": "responded-with-support",
+            "support": "model-and-translation-visible",
+            "nextAction": "保留在同一句拆解中；不重复教已自述认识的两词，不登记无提示复习通过。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-26.md",
+              "turn": 1
+            },
+            "responseEvidence": [
+              {
+                "file": "日常练习/2026-10-26.md",
+                "turn": 2
+              }
+            ],
+            "result": "用户自述认识预定和变更；提示及译文可见，未独立检查读音或词义。"
+          }
+        ],
+        "priorUnfinished": [
+          {
+            "sessionId": "2026-10-15-01",
+            "itemId": "sukoshi",
+            "decision": "deferred",
+            "reason": "本轮只学一句，旧项不适合强插进安排许可的场景，保留后续自然重遇。"
+          },
+          {
+            "sessionId": "2026-10-15-01",
+            "itemId": "mondai",
+            "decision": "deferred",
+            "reason": "本轮只学一句，旧项不适合强插进安排许可的场景，保留后续自然重遇。"
+          },
+          {
+            "sessionId": "2026-10-15-01",
+            "itemId": "arimasu",
+            "decision": "deferred",
+            "reason": "本轮只学一句，旧项不适合强插进安排许可的场景，保留后续自然重遇。"
+          },
+          {
+            "sessionId": "2026-10-15-01",
+            "itemId": "yasumu",
+            "decision": "deferred",
+            "reason": "本轮只学一句，旧项不适合强插进安排许可的场景，保留后续自然重遇。"
+          },
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "sou-kamo-shirenai",
+            "decision": "deferred",
+            "reason": "保留旧ri/re输入疑问，本轮不另起旧词测验。"
+          }
+        ]
+      },
+      "lastCheckpoint": {
+        "file": "日常练习/2026-10-26.md",
+        "turn": 3,
+        "result": "explanation-presented-awaiting-response",
+        "nextSuggestion": "核对保持原安排的中文判断。"
+      },
+      "followUps": [
+        {
+          "itemId": "nakutemo-ii",
+          "status": "awaiting-response-after-explanation",
+          "evidence": {
+            "file": "日常练习/2026-10-26.md",
+            "turn": 2
+          },
+          "reason": "需区分不必、阻止/禁止，并理解结尾在本构式中的可以含义。",
+          "nextAction": "核对04的中文判断；不加第二句，不要求抄写。"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-01",
+      "date": "2026-10-27",
+      "source": "日常练习/2026-10-27.md",
+      "taskId": "JP-N3-003",
+      "newItemIds": [
+        "nakereba-naranai",
+        "suru",
+        "yoyaku"
+      ],
+      "revisitedItemIds": [
+        "nakutemo-ii",
+        "ashita",
+        "shigoto",
+        "yotei",
+        "henkou",
+        "kyou"
+      ],
+      "status": "completed",
+      "assessmentSessionId": "2026-10-27-01",
+      "recordingMode": "incremental-per-interaction",
+      "contentSummary": "从工作安排进入不必与必须两种句尾；首次自报多次听音选错，定位为漏掉否定条件含义，经做/不做/如果不做的显式解释后能正确推导。酒店预订新场景的两个文字行动判断正确，收束音频情境中的两段意思也对应正确；熟悉材料、同课支持与未明确的播放条件保留。新增预约一词及做的明确形式，不换算考试分数。",
+      "reviewPlan": {
+        "arrangedOn": "2026-10-27",
+        "arrangedAt": "2026-10-27T20:28:38+08:00",
+        "stage": "before-first-teaching",
+        "selectionBasis": "昨天不必结构已拆解但末次判断未回应；今天换成工作场景观察理解。工作词上次有提示回应在9月17日，间隔40天，独立保持未知。",
+        "targets": [
+          {
+            "itemId": "nakutemo-ii",
+            "integration": "主管说明明天的工作安排，辨认必须、不必和禁止。",
+            "status": "responded-with-support",
+            "nextAction": "下次把两种句尾少量融入新通知，记录条件；先补代表性的N3书面小题，不整轮重讲工作与酒店原句。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 1
+            },
+            "support": "kana-romaji-ime-word-gloss-and-options-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 20
+            },
+            "responseSupport": "kana-romaji-ime-time-gloss-and-options-visible-after-same-session-teaching",
+            "result": "酒店场景正确判断可保留原预订。",
+            "latestPresentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 19
+            },
+            "latestResponseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 26
+            }
+          },
+          {
+            "itemId": "shigoto",
+            "integration": "用旧工作词承载昨天的结构，避免堆新词。",
+            "status": "responded-with-support",
+            "nextAction": "后续新场景自然重遇，暂不单独测词。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 1
+            },
+            "support": "kana-romaji-ime-word-gloss-and-options-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 2
+            },
+            "responseSupport": "kana-romaji-ime-word-gloss-and-options-visible",
+            "result": "用户中文答案对应工作含义，但词义提示已可见，不计无提示回忆。"
+          },
+          {
+            "itemId": "yotei",
+            "arrangedAt": "2026-10-27T20:38:58+08:00",
+            "stage": "during-session-before-next-material",
+            "selectionBasis": "用户昨天自述认识，复用旧安排与变更来承载新义务句尾；减少新词负担。",
+            "integration": "05安排变更通知的义务判断。",
+            "status": "responded-with-support",
+            "nextAction": "本轮转入短通知，不继续重复原句。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 5
+            },
+            "support": "kana-romaji-ime-old-word-gloss-logic-hint-and-options-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 6
+            },
+            "result": "选A符合整句意思；旧词中文与句尾逻辑提示可见，不视为独立词汇回忆。"
+          },
+          {
+            "itemId": "henkou",
+            "arrangedAt": "2026-10-27T20:38:58+08:00",
+            "stage": "during-session-before-next-material",
+            "selectionBasis": "用户昨天自述认识，复用旧安排与变更来承载新义务句尾；减少新词负担。",
+            "integration": "05安排变更通知的义务判断。",
+            "status": "responded-with-support",
+            "nextAction": "后续预约通知中自然重遇，不单独重抄。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 5
+            },
+            "support": "kana-romaji-ime-old-word-gloss-logic-hint-and-options-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 20
+            },
+            "result": "整句行动判断正确，词义解释和旧课支持可见；不判独立词汇回忆。",
+            "latestPresentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 19
+            }
+          },
+          {
+            "itemId": "kyou",
+            "arrangedAt": "2026-10-27T20:42:25+08:00",
+            "stage": "during-session-before-next-material",
+            "selectionBasis": "9月16日接触过今天，但无独立保持证据；用时间提示承载两种句尾的短通知。",
+            "integration": "07今日与明日的工作安排，观察整合时间与义务。",
+            "status": "responded-with-support",
+            "nextAction": "后续时间信息通知中重遇，保持拼读；独立读音未知。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 7
+            },
+            "support": "kana-romaji-ime-time-gloss-and-options-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 8
+            },
+            "result": "用户自报多次听音后将开头识别为今天；拼读精度未知，11给出kyō wa。",
+            "latestResponseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 10
+            }
+          },
+          {
+            "itemId": "nakereba-naranai",
+            "arrangedAt": "2026-10-27T21:23:49+08:00",
+            "stage": "during-session-before-next-material",
+            "selectionBasis": "14显式拆解后理解必须；现在酒店场景只换句尾，观察是否仍理解要求。",
+            "integration": "21酒店预订必须变更通知，不加新词。",
+            "status": "responded-with-support",
+            "nextAction": "下次把两种句尾少量融入新通知，记录条件；先补代表性的N3书面小题，不整轮重讲工作与酒店原句。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 21
+            },
+            "responseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 22
+            },
+            "result": "酒店场景中正确判断必须更改，不能保留原样。",
+            "latestResponseAt": {
+              "file": "日常练习/2026-10-27.md",
+              "turn": 26
+            }
+          }
+        ],
+        "priorUnfinished": [
+          {
+            "sessionId": "2026-10-26-01",
+            "itemId": "nakutemo-ii",
+            "decision": "integrate-now",
+            "reason": "旧页04未作答；换场景接续，不记失败，不复制旧题反复询问。"
+          },
+          {
+            "sessionId": "2026-10-15-01",
+            "itemIds": [
+              "sukoshi",
+              "mondai",
+              "arimasu",
+              "yasumu"
+            ],
+            "decision": "deferred",
+            "reason": "本轮集中观察义务表达，其他旧项保留，不强行拼接。"
+          },
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "sou-kamo-shirenai",
+            "decision": "deferred",
+            "reason": "旧输入问题留待自然场景，不借开课突击旧词。"
+          }
+        ],
+        "adjustment": "18询问前半能否先理解为不做，接受核心意思并补也的关系；19换到酒店预订，只引入预约一词，复用变更与不必，不再复述工作原句。"
+      },
+      "lastCheckpoint": {
+        "file": "日常练习/2026-10-27.md",
+        "turn": 27,
+        "result": "session-wrapped-supported-contrast-correct",
+        "nextSuggestion": "下次按实际日期先补代表性N3词汇/短通知起点，把这两个句尾少量融入新材料，再用新音频验证；不重开整轮原句课。"
+      },
+      "followUps": [
+        {
+          "itemId": "nakutemo-ii",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 3,
+          "status": "responded-with-support-awaiting-delayed-transfer",
+          "nextAction": "本课语义区分回应正确；下次换新场景少量重遇，独立声音迁移与延后保持仍待验证。",
+          "evidence": {
+            "file": "日常练习/2026-10-27.md",
+            "turn": 20
+          },
+          "latestEvidence": {
+            "file": "日常练习/2026-10-27.md",
+            "turn": 26
+          }
+        },
+        {
+          "itemId": "nakereba-naranai",
+          "file": "日常练习/2026-10-27.md",
+          "turn": 9,
+          "status": "responded-with-support-awaiting-delayed-transfer",
+          "nextAction": "本课语义区分回应正确；下次换新场景少量重遇，独立声音迁移与延后保持仍待验证。",
+          "evidence": {
+            "file": "日常练习/2026-10-27.md",
+            "turn": 22
+          },
+          "result": "显式拆解后能组合如果不做就不行，并得出今天要工作。",
+          "latestEvidence": {
+            "file": "日常练习/2026-10-27.md",
+            "turn": 26
+          }
+        }
+      ],
+      "listeningActivity": {
+        "id": "n3-20261027-01",
+        "file": ".local/audio/n3-20261027-01.wav",
+        "questionTurn": 9,
+        "replyTurn": 10,
+        "status": "attempted-needs-help",
+        "source": "tutor-authored-macos-Kyoko-synthetic-speech",
+        "durationSeconds": 6.297,
+        "speakingRateSetting": 150,
+        "transcriptShownBeforeAnswer": false,
+        "priorExposure": "相同词和句式刚做过文字练习，本录音的日期与义务搭配交换；属于熟悉结构声音迁移。",
+        "playbackCount": null,
+        "actualHeard": true,
+        "heardEvidence": "user-self-report",
+        "responseTurn": 10,
+        "response": "A",
+        "correctAnswer": "B",
+        "correct": false,
+        "playbackCountDescription": "用户自报听了好多遍，具体次数未知",
+        "transcriptExposureCondition": "教师在回答前未展示本条完整文字稿；同词句式及反向日期搭配此前可见，用户是否自行查看其他文件未知。"
+      },
+      "guidedListeningActivity": {
+        "id": "n3-20261027-01-first-guided",
+        "file": ".local/audio/n3-20261027-01-first-guided.wav",
+        "questionTurn": 15,
+        "replyTurn": 16,
+        "status": "prepared-awaiting-user-playback",
+        "source": "tutor-authored-macos-Kyoko-synthetic-speech",
+        "durationSeconds": 3.743,
+        "speakingRateSetting": 120,
+        "support": "完整文字稿、假名、罗马音、输入按键及中文意思可见，分段慢读",
+        "actualHeard": null,
+        "playbackCount": null,
+        "assessmentScope": "看稿声音对齐练习，不算原听力纠错通过或纯听复测。"
+      },
+      "pacingPlan": {
+        "arrangedAt": "2026-10-27T21:14:16+08:00",
+        "timezone": "Asia/Singapore",
+        "reviewTime": "2026-10-27T21:40:00+08:00",
+        "status": "wrapped-up-by-teacher",
+        "plannedLanding": "完成25两段句尾对比，短反馈并保存恢复点；不以必须全对为结束条件。",
+        "basis": "用户明确要求教师安排有效课时和自然结束位置；等待和规范维护耗时不能当作已学足一小时。",
+        "activeLearningMinutes": null,
+        "timingLimitation": "此前没有可靠净学习分段计时，不能由聊天时间扣减后推算。",
+        "stopPolicy": "用户随时可提前暂停；观察点不要求全对或固定下课。",
+        "policyReference": ".ai/instructions/teaching.md",
+        "progress": "两个酒店文字判断正确，单条音频任务的意思回答也正确但播放未明确；25两段对比作为自然停点，核对后收束。",
+        "actualWrapRecommendationAt": "2026-10-27T21:36:15+08:00",
+        "decisionBasis": "关键否定条件已在提示下理解，两个酒店文字行动判断与收束两段意思对应均正确；在新大知识点之前自然停止，不机械等到21:40。"
+      },
+      "guidedSecondListeningActivity": {
+        "id": "n3-20261027-01-second-guided",
+        "file": ".local/audio/n3-20261027-01-second-guided.wav",
+        "questionTurn": 17,
+        "replyTurn": 18,
+        "status": "prepared-awaiting-user-playback",
+        "durationSeconds": 3.54,
+        "support": "完整稿、假名、罗马音、按键和分块中文可见；Kyoko合成慢读速率120",
+        "actualHeard": null,
+        "playbackCount": null
+      },
+      "hotelListeningActivity": {
+        "id": "n3-20261027-02",
+        "file": ".local/audio/n3-20261027-02.wav",
+        "questionTurn": 23,
+        "replyTurn": 24,
+        "status": "answer-correct-playback-unconfirmed",
+        "source": "tutor-authored-macos-Kyoko-synthetic-speech",
+        "durationSeconds": 2.907,
+        "speakingRateSetting": 140,
+        "support": "仅展示已知前缀和罗马音按键；两个完整句子与中文语义本课刚练过。",
+        "currentFullTranscriptShown": false,
+        "priorIdenticalTextExposure": true,
+        "actualHeard": null,
+        "playbackCount": null,
+        "assessmentScope": "熟悉文字的声音辨认，不当作陌生听力基线或JLPT评分。",
+        "responseTurn": 24,
+        "response": "不必更了",
+        "answerMeaningCorrect": true
+      },
+      "wrapUpListeningPair": {
+        "id": "n3-20261027-wrap-pair",
+        "questionTurn": 25,
+        "replyTurn": 26,
+        "status": "answers-correct-conditions-limited",
+        "files": [
+          ".local/audio/n3-20261027-03.wav",
+          ".local/audio/n3-20261027-02.wav"
+        ],
+        "durationSeconds": [
+          3.174,
+          2.907
+        ],
+        "source": "tutor-authored-Kyoko-synthetic-speech-rate-140",
+        "assessmentScope": "第一段新合成但文字刚见，第二段与23同音频复用；只观察熟悉句尾对比，不充作独立陌生材料提升。",
+        "reuseDetails": [
+          "第一段为21文字的语音。",
+          "第二段复用23音频且24已给正确判断。"
+        ],
+        "actualHeard": null,
+        "playbackCount": null,
+        "responseTurn": 26,
+        "response": "第一句是不做不行，第二句是不做可以",
+        "answerMeaningsCorrect": [
+          true,
+          true
+        ],
+        "playbackEvidenceLimit": "用户给出两段意思，但未明确说本组听过；与本课熟悉文字及重用音频分不开。"
+      },
+      "closedBy": "teacher-natural-wrap-up",
+      "closedAt": "2026-10-27T21:36:15+08:00"
+    },
+    {
+      "id": "2026-10-28-01",
+      "date": "2026-10-28",
+      "source": "日常练习/2026-10-28.md",
+      "taskId": "JP-N3-003",
+      "newItemIds": [
+        "renraku",
+        "zenjitsu-made-ni",
+        "hito",
+        "shinai-hito",
+        "made-ni",
+        "made",
+        "mate-command",
+        "zenjitsu",
+        "shite-kudasai",
+        "masen",
+        "dekimasu-dekimasen",
+        "sumimasen",
+        "denwa",
+        "meeru"
+      ],
+      "revisitedItemIds": [
+        "yoyaku",
+        "henkou",
+        "nakutemo-ii",
+        "ashita"
+      ],
+      "status": "completed",
+      "assessmentSessionId": "2026-10-28-01",
+      "recordingMode": "incremental-per-interaction",
+      "contentSummary": "语境选词B正确；通知截止在中文提示下能应用。通过逐块解释理解不改者免联系与限定范围；时间录音明确听过但次数未知。无新段中译的阅读暴露前日误为后天、请求误为许可及能力否定词义缺口；短释后，新日期/时刻/渠道组合选择A并摘对依据。收束录音方式判断正确，后半请求词块仍需重遇；保持读音/分块支持、熟悉成分和未知时长条件。",
+      "reviewPlan": {
+        "arrangedOn": "2026-10-28",
+        "arrangedAt": "2026-10-28T19:48:30+08:00",
+        "stage": "before-first-teaching",
+        "selectionBasis": "昨天两个句尾在显式支持和熟悉场景下正确，独立声音迁移与隔日保持未知；预约昨天新接触，仅有提示下语境理解。今天不复刻原课，先融入新词汇题，再按反馈把不必结构放到联系通知。",
+        "targets": [
+          {
+            "itemId": "yoyaku",
+            "integration": "01更改酒店预订的电话行动语境，先不另给旧词中文拆解。",
+            "status": "reencountered-with-response",
+            "nextAction": "继续在通知中自然出现。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-28.md",
+              "turn": 1
+            },
+            "support": "kana-romaji-ime-and-Chinese-situation-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-28.md",
+              "turn": 2
+            },
+            "result": "预约语境里选词正确，但旧词未单独考查，不推断独立回忆。"
+          },
+          {
+            "itemId": "nakutemo-ii",
+            "integration": "待本轮词义反馈后，拟在联系要求的新通知中出现；未呈现不计接触。",
+            "status": "responded-with-support",
+            "nextAction": "07解释限定哪类人，08观察许可范围，不当无提示隔日验证。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-28.md",
+              "turn": 3
+            },
+            "latestPresentedAt": {
+              "file": "日常练习/2026-10-28.md",
+              "turn": 5
+            },
+            "support": "grouped-Japanese-kana-romaji-ime-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-28.md",
+              "turn": 6
+            },
+            "result": "在新通知的第二句正确判断不用联系，并明确联想两种否定形式；仍要求词块解读。"
+          },
+          {
+            "itemId": "ashita",
+            "arrangedAt": "2026-10-28T20:24:07+08:00",
+            "stage": "during-session-before-next-material",
+            "selectionBasis": "昨天在工作句中有提示重遇明天，独立声音保持未知；今天放到新的联系期限录音，观察时间词。",
+            "integration": "09新通知联系截止日；学生页不展示本条时间词稿。",
+            "status": "responded-contextually",
+            "nextAction": "11展开整句后解释截止义，12看是否必须等到明天；不标隔日无提示听力通过。",
+            "responseAt": {
+              "file": "日常练习/2026-10-28.md",
+              "turn": 10
+            },
+            "result": "音频任务中给出明日，时间含义正确，播放与次数未另明确。"
+          }
+        ],
+        "priorUnfinished": [
+          {
+            "sessionId": "2026-10-27-01",
+            "itemId": "nakutemo-ii",
+            "decision": "integrate-later-in-current-session",
+            "reason": "前课语义修复后有支持下正确，今天在新通知观察，不从原工作句重讲。"
+          },
+          {
+            "sessionId": "2026-10-27-01",
+            "itemId": "nakereba-naranai",
+            "decision": "deferred-until-appropriate-notice",
+            "reason": "不同时重测两种长句尾，保留昨天已有回应与未验证保持。"
+          },
+          {
+            "sessionId": "2026-10-15-01",
+            "itemIds": [
+              "sukoshi",
+              "mondai",
+              "arimasu",
+              "yasumu"
+            ],
+            "decision": "deferred",
+            "reason": "不拼入不自然场景，优先补分项起点。"
+          },
+          {
+            "sessionId": "2026-10-08-01",
+            "itemId": "sou-kamo-shirenai",
+            "decision": "deferred",
+            "reason": "旧输入困难保留，当前先语境选词。"
+          }
+        ],
+        "adjustment": "用户指出全译后的中文逻辑过易，转无整段中文译文的信息检索；保留分块和拼读，旧预约/联系/截止/不必融入多条件通知，陌生词在实际尝试后再解释。"
+      },
+      "pacingPlan": {
+        "arrangedAt": "2026-10-28T19:48:30+08:00",
+        "timezone": "Asia/Singapore",
+        "firstClockCheckAt": "2026-10-28T19:43:23+08:00",
+        "reviewTime": "2026-10-28T21:30:00+08:00",
+        "status": "wrapped-up-by-teacher",
+        "plannedLanding": "先做17日文信息检索及反馈，再据表现安排一个短巩固；21:30左右观察自然收束。",
+        "activeLearningMinutes": null,
+        "timingLimitation": "只有真实时钟及互动证据，没有净参与连续计时；等待不冒充学习。",
+        "stopPolicy": "观察点可调整，用户可随时暂停；不要求全对才结束。",
+        "progress": "新组合文字选择及依据正确，正在做最后短音频辨认方式；核对后决定自然收束。",
+        "adjustments": [
+          {
+            "at": "2026-10-28T20:55:40+08:00",
+            "previousReviewTime": "2026-10-28T20:50:00+08:00",
+            "newReviewTime": "2026-10-28T21:05:00+08:00",
+            "reason": "用户明确希望继续主线并提高真实日语挑战；规则与工具等待不计净学习，先完成新检索及纠错再选停点。"
+          },
+          {
+            "at": "2026-10-28T20:57:20+08:00",
+            "previousReviewTime": "2026-10-28T21:05:00+08:00",
+            "newReviewTime": "2026-10-28T21:30:00+08:00",
+            "reason": "用户明确要求今天补几十分钟、不急；按约半小时继续，等待占比仅为用户估计。",
+            "sourceRecord": ".ai/records/2026-10-28-教师守主线与真实日语挑战.md"
+          }
+        ],
+        "actualWrapRecommendationAt": "2026-10-28T21:31:35+08:00",
+        "decisionBasis": "完成无先行整译的新组合选择与原文依据，并做收束音频；请求词块留待换情境，不要求全对才停。"
+      },
+      "currentQuestion": {
+        "id": "20261028-vocab-context-01",
+        "source": "tutor-authored",
+        "type": "contextual-vocabulary-selection",
+        "questionTurn": 1,
+        "replyTurn": 2,
+        "status": "answered-correct",
+        "candidateLexemesNotYetCountedAsLearned": [
+          "jmdict-1340000",
+          "jmdict-1559900",
+          "jmdict-1172830",
+          "jmdict-1303620"
+        ],
+        "levelBoundary": "复用词汇参照N4/N5的语境选词题型起步；非官方N3题，不以单题完成分项诊断。",
+        "responseTurn": 2,
+        "response": "B",
+        "support": "kana-romaji-ime-and-Chinese-situation-visible"
+      },
+      "lastCheckpoint": {
+        "file": "日常练习/2026-10-28.md",
+        "turn": 27,
+        "result": "session-wrapped-reading-combination-correct-audio-channel-correct-with-remaining-request-gap",
+        "nextSuggestion": "下次优先定位官方N3样题的一小组词汇/阅读真实题型；把前日和请求/能力区别少量融入，记录真实支撑，不重置为原酒店课。"
+      },
+      "currentReadingActivity": {
+        "id": "20261028-hotel-notice-01",
+        "source": "tutor-authored",
+        "questionTurn": 3,
+        "replyTurn": 4,
+        "status": "current-reading-questions-answered-with-support",
+        "support": "时间词中文及两个分句主语范围提示可见，不另译第二句结尾。",
+        "levelBoundary": "语境阅读起步，非官方N3真题，单条不代表整个阅读分项。",
+        "responseTurn": 4,
+        "response": "周4",
+        "followUpTeacherTurn": 5,
+        "followUpReplyTurn": 6,
+        "conditionResponseTurn": 6,
+        "scopeTeacherTurn": 7,
+        "scopeReplyTurn": 8,
+        "scopeResponseTurn": 8,
+        "scopeResponse": "不能，他改了预订，需要联系酒店。"
+      },
+      "materialDisplaySupport": {
+        "effectiveAt": "2026-10-28T20:06:42+08:00",
+        "groupedReadingLine": true,
+        "policyReference": ".ai/instructions/teaching.md",
+        "sourceRecord": ".ai/records/2026-10-28-独立分块辅助约定.md",
+        "scope": "项目通用；本日03只补一行，05起完整使用。"
+      },
+      "followUps": [
+        {
+          "itemId": "shinai-hito",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 7,
+          "status": "responded-with-support",
+          "nextAction": "后续新通知自然重遇限定人群，不重复孤立判断。",
+          "responseAt": {
+            "file": "日常练习/2026-10-28.md",
+            "turn": 8
+          },
+          "result": "能把变更入住日者排除出不改预订的人群。"
+        },
+        {
+          "itemId": "made-ni",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 13,
+          "status": "responded-with-support",
+          "nextAction": "17把截止与方式结合做日文信息检索，不再追问同一中文概念。",
+          "responseAt": {
+            "file": "日常练习/2026-10-28.md",
+            "turn": 16
+          }
+        },
+        {
+          "itemId": "zenjitsu",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 19,
+          "status": "responded-with-support",
+          "nextAction": "之后延后重遇，当前不再重复中文换算。",
+          "responseAt": {
+            "file": "日常练习/2026-10-28.md",
+            "turn": 24
+          },
+          "result": "在11月6日入住的新例中选择11月5日并摘出前日依据。"
+        },
+        {
+          "itemId": "shite-kudasai",
+          "file": "日常练习/2026-10-28.md",
+          "turn": 27,
+          "status": "corrected-awaiting-new-context",
+          "nextAction": "下次将请做与能做的区别放进新材料，少量提示；不再整轮重讲酒店原句。"
+        }
+      ],
+      "listeningActivity": {
+        "id": "n3-20261028-01",
+        "file": ".local/audio/n3-20261028-01.wav",
+        "questionTurn": 9,
+        "replyTurn": 10,
+        "status": "heard-confirmed-time-word-correct-particle-meaning-needs-explanation",
+        "source": "tutor-authored-macos-Kyoko-synthetic-speech",
+        "durationSeconds": 5.16,
+        "speakingRateSetting": 140,
+        "currentFullTranscriptShown": false,
+        "priorExposure": "预约变更、联系、到某时为止等成分已读；这条完整期限组合未在学生页展示。",
+        "support": "已知前缀有分块、假名、罗马音与按键，中文只给问题及三个时间选项。",
+        "actualHeard": true,
+        "playbackCount": null,
+        "assessmentScope": "自编单句时间信息辨认，非官方N3分项评分。",
+        "responseTurn": 10,
+        "response": "明日",
+        "timeMeaningCorrect": true,
+        "normalizedMeaning": "明天",
+        "equivalentOption": "B",
+        "limit": "12明确说我听是这个；确认时完整稿已展示，不能追溯断言最初回答前的播放时机或整句纯听理解。",
+        "heardConfirmedBy": "user-self-report",
+        "heardEvidenceTurn": 12
+      },
+      "currentDeadlineQuestion": {
+        "questionTurn": 11,
+        "replyTurn": 12,
+        "status": "concept-confirmed-with-Chinese-support",
+        "support": "完整稿、分块、拼读和最晚明天释义可见。",
+        "clarificationTurn": 12,
+        "nextTeacherTurn": 15,
+        "nextReplyTurn": 16,
+        "latestClarificationTurn": 14
+      },
+      "currentReadingChallenge": {
+        "id": "20261028-multicondition-notice",
+        "teacherTurn": 17,
+        "replyTurn": 18,
+        "status": "email-negative-guess-needs-explicit-word-meaning",
+        "source": "tutor-authored",
+        "targets": [
+          "deadline",
+          "valid-contact-channel",
+          "scope-of-no-contact-exception"
+        ],
+        "support": "分块/注音/拼读/按键保留；无新整段中译和答案释义，要求日文依据。",
+        "untaughtLexemesNotCountedAsLearned": [
+          "afternoon-and-clock-time",
+          "email",
+          "cannot-change"
+        ],
+        "responseTurn": 18,
+        "deadlineMeaning": "incorrect-reference-day",
+        "hourMeaning": "correct-afternoon-five",
+        "contactMethod": "correct-phone",
+        "requestFunction": "misinterpreted-as-permission",
+        "nextTeacherTurn": 21,
+        "nextReplyTurn": 22,
+        "emailResponseTurn": 20,
+        "emailResponse": "好像是很抱歉的意思，ません，应该是抱歉了でき不知道，应该是不行"
+      },
+      "currentCombinedReading": {
+        "id": "20261028-new-channel-and-time",
+        "teacherTurn": 23,
+        "replyTurn": 24,
+        "status": "correct-with-evidence",
+        "source": "tutor-authored",
+        "changes": "相同词语重组，办理渠道及截止时刻与前文不同，不先翻译。",
+        "targets": [
+          "relative-prior-day",
+          "deadline-hour",
+          "channel-negation"
+        ],
+        "conditions": "原文、分块、假名、罗马音、按键可见；选项为中文，未给新正文译文，需日文依据。",
+        "responseTurn": 24,
+        "response": "A，前日の午後３時までにメールで連絡してください",
+        "normalizedAnswer": "A",
+        "scope": "新组合通知的日期/时刻/渠道选择正确，不证明无辅助独立识读或所有词都懂。"
+      },
+      "closingListeningActivity": {
+        "id": "n3-20261028-02",
+        "file": ".local/audio/n3-20261028-02.wav",
+        "questionTurn": 25,
+        "replyTurn": 26,
+        "status": "channel-correct-partial-transcription-request-function-needs-review",
+        "source": "tutor-authored-Kyoko-synthetic-speech-rate-140",
+        "durationSeconds": 4.87,
+        "support": "仅展示方式词及其读音/中文；完整录音稿当前不展示；相同词句先前读过。",
+        "priorTextExposure": true,
+        "actualHeard": true,
+        "playbackCount": null,
+        "responseTurn": 26,
+        "response": "メールでわへんこできません；email变更不行；電話でわしでください电话变更可以",
+        "channelAnswer": "电话",
+        "channelCorrect": true,
+        "heardConfirmedBy": "user-provided-content-transcription-in-audio-task",
+        "heardEvidenceTurn": 26,
+        "limit": "两句均为已读成分；当前全稿在答后展示，用户转写不完整，不能据此断言整条陌生纯听或发音通过。"
+      },
+      "closedBy": "teacher-natural-wrap-up",
+      "closedAt": "2026-10-28T21:31:35+08:00"
+    },
+    {
+      "id": "2026-10-29-01",
+      "date": "2026-10-29",
+      "source": "日常练习/2026-10-29.md",
+      "taskId": "JP-N3-003",
+      "newItemIds": [
+        "wake",
+        "riyuu",
+        "hanasu",
+        "osoroshii",
+        "kowai",
+        "keiken",
+        "totemo",
+        "node",
+        "iku",
+        "desu-ga-contrast",
+        "desu-ka-question"
+      ],
+      "revisitedItemIds": [
+        "particle-o",
+        "shite-kudasai",
+        "suru",
+        "masen"
+      ],
+      "status": "completed",
+      "assessmentSessionId": "2026-10-29-01",
+      "recordingMode": "incremental-per-interaction",
+      "contentSummary": "官方词义题目标词自报不认识；已解释原因同义关系，原题答案已揭示。自编请求句重遇请求功能，04待答。 04选A，提示下请求理解正确；05第二道官方词义题待答，未讲新词释义。 06只认识经验，官方第25题未选择；07讲可怕同义词及原句，用原因加否定的新短句观察组合理解，08待答。 08提示下正确理解害怕所以不去；09转折肯定句待答。 10去的方向正确，但转折当反问、非过去行动当邀请或过去；11有限纠正并用疑问句对照，12待答。 12识别提问但加认同语气；13短纠后提供熟悉句合成音频，14待答。",
+      "reviewPlan": {
+        "arrangedOn": "2026-10-29",
+        "arrangedAt": "2026-10-29T20:05:17+08:00",
+        "stage": "before-first-teaching",
+        "selectionBasis": "昨天请求被概括为能力许可，需新语境重遇；先补官方词汇题，旧宾语助词在原题自然出现，不改官方题干。",
+        "targets": [
+          {
+            "itemId": "particle-o",
+            "integration": "01官方原题中的宾语标记，先不解释。",
+            "status": "presented-not-assessed",
+            "nextAction": "根据真实回答再判断是否需要点拨。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-29.md",
+              "turn": 1
+            },
+            "support": "grouped-kana-romaji-ime-visible",
+            "result": "用户自报不认识目标词，未单独评价助词。"
+          },
+          {
+            "itemId": "shite-kudasai",
+            "integration": "03自编新请求：请说明理由；用新词承载昨日请求结构。",
+            "status": "responded-with-support",
+            "nextAction": "不再原样重复请求判断；后续放进实际阅读。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-29.md",
+              "turn": 3
+            },
+            "support": "Chinese-target-meaning-and-request-cue-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-29.md",
+              "turn": 4
+            },
+            "result": "选A，提示下正确理解请求说明理由。"
+          },
+          {
+            "itemId": "masen",
+            "integration": "07原因句中的不去；昨日曾把礼貌否定误作道歉，后经解释正确。",
+            "status": "responded-with-support",
+            "nextAction": "09换转折和肯定行动，观察是否根据新句判断。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-29.md",
+              "turn": 7
+            },
+            "support": "meaning-of-go-and-cause-marker-visible",
+            "responseAt": {
+              "file": "日常练习/2026-10-29.md",
+              "turn": 8
+            },
+            "result": "原因与不去均正确；有去的释义和原因连接提示。"
+          },
+          {
+            "itemId": "desu-ga-contrast",
+            "integration": "13熟悉句子的合成音频；当前不展示整稿，先前09/11已见。",
+            "status": "deferred-user-ended",
+            "nextAction": "下次按状态决定接本条或换题；不记错、不记听过。",
+            "presentedAt": {
+              "file": "日常练习/2026-10-29.md",
+              "turn": 13
+            },
+            "support": "one-known-word-reading-aid-and-Chinese-options; prior-full-text-exposure",
+            "result": "音频已提供，未收到播放确认或作答。"
+          }
+        ],
+        "priorUnfinished": [
+          {
+            "sessionId": "2026-10-28-01",
+            "itemId": "zenjitsu",
+            "decision": "deferred",
+            "reason": "先补官方题型，不重演酒店日期判断。"
+          }
+        ],
+        "nextMaterialDecision": {
+          "at": "2026-10-29T20:55:44+08:00",
+          "teacherTurn": 13,
+          "reason": "已识别提问，但加上征求认同语气；简短纠正后转熟悉材料声音迁移，不再继续文字同句循环。"
+        }
+      },
+      "pacingPlan": {
+        "arrangedAt": "2026-10-29T20:05:17+08:00",
+        "timezone": "Asia/Singapore",
+        "firstClockCheckAt": "2026-10-29T19:54:43+08:00",
+        "reviewTime": "2026-10-29T21:10:00+08:00",
+        "status": "ended-by-user",
+        "plannedLanding": "一小组官方题及针对性反馈后观察状态；网站和模型等待不计净学习，必要时延长。",
+        "activeLearningMinutes": null,
+        "stopPolicy": "可随时暂停；观察点不是硬性下课。",
+        "actualWrapRecommendationAt": null,
+        "actualEndedAt": "2026-10-29T21:00:40+08:00",
+        "decisionBasis": "用户提前结束，原21:10仅观察点，不要求等到该时刻。"
+      },
+      "currentQuestion": {
+        "id": "official-2012-n3-v-q25",
+        "source": "https://ns2.jlpt.jp/samples/sample2012/pdf/N3V.pdf",
+        "type": "meaning-paraphrase",
+        "questionTurn": 5,
+        "replyTurn": 6,
+        "status": "target-and-options-unknown-self-report-then-explained",
+        "support": "分块/假名/罗马音/按键可见，无中文词义；未计时。",
+        "sourceLocation": "问题4，第25题，官方域名索引文本已核实。",
+        "candidateWordsNotCountedAsLearned": [
+          "osoroshii",
+          "tanoshii",
+          "ureshii",
+          "hazukashii",
+          "kowai",
+          "keiken"
+        ],
+        "responseTurn": 6,
+        "response": "只认识经验",
+        "answerRevealedAtTurn": 7,
+        "assessment": "只自报认识经验；没有选项回答，不记猜错或通过。"
+      },
+      "lastCheckpoint": {
+        "file": "日常练习/2026-10-29.md",
+        "turn": 13,
+        "result": "user-ended-session-audio-unanswered",
+        "nextSuggestion": "下次核实日期后从未答短音频接续，或依当时表现调整；仍优先补官方阅读/真实音频分项证据，不重开早期原课。"
+      },
+      "currentSentenceActivity": {
+        "teacherTurn": 11,
+        "replyTurn": 12,
+        "source": "tutor-authored",
+        "status": "awaiting-response",
+        "support": "疑问与转折的中文解释、字形及罗马音对照可见，无音频。"
+      },
+      "followUps": [
+        {
+          "itemId": "desu-ga-contrast",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 10,
+          "status": "corrected-awaiting-transfer",
+          "nextAction": "先看12提问理解，后续新场景复核转折。"
+        },
+        {
+          "itemId": "iku",
+          "file": "日常练习/2026-10-29.md",
+          "turn": 10,
+          "status": "corrected-awaiting-transfer",
+          "nextAction": "后续自然重遇非过去与过去；当前不扩展邀请和全套活用。"
+        }
+      ],
+      "listeningActivity": {
+        "id": "n3-20261029-01",
+        "file": ".local/audio/n3-20261029-01.wav",
+        "questionTurn": 13,
+        "replyTurn": 14,
+        "status": "deferred-user-ended-before-answer",
+        "source": "tutor-authored-macos-Kyoko-synthetic-speech",
+        "durationSeconds": 2.0830839002267574,
+        "speakingRateSetting": 140,
+        "teacherTranscript": "こわいですが、行きます。",
+        "expectedOption": "C",
+        "currentFullTranscriptShown": false,
+        "priorFullTextExposure": true,
+        "priorExposureTurns": [
+          9,
+          11
+        ],
+        "actualHeard": null,
+        "playbackCount": null,
+        "scope": "熟悉句的声音迁移，非陌生听力或官方N3基线。"
+      },
+      "closedBy": "user-ended-session",
+      "closedAt": "2026-10-29T21:00:40+08:00",
+      "closureReason": "用户有事，明确结束今天；不追加教学或后台备课。"
     }
   ]
 }

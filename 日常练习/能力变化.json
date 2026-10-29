@@ -192,14 +192,15 @@
       "id": "2026-10-12-01",
       "date": "2026-10-12",
       "source": "日常练习/2026-10-12.md",
-      "recordStatus": "in-progress",
+      "recordStatus": "stopped-by-user",
       "writtenEvidenceTurns": [
-        3
+        3,
+        6
       ],
       "finalCorrect": null,
-      "observedWrittenTargets": 1,
+      "observedWrittenTargets": 2,
       "conditions": "第一句四项提示与释义可见，尚无作答。",
-      "understandingObservation": null,
+      "understandingObservation": "用户请求新开头再示范读音；没有独立释义回应，不把正确输入当作词义已掌握。",
       "independentTransfer": null,
       "delayedRecall": null,
       "listening": null,
@@ -208,13 +209,13 @@
       "speed": null,
       "selfReportedLoad": "希望十几到二十几分钟，不超过半小时；不是已测时长。",
       "motivationScore": null,
-      "inputDifficulties": null,
-      "nextAdjustment": "第一句不用重抄，第二句两块解释；核对06实际作答后按用户两句与时间偏好停止加课。",
+      "inputDifficulties": "开头两个汉字最初不符，第二次修正；编辑器新行曾未保存，直接读盘只见旧行，后来核实屏幕新行正确及磁盘保存。未据此认定语言能力下降。",
+      "nextAdjustment": "依真实状态接续，少量重遇新开头与旧问题词；不机械重复整句，不强制收尾总结。",
       "teachingConfounds": [
         "语音在实际材料写入前误报就绪和旧编号，影响开课。"
       ],
-      "lastEvidenceTurn": 3,
-      "latestSupportedCorrect": 1,
+      "lastEvidenceTurn": 6,
+      "latestSupportedCorrect": 2,
       "writtenObservations": [
         {
           "itemId": "kekka-wa",
@@ -222,8 +223,524 @@
             3
           ],
           "result": "词与助词正确，句末句号；提问建议问号，有可见示范。"
+        },
+        {
+          "itemId": "zannen-nagara",
+          "turns": [
+            6
+          ],
+          "result": "首次开头汉字不同；第二条完整句正确并保存。带可见示范，独立理解与读音未知。"
         }
-      ]
+      ],
+      "correctedTargetsAtLeast": 1
+    },
+    {
+      "id": "2026-10-15-01",
+      "date": "2026-10-15",
+      "source": "日常练习/2026-10-15.md",
+      "recordStatus": "stopped-by-user",
+      "writtenEvidenceTurns": [
+        3,
+        10,
+        15,
+        17,
+        19
+      ],
+      "conditions": "原文、假名、罗马音、按键和中文可见。",
+      "understandingObservation": "有提示时能给为什么对应英语why，并主动说明末行要写怎么了；不据此判定无提示掌握。",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "selfReportedLoad": "用户指出约半小时内大量时间在等回复，仍主动要求再学一句；不据此推断疲劳。",
+      "motivationScore": null,
+      "teachingConfounds": [
+        "开场读过规则但未立即完成准备，语音反复询问用户已授权的路线决定。"
+      ],
+      "nextAdjustment": "按用户要求停止，下一次根据实际表现将安排相关旧词自然融入新材料，不要求重复抄写。",
+      "lastEvidenceTurn": 19,
+      "observedWrittenTargets": 6,
+      "latestSupportedCorrect": 6,
+      "writtenObservations": [
+        {
+          "itemId": "dou-shita-no",
+          "turns": [
+            3,
+            10
+          ],
+          "result": "有提示键盘正确；末行实际目标是怎么了，已修正混合写法。"
+        },
+        {
+          "itemId": "doushite",
+          "turns": [
+            10
+          ],
+          "result": "前两遍正确、why对应正确。末行按用户意图另属怎么了，不将其继续计为为什么的错误。"
+        },
+        {
+          "itemId": "ii-ne",
+          "turns": [
+            15
+          ],
+          "result": "有提示输入正确；附加点赞表情不当作独立词义检验。"
+        },
+        {
+          "itemId": "henkou",
+          "turns": [
+            15
+          ],
+          "result": "N3参考词变更与旧安排搭配，两遍有提示完整输入正确；重复不计额外目标。"
+        },
+        {
+          "itemId": "chuushi",
+          "turns": [
+            17
+          ],
+          "result": "取消安排两遍有提示输入正确；此前请求长音示范，非独立记忆或音频证据。"
+        },
+        {
+          "itemId": "enki",
+          "turns": [
+            19
+          ],
+          "result": "延期安排完整输入正确，原文与按键提示可见；未测无提示迁移。"
+        }
+      ],
+      "examCoverageObservation": "变更、中止、延期三个N3参考词有提示练写正确；未进行真实N3阅读或听力题，不推断应试分数。"
+    },
+    {
+      "id": "2026-10-26-01",
+      "date": "2026-10-26",
+      "source": "日常练习/2026-10-26.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "in-progress",
+      "writtenEvidenceTurns": [
+        2
+      ],
+      "conditions": "原文、假名、拼读罗马音、按键和中文可见；文字聊天，无音频。",
+      "understandingObservation": "可见译文条件下指出没有禁止；同时把语气理解为阻止、结尾理解为反对。用户自述认识安排和变更，中间结构不认识。尚未核对拆解后的理解。",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "selfReportedLoad": "用户要求此时先来一句；未自述疲劳程度。",
+      "motivationScore": null,
+      "nextAdjustment": "用不更改也可以的组合解释，核对保持原安排是否符合，不扩充新词或重复抄写。",
+      "lastEvidenceTurn": 3,
+      "observedWrittenTargets": 1,
+      "writtenObservations": [
+        {
+          "itemId": "nakutemo-ii",
+          "turns": [
+            2
+          ],
+          "result": "部分语义辨认与明确疑问；需要结构解释，不记supported-correct。"
+        }
+      ],
+      "examCoverageObservation": "义务/许可短句有一次中文解释尝试；不是正式阅读题成绩，听力未测。"
+    },
+    {
+      "id": "2026-10-27-01",
+      "date": "2026-10-27",
+      "source": "日常练习/2026-10-27.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-wrapped",
+      "writtenEvidenceTurns": [
+        2,
+        6,
+        8,
+        10,
+        12,
+        14,
+        18,
+        20,
+        22,
+        24,
+        26
+      ],
+      "conditions": "01有四项读音输入材料、词义及中文选择；05另有句尾逻辑提示；07有四项材料、时间词提示及中文选择，没有另给当前句尾翻译。全程无音频。 09补充词块对照并提供合成音频，尚未确认用户播放或听过。 13增加三个形式的显式对照及中文类比。 17第二句提供完整文字稿及分块意思，音频是否播放等待实际反馈。 19提供预约中文词义、拼读与按键，并保留刚讲过的语法支持。",
+      "understandingObservation": "在假名、罗马音、按键、词义及选项可见下，整句中文理解正确；局部拆解将不做的结构误认为不期待，需具体纠正。 06借助中文逻辑提示，正确选择必须更改。 08正确选择B，能整合两句时间与义务；仍把完整结构截成片段，需要明确必须包含结尾。 10听音情境中把完整义务结构误解为今天不行，说明文本选择正确尚未稳定迁移到声音理解。 12进一步定位：后半不行已理解，前半如果不做中的否定尚未建立；本轮不能归因为单纯听速问题。 14经显式拆解后能正确组合否定条件与后半要求，推导必须工作。 18能把前半抓为不做、后半理解为可以，询问分块意义；19在此基础上补关系并换场景。 20酒店场景行动判断正确，支持不必句式的同课近迁移。 22必须句尾的酒店近迁移也正确；两个结构能在该文字场景区分。 26能分别说明第一句不做不行、第二句不做可以，支持本课意义区分已在熟悉材料和支持下建立。",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": {
+        "status": "attempted-needs-help",
+        "activityId": "n3-20261027-01",
+        "evidenceTurn": 10,
+        "heardConfirmedBy": "user-self-report",
+        "playbackCount": null,
+        "playbackCountDescription": "好多遍",
+        "answer": "A",
+        "correctAnswer": "B",
+        "result": "incorrect",
+        "material": "约6.30秒自编Kyoko合成语音，熟悉词句的日期搭配迁移",
+        "currentTranscriptShownBeforeAnswer": false,
+        "priorSimilarTextPractice": true,
+        "observations": [
+          "用户将开头对应今天。",
+          "用户转写的关键句尾接近目标，真实发音未测。",
+          "把必须工作解成今天不行，明确存在结构语义组合误判。",
+          "第二句的实际听辨未单独获得证据。"
+        ],
+        "limits": "教师未直接观察播放次数；单题不用于估算JLPT分项分数。"
+      },
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "selfReportedLoad": "用户自报有点听不懂、听了好多遍；不据此推断疲劳或学习能力标签。",
+      "motivationScore": null,
+      "nextAdjustment": "下次不再整轮复述原工作和酒店句子，优先补N3词汇/短通知起点并自然融入两种句尾；用新音频再观察声音理解，未知保持未知。",
+      "lastEvidenceTurn": 26,
+      "observedWrittenTargets": 2,
+      "writtenObservations": [
+        {
+          "turn": 2,
+          "quote": "しなくていも是不期待，应该是明天的工作不期待いいでし是好的；所以就是明天的工作不做也可以",
+          "overallMeaning": "correct-with-support",
+          "segmentation": "needs-help",
+          "inputObservation": "片段输入与材料存在假名差异；来源可能是输入或识读，原因未知，不据此判断实际发音。",
+          "scope": "自编近迁移单题，不能视为完整N3分项诊断。"
+        },
+        {
+          "turn": 6,
+          "quote": "a",
+          "overallMeaning": "correct-with-support",
+          "conditions": "假名、罗马音、按键、旧词中文、句尾逻辑提示及选项可见。",
+          "scope": "中文选择题辨认，未要求独立翻译或输出日语。"
+        },
+        {
+          "turn": 8,
+          "quote": "しなくてい是不必，しなければ是不得不；所以是b吗",
+          "overallMeaning": "correct-with-support",
+          "segmentation": "full-chunk-boundaries-need-correction",
+          "conditions": "两句通知有假名罗马音按键和时间提示；本轮未给句尾中文，但此前同课已讲过。",
+          "scope": "自编极短文本近迁移正确，不能视为N3阅读分项达标。"
+        },
+        {
+          "turn": 10,
+          "quote": "有点听不懂，应还是a；きおわ是今天，然后是しなければなりませえん。应该是今天不行的意思，我听了好多遍",
+          "overallMeaning": "incorrect-listening-choice",
+          "conditions": "用户明确自报听了好多遍，次数未知；熟悉词句和结构刚练过，当前录音完整文字稿当时未由教师展示。",
+          "scope": "一条自编合成录音的声音迁移；不能外推N3听力分数。",
+          "interpretation": "开头对应今天，关键句尾转写接近，但把不工作就不行误读为今天不行；语义组合困难已观察，听辨其他环节未知。"
+        },
+        {
+          "turn": 12,
+          "quote": "なりません是不行，しなけりば是什么意思呢，如果是今天的工作做不行，可以是想休息不工作，",
+          "overallMeaning": "negative-condition-not-yet-understood",
+          "conditions": "第一句完整稿与前轮中文解释可见；本轮没有新的听音自报。",
+          "interpretation": "理解后半在本结构中为不行，明确不理解条件前半；需要显式呈现不做形式及如果不做的映射。",
+          "inputObservation": "条件形式的假名存在差异；不据键盘文本判实际发音。"
+        },
+        {
+          "turn": 14,
+          "quote": "しなけりば是如果不，なりなせん是不行了，如果不做就不行了，今天工作要做啊",
+          "overallMeaning": "correct-with-explicit-support",
+          "conditions": "做、不做、如果不做三形式及中文逻辑可见。",
+          "interpretation": "能说明如果不做就不行并推导今天要工作；本轮语义误解已在提示下修复，延后独立理解未知。",
+          "inputObservation": "假名有差异；15提供正确形式，不要求重抄，不据此判发音。"
+        },
+        {
+          "turn": 18,
+          "quote": "しなくても我理解为不做行吗，いいです是可以",
+          "overallMeaning": "partial-chunk-confirmation",
+          "interpretation": "后半可以理解正确，前半不做的核心可接受；补足即使/也的连接意思，避免把用户的行吗误当作日语本身的疑问含义。",
+          "conditions": "第二句完整稿及分块中文可见；本轮没有确认播放或报告听音效果。"
+        },
+        {
+          "turn": 20,
+          "quote": "可以保留",
+          "overallMeaning": "correct-with-support-near-transfer",
+          "conditions": "酒店新词中文及假名罗马音按键可见，刚解释过不必结构。",
+          "interpretation": "能够将不必变更迁移到保留原预订这一行动；同课理解有改善，延后保持和声音迁移未知。"
+        },
+        {
+          "turn": 22,
+          "quote": "不符合",
+          "overallMeaning": "correct-with-support-near-transfer",
+          "conditions": "必须句尾完整文本、假名罗马音和按键可见；本轮未直接给全文中文，但之前同课已讲过。",
+          "interpretation": "能在相同预约变更词汇下随句尾改变行动判断；支持两种结构的同课文字区分。"
+        },
+        {
+          "turn": 24,
+          "quote": "不必更了",
+          "overallMeaning": "correct-choice-in-audio-task-context",
+          "conditions": "只展示前缀，但全文本课刚见；用户未明确自报本条是否听过。",
+          "interpretation": "正确选择不必更改；听音执行和次数未知，不能据回答替代实际播放证据。"
+        },
+        {
+          "turn": 26,
+          "quote": "第一句是不做不行，第二句是不做可以",
+          "overallMeaning": "both-meanings-correct-with-familiar-material-support",
+          "conditions": "本课刚练过的两种酒店句子；第二段重用23音频；用户未明确说本组听过或播放次数。",
+          "interpretation": "正确区分不做不行与不做可以，当前语义组合有改善；不推断陌生纯听、发音或延后保持。"
+        }
+      ],
+      "examCoverageObservation": "已有带提示语法小题、极短自编通知及一条明确自报听过的合成音频作答（首次选错）；后续熟悉材料意思判断改善。代表性N3词汇/阅读小题和新音频起点仍欠缺，不能据本课判断单项是否过线。",
+      "listeningPreparation": {
+        "activityId": "n3-20261027-01",
+        "status": "attempted-feedback-in-progress",
+        "file": ".local/audio/n3-20261027-01.wav",
+        "transcriptVisible": false,
+        "priorSimilarTextPractice": true
+      },
+      "guidedListeningPreparation": {
+        "activityId": "n3-20261027-01-first-guided",
+        "file": ".local/audio/n3-20261027-01-first-guided.wav",
+        "status": "prepared-not-yet-confirmed-heard",
+        "transcriptVisible": true,
+        "ChineseMeaningVisible": true
+      },
+      "timeManagementObservation": {
+        "policyRequestedAt": "2026-10-27T21:14:16+08:00",
+        "sourceRecord": ".ai/records/2026-10-27-突击课时与自然收束约定.md",
+        "activeLearningMinutes": null,
+        "reasonUnknown": "未进行可核实的净参与分段计时，等待损失也无精确总量。",
+        "pacingPlanSessionId": "2026-10-27-01",
+        "reviewTime": "2026-10-27T21:40:00+08:00",
+        "userRequest": "教师选择尽兴、有效且适合结束的时间点，可因等待超过一小时。",
+        "wrapRecommendedAt": "2026-10-27T21:36:15+08:00",
+        "wrapBasis": "关键疑问已解释并有同课换场景回应；收束对比结束，未开新大知识点。",
+        "netLearningMinutesKnown": false
+      },
+      "hotelListeningPreparation": {
+        "activityId": "n3-20261027-02",
+        "status": "answer-correct-playback-unconfirmed",
+        "file": ".local/audio/n3-20261027-02.wav",
+        "currentFullTranscriptVisible": false,
+        "priorIdenticalTextExposure": true,
+        "responseTurn": 24
+      },
+      "wrapUpListeningPreparation": {
+        "activityId": "n3-20261027-wrap-pair",
+        "status": "answers-correct-conditions-limited",
+        "knownText": true,
+        "secondClipReused": true,
+        "responseTurn": 26,
+        "actualHeard": null,
+        "playbackCount": null
+      }
+    },
+    {
+      "id": "2026-10-28-01",
+      "date": "2026-10-28",
+      "source": "日常练习/2026-10-28.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-wrapped",
+      "writtenEvidenceTurns": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26
+      ],
+      "conditions": "自编语境选词，句子与四选项均有假名/罗马音/按键；中文只给酒店预订场景，不给整句翻译或选项释义；没有音频。 03通知新增前一天的时间释义及分句主语提示，仍无音频。 05起新增独立日语分块行；用户要求的显示辅助不作为能力标签。 07新增完整中文分块解释，后续范围判断属于有提示活动。 11起当前音频完整稿及截止义中文可见，后续判断属于看稿讲解后的理解。",
+      "understandingObservation": "在场景及拼读支持下，选择电话联系酒店这个动作正确。 能在时间词释义支持下将周五前一天对应为周四。 06能在新通知里组合不联系也可以，并自发类比否定形式；词块与修饰关系仍需逐段讲解。 08理解免联系许可的人群限制，并能应用于更改日期的情境。 10正确给出新期限任务的时间词明日。 12明确自报音频片段，问到直到/截止和助词身份；13把两种意义分开说明。 18无预先整译时能定位原句并理解下午5点与电话，但相对日期词和请求功能未理解准确。 20暴露礼貌否定与道歉表达的混淆及能力词缺口，21已短解释。 22解释后正确区分能与不能，电话肯定句读懂。 24在时刻和渠道改变的新通知中选A并给出关键依据，日期基准和条件组合得到当前支持下验证。 收束音频中能区分邮件不能办与电话渠道；请求功能及后半词块仍需后续复测，不能说整条完全听懂。",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": {
+        "status": "heard-confirmed-time-word-correct-meaning-clarification-in-progress",
+        "activityId": "n3-20261028-01",
+        "evidenceTurn": 10,
+        "response": "明日",
+        "timeMeaningCorrect": true,
+        "actualHeard": true,
+        "playbackCount": null,
+        "conditionLimit": "确认听过时已经看到完整稿；首次回应前实际播放时机未知，整体独立听懂未知。",
+        "currentFullTranscriptShownBeforeAnswer": false,
+        "heardConfirmedBy": "user-self-report",
+        "heardEvidenceTurn": 12,
+        "laterActivity": {
+          "id": "n3-20261028-02",
+          "evidenceTurn": 26,
+          "heardEvidence": "用户在听音题中报告两段近似内容",
+          "channelCorrect": true,
+          "requestFunction": "needs-review",
+          "fullTranscriptPresentedAfterResponse": true,
+          "priorTextExposure": true,
+          "playbackCount": null
+        }
+      },
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "selfReportedLoad": "用户明确此中文逻辑问题过易，要求守N3主线并继续；先前日语词块不熟与中文逻辑容易可同时成立，疲劳未知。",
+      "motivationScore": null,
+      "lastEvidenceTurn": 26,
+      "writtenObservations": [
+        {
+          "turn": 2,
+          "quote": "B",
+          "overallMeaning": "contextual-choice-correct-with-phonetic-support",
+          "conditions": "句子、四选项有假名罗马音按键，中文只给酒店预订场景；选项释义在回答后提供。",
+          "scope": "单道自编语境选词，不能推出整体词汇量、无提示读音或整句翻译。"
+        },
+        {
+          "turn": 4,
+          "quote": "周4",
+          "overallMeaning": "deadline-application-correct-with-time-gloss",
+          "conditions": "前日时间块中文释义、假名罗马音及分句主语提示可见；回答前尚无新增分块行。",
+          "sourceNote": "完整混合消息保留在协作记录，课堂只保留学习片段原样。"
+        },
+        {
+          "turn": 6,
+          "quote": "不用，但是你要带我解读一下这个句子一会儿，我很多不认识，我认为是変更しない是变更否定；人は是人；連絡しなくでも是联络否定，しなく长得像しない应该是否定；いいです是可以，就是不联络可以",
+          "overallMeaning": "correct-with-grouping-and-phonetic-support",
+          "interpretation": "整体不用联系判断正确，主动由两种形式相似推测否定。用户明确很多不认识并要解读；07解释词块与人前限定，不能仅因整体答案正确跳过。",
+          "conditions": "原文、独立分块、假名罗马音、按键和前文语境可见。",
+          "inputObservation": "中段出现假名差异，07只具体提示清音te，不推测实际发音。"
+        },
+        {
+          "turn": 8,
+          "quote": "不能，他改了预订，需要联系酒店。",
+          "overallMeaning": "scope-application-correct-with-explanation-support",
+          "interpretation": "能够将更改日期者排除出不改预订的人群，正确得出需要联系。",
+          "conditions": "完整中文词块与许可范围解释可见。"
+        },
+        {
+          "turn": 10,
+          "quote": "明日",
+          "overallMeaning": "time-word-answer-correct",
+          "conditions": "音频任务仅给已知前缀及中文时间选项，完整稿未提前展示；用户未另明确播放条件。",
+          "interpretation": "对应明天正确，但整句理解、播放次数与实际听过条件不可直接外推。"
+        },
+        {
+          "turn": 12,
+          "quote": "あしたまてに、我听是这个，其实是明日までに、明日是明天，までに是截止吗，是词根？まで是不要停止吧に是什么",
+          "overallMeaning": "hearing-confirmed-deadline-clarification-requested",
+          "conditions": "当前稿和截止义已在11展示；用户12明确自报听到片段，播放次数与先后未知。",
+          "interpretation": "能够对应明天时间词，截止义与直到终点以及助词身份仍需解释；本轮未作提前联系应用答案。",
+          "inputObservation": "听音转写中te/de有差异，13给对应字形读音；无用户实际语音，不评发音。"
+        },
+        {
+          "turn": 14,
+          "quote": "那很多动漫喊まで是因为中二吗",
+          "overallMeaning": "register-and-word-identity-question",
+          "interpretation": "用户把先前截止表达和动画喊法联系，15提出等待命令形这一候选词并区分t/d；未提供具体原音，不能确认实际动漫词。",
+          "conditions": "当前语法解释可见，没有用户提供的动漫片段。"
+        },
+        {
+          "turn": 16,
+          "quote": "可以的，满足的",
+          "overallMeaning": "Chinese-deadline-concept-confirmed",
+          "conditions": "完整中译后中文逻辑判断。",
+          "scope": "不记新的日语阅读/听力正确项；完整混合原话在协作记录。"
+        },
+        {
+          "turn": 18,
+          "quote": "前日の午後５時までに電話で連絡してください；前日のごご　ごじまでに電話で連絡しでください；应该是前日就是后天，吧，后天下午5点まて截止；电话联系しでください可以。",
+          "overallMeaning": "partially-correct-direct-reading",
+          "conditions": "未先给新段中译，有分块假名罗马音按键。",
+          "correct": [
+            "定位第一句为依据",
+            "下午5点",
+            "电话联系"
+          ],
+          "needsHelp": [
+            "把前日理解为后天",
+            "把请做理解成可以做"
+          ],
+          "inputObservation": "请求形式转写的te/de有差异；无实际语音，不评发音。"
+        },
+        {
+          "turn": 20,
+          "quote": "好像是很抱歉的意思，ません，应该是抱歉了でき不知道，应该是不行",
+          "overallMeaning": "tentative-negative-guess-with-lexical-misinterpretation",
+          "conditions": "原文分块假名罗马音按键可见，未先给当前否定词释义。",
+          "interpretation": "倾向不能的方向正确，但把否定尾误当道歉，明确能力词未知；不能把猜对方向记为完整理解。"
+        },
+        {
+          "turn": 22,
+          "quote": "できます是可以，できません是不可以，结论わ可以",
+          "overallMeaning": "capability-polarity-correct-with-immediate-support",
+          "conditions": "肯否形式中文解释及电话肯定句的分块/拼读可见。",
+          "interpretation": "正确辨认两种能力形式和句意；混合输入中的单个假名不另作无关纠错。"
+        },
+        {
+          "turn": 24,
+          "quote": "A，前日の午後３時までにメールで連絡してください",
+          "overallMeaning": "combined-information-choice-correct-with-evidence",
+          "conditions": "新通知未先整译，分块和拼读可见，选项中文。",
+          "interpretation": "能联合正确选择日期/时刻/渠道并给关键原文，支持前日纠正后同课应用；不直接推断全词理解。"
+        },
+        {
+          "turn": 26,
+          "quote": "メールでわへんこできません；email变更不行；電話でわしでください电话变更可以",
+          "overallMeaning": "audio-channel-correct-transcription-and-request-function-partial",
+          "conditions": "音频任务给两个方式词，句子成分此前已读，本条完整稿答后才展示；次数未知。",
+          "interpretation": "第一句不能的方向及电话渠道判断正确；第二句转写缺少联系词，且概括为可以，不能记整条完全听懂。",
+          "pronunciationLimit": "只有键盘近似转写，不推断真实发音。"
+        }
+      ],
+      "nextAdjustment": "下次优先补官方N3样题真实题型，保留必要分块/拼读；少量重遇前日、请求与能力区别，不再只问已翻译的中文逻辑。",
+      "examCoverageObservation": "已收集自编语境词汇、短通知多条件阅读及实际听音回应，发现具体词义/功能缺口；N3官方或代表性题组基线仍未完成，分数与独立保持未知。",
+      "timeManagementObservation": {
+        "firstClockCheckAt": "2026-10-28T19:43:23+08:00",
+        "reviewTime": "2026-10-28T21:30:00+08:00",
+        "activeLearningMinutes": null,
+        "pacingPlanSessionId": "2026-10-28-01",
+        "adjustmentReason": "用户明确继续且要实质日语挑战；在新检索尝试和反馈后再选自然停点。",
+        "userEstimatedWaitingShare": "至少约三分之一，用户自述估计，未计量",
+        "extensionSource": ".ai/records/2026-10-28-教师守主线与真实日语挑战.md",
+        "wrapRecommendedAt": "2026-10-28T21:31:35+08:00",
+        "wrapBasis": "用户追加时间后完成更有挑战的日文检索与音频尝试，在新知识点前自然收束。"
+      },
+      "listeningPreparation": {
+        "activityId": "n3-20261028-01",
+        "status": "response-received-time-correct",
+        "file": ".local/audio/n3-20261028-01.wav",
+        "currentFullTranscriptVisible": false,
+        "knownPrefixSupport": true
+      },
+      "closingListeningPreparation": {
+        "activityId": "n3-20261028-02",
+        "status": "responded-channel-correct-details-partial",
+        "priorTextExposure": true,
+        "currentTranscriptShown": false,
+        "actualHeard": true,
+        "heardEvidenceTurn": 26,
+        "playbackCount": null
+      }
+    },
+    {
+      "id": "2026-10-29-01",
+      "date": "2026-10-29",
+      "source": "日常练习/2026-10-29.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-ended-by-user",
+      "writtenEvidenceTurns": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "conditions": "01拼读/分块可见无中译；03新增词义中文、句意和请求提示，新句04待答。 05官方另一词义题无中文词义，待答。 07答案与词义揭示；新原因句带去的词义和原因连接提示。 09新转折句有转折释义与拼读，10待答。 11显式ga/ka文字对照及非过去说明，12待答，无音频。",
+      "understandingObservation": "官方词义题目标词自报不认识，未给选项；已揭示词义与答案，后续不能视为原题独立正确。 04在请求提示与二选一支持下选A正确。 06自报只认识经验；当前两道词义题目标假名词均未知，不能由汉字识别推断句意理解。 08“好可怕不去”正确组合原因与否定行动，条件为刚给过词义及连接提示。 10理解害怕与去的方向，但将转折解为反问、去解为邀请或过去；未提供日文依据，整体语用/时态未准确。 12识别询问害怕，译文额外加入很和不是吗的认同语气；13有限纠正。",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "activeLearningMinutes": null,
+      "nextAdjustment": "先处理连接词误读，暂不扩展时态活用；后续仍需官方阅读和音频证据。",
+      "listening": {
+        "status": "deferred-unanswered-user-ended",
+        "activityId": "n3-20261029-01",
+        "actualHeard": null,
+        "priorFullTextExposure": true
+      },
+      "closedAt": "2026-10-29T21:00:40+08:00",
+      "closureObservation": "用户有事结束；不据此推断疲劳、学习负荷或意愿下降。"
     }
   ]
 }

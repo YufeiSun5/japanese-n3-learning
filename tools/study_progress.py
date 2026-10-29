@@ -125,10 +125,14 @@ def lesson_ready(root, catalog, day, teacher_turn=2, reply_turn=3):
     role, body = turns.get(teacher_turn, ('', ''))
     if not role.startswith('老师'):
         raise ValueError('Requested teaching turn is missing')
-    for field in ['原文', '假名', '罗马音（拼读）', '输入法按键']:
+    fields = {}
+    for field in ['原文', '分块辅助', '假名', '罗马音（拼读）', '输入法按键']:
         match = re.search(r'^- ' + re.escape(field) + r'：([^\n]+)', body, re.M)
         if not match or not match[1].strip(' *`'):
             raise ValueError(f'Teaching material needs a nonempty {field} field')
+        fields[field] = match[1].strip(' *`')
+    if re.sub(r'\s+', '', fields['原文']) != re.sub(r'\s+', '', fields['分块辅助']):
+        raise ValueError('Grouped reading must preserve the original Japanese text')
     if reply_turn <= teacher_turn or not turns.get(reply_turn, ('', ''))[0].startswith('我'):
         raise ValueError('A subsequent user reply turn is missing')
     relative = page.relative_to(root).as_posix()

@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0",
+  "taskId": "JP-N3-003",
+  "taskType": "exam-practice",
+  "title": "N3特别突击：考试定位与30天方案",
+  "deliveryUnit": "有官方依据的考试介绍、真实分项诊断及据此调整的30天突击方案",
+  "scope": {
+    "in": [
+      "官方考试介绍与取分约束",
+      "低负担分项诊断和30天应试方案",
+      "学习证据回流统一记录"
+    ],
+    "out": [
+      "凭空保证通过",
+      "由正确率换算官方尺度分",
+      "复制一套独立词汇能力统计",
+      "替用户报名或购买资料"
+    ]
+  },
+  "status": "active",
+  "currentStage": "third-session-ended-baseline-incomplete",
+  "owner": "tutor",
+  "dependencies": [],
+  "skills": [],
+  "instructions": [
+    ".ai/instructions/teaching.md",
+    ".ai/instructions/adaptive-tutoring.md",
+    ".ai/instructions/material-design.md",
+    ".ai/docs/task-policy.md"
+  ],
+  "deliverables": [
+    "2026-Winter-Exam/tasks/003-n3-sprint/README.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/考试介绍.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/学习目标与计划.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/练习.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/作答与反馈.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/验收与证据.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/接续与变更.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/教法探索.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/督学约定.md"
+  ],
+  "acceptanceStatus": "partial",
+  "acceptedExceptions": [],
+  "activeChange": null,
+  "createdAt": "2026-10-26T20:58:27+08:00",
+  "updatedAt": "2026-10-29T21:00:40+08:00",
+  "sprint": {
+    "examDate": "2026-12-06",
+    "learningTimezone": "Asia/Singapore",
+    "replyClockTimezone": "America/Los_Angeles",
+    "mainPhaseStart": "2026-10-27",
+    "mainPhaseEnd": "2026-11-25",
+    "consolidationStart": "2026-11-26",
+    "consolidationEnd": "2026-12-05",
+    "checkpoints": [
+      {
+        "id": "baseline",
+        "dueDate": "2026-10-27",
+        "goal": "建立词汇语法、阅读、真实听力的首轮小题起点",
+        "completionEvidence": "三项实际作答、材料位置与支撑条件；听力有实际音频及回答。",
+        "status": "pending",
+        "evidence": [
+          {
+            "file": "日常练习/2026-10-27.md",
+            "turns": [
+              6,
+              8,
+              10
+            ],
+            "scope": "带提示语法选择、极短自编通知及熟悉结构合成音频的实际回应；音频选错，正在修复。",
+            "limitation": "难度适配材料，尚不足代表N3三分项起点；检查点保留pending。"
+          },
+          {
+            "file": "日常练习/2026-10-27.md",
+            "turns": [
+              14,
+              20,
+              22,
+              26
+            ],
+            "scope": "否定条件提示下修复及同课熟悉场景的后续正确判断。",
+            "limitation": "代表性N3小题和新材料验证尚缺，状态仍pending。"
+          }
+        ],
+        "completedAt": null
+      },
+      {
+        "id": "core-item-types",
+        "dueDate": "2026-11-02",
+        "goal": "核心题型进入真实练习，明确主攻项与单项风险",
+        "completionEvidence": "题干、否定、时间、限制等在题目中的表现；三项错误分类和实际取舍。",
+        "status": "pending",
+        "evidence": [],
+        "completedAt": null
+      },
+      {
+        "id": "first-timed-sections",
+        "dueDate": "2026-11-09",
+        "goal": "完成第一轮三部分分项限时练习",
+        "completionEvidence": "词汇30分钟、语法阅读70分钟、听力按对应音频约40分钟；可分段，记录实际用时和条件，不冒充连续整场模拟。",
+        "status": "pending",
+        "evidence": [],
+        "completedAt": null
+      },
+      {
+        "id": "weakness-retest",
+        "dueDate": "2026-11-16",
+        "goal": "换材料复测主要失分点并重分配时间",
+        "completionEvidence": "新题或清楚注明的重题、可比较支撑条件、错因是否改善；仍未测试的项明确列出。",
+        "status": "pending",
+        "evidence": [],
+        "completedAt": null
+      },
+      {
+        "id": "second-timed-sections",
+        "dueDate": "2026-11-25",
+        "goal": "完成第二轮分项限时验证并结束30天主攻",
+        "completionEvidence": "另一组来源明确的材料、三项实际作答与用时；辨明复习熟悉效应，列出冲刺缺口。",
+        "status": "pending",
+        "evidence": [],
+        "completedAt": null
+      },
+      {
+        "id": "final-gap-check",
+        "dueDate": "2026-12-02",
+        "goal": "完成最后单项风险检查与关键错误复测",
+        "completionEvidence": "优先核查最危险分项；剩余未知与取舍记录明确，不能只用词汇数量表示就绪。",
+        "status": "pending",
+        "evidence": [],
+        "completedAt": null
+      },
+      {
+        "id": "pre-exam-consolidation",
+        "dueDate": "2026-12-05",
+        "goal": "收束到错题、核心信号和考试节奏",
+        "completionEvidence": "依据用户实际参与保存复习和考试安排核对；不在最后阶段重新展开长期基础课。",
+        "status": "pending",
+        "evidence": [],
+        "completedAt": null
+      }
+    ],
+    "accountability": {
+      "reviewAtEveryStudyResume": true,
+      "whenOverdue": "以实际日期和证据标记缺口，当轮重排取舍，不重置第1天、不自动视为完成。",
+      "pausePolicy": "用户暂停即停止教学及后台准备；恢复后重新核对真实剩余时间。",
+      "lastReviewedAt": "2026-10-29T21:00:40+08:00",
+      "lastReview": "10月29日余38天，用户有事结束。两道官方词义题目标未知后已讲解；提示下原因否定正确，转折/疑问及非过去已纠正但待迁移。最后合成短音频未答且播放未知；官方阅读和听力起点仍缺，baseline保持pending。",
+      "sessionPacingPolicy": {
+        "reference": ".ai/instructions/teaching.md",
+        "sourceRecord": ".ai/records/2026-10-27-突击课时与自然收束约定.md",
+        "teacherOwnsPacingAndWrapUp": true,
+        "accountForWaitingWithoutInventingActiveMinutes": true,
+        "flexibleBeyondOneHour": true,
+        "preserveUserPauseRight": true
+      }
+    },
+    "reminder": {
+      "status": "active",
+      "automationId": "n3",
+      "kind": "heartbeat",
+      "timezone": "Asia/Singapore",
+      "localTime": "19:20",
+      "firstScheduledDate": "2026-10-27",
+      "lastScheduledDate": "2026-12-05",
+      "verifiedAt": "2026-10-26T21:40:12+08:00",
+      "note": "用户最新明确每天晚上7:20提醒，覆盖此前只在回来时推进的选择。依赖本机及应用运行；每次一条提醒，包含倒计时和一个学习起步动作。"
+    }
+  }
+}
