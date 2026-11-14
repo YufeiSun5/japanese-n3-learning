@@ -18,7 +18,7 @@
     ]
   },
   "status": "active",
-  "currentStage": "third-session-ended-baseline-incomplete",
+  "currentStage": "session-ended-priority-vocabulary-group-one-pending-response",
   "owner": "tutor",
   "dependencies": [],
   "skills": [],
@@ -37,13 +37,14 @@
     "2026-Winter-Exam/tasks/003-n3-sprint/验收与证据.md",
     "2026-Winter-Exam/tasks/003-n3-sprint/接续与变更.md",
     "2026-Winter-Exam/tasks/003-n3-sprint/教法探索.md",
-    "2026-Winter-Exam/tasks/003-n3-sprint/督学约定.md"
+    "2026-Winter-Exam/tasks/003-n3-sprint/督学约定.md",
+    "2026-Winter-Exam/tasks/003-n3-sprint/冲刺200词.md"
   ],
   "acceptanceStatus": "partial",
   "acceptedExceptions": [],
   "activeChange": null,
   "createdAt": "2026-10-26T20:58:27+08:00",
-  "updatedAt": "2026-10-29T21:00:40+08:00",
+  "updatedAt": "2026-11-13T22:27:31+08:00",
   "sprint": {
     "examDate": "2026-12-06",
     "learningTimezone": "Asia/Singapore",
@@ -80,6 +81,15 @@
             ],
             "scope": "否定条件提示下修复及同课熟悉场景的后续正确判断。",
             "limitation": "代表性N3小题和新材料验证尚缺，状态仍pending。"
+          },
+          {
+            "file": "日常练习/2026-11-01.md",
+            "turns": [
+              22,
+              26
+            ],
+            "scope": "正确裁片后的官方例题有问话支持下选2；正式短应答第1题仅资料提示，选3错误并自报未懂猜测。",
+            "limitation": "一个正式小题不足完整分项起点；阅读为讲解后同题排除，检查点仍pending。"
           }
         ],
         "completedAt": null
@@ -90,7 +100,18 @@
         "goal": "核心题型进入真实练习，明确主攻项与单项风险",
         "completionEvidence": "题干、否定、时间、限制等在题目中的表现；三项错误分类和实际取舍。",
         "status": "pending",
-        "evidence": [],
+        "evidence": [
+          {
+            "file": "日常练习/2026-11-13.md",
+            "turns": [
+              10,
+              11,
+              12
+            ],
+            "scope": "官方文法形式选择第4至6题已作答，1/3，逐题解释。",
+            "limitation": "仅三题；自报整体懵，逐题理由和实际用时未知。"
+          }
+        ],
         "completedAt": null
       },
       {
@@ -99,7 +120,18 @@
         "goal": "完成第一轮三部分分项限时练习",
         "completionEvidence": "词汇30分钟、语法阅读70分钟、听力按对应音频约40分钟；可分段，记录实际用时和条件，不冒充连续整场模拟。",
         "status": "pending",
-        "evidence": [],
+        "evidence": [
+          {
+            "file": "日常练习/2026-11-13.md",
+            "turns": [
+              10,
+              11,
+              12
+            ],
+            "scope": "官方文法形式选择第4至6题已作答，1/3，逐题解释。",
+            "limitation": "仅三题；自报整体懵，逐题理由和实际用时未知。"
+          }
+        ],
         "completedAt": null
       },
       {
@@ -143,8 +175,8 @@
       "reviewAtEveryStudyResume": true,
       "whenOverdue": "以实际日期和证据标记缺口，当轮重排取舍，不重置第1天、不自动视为完成。",
       "pausePolicy": "用户暂停即停止教学及后台准备；恢复后重新核对真实剩余时间。",
-      "lastReviewedAt": "2026-10-29T21:00:40+08:00",
-      "lastReview": "10月29日余38天，用户有事结束。两道官方词义题目标未知后已讲解；提示下原因否定正确，转折/疑问及非过去已纠正但待迁移。最后合成短音频未答且播放未知；官方阅读和听力起点仍缺，baseline保持pending。",
+      "lastReviewedAt": "2026-11-13T21:06:10+08:00",
+      "lastReview": "11月13日余23天。首轮分项限时逾期，用户要求加强考场准备。改为先做官方原卷小段再补实际错因，第一组文法第4至6题待作答与实际时间；检查点按证据保持待完成。",
       "sessionPacingPolicy": {
         "reference": ".ai/instructions/teaching.md",
         "sourceRecord": ".ai/records/2026-10-27-突击课时与自然收束约定.md",
@@ -164,6 +196,30 @@
       "lastScheduledDate": "2026-12-05",
       "verifiedAt": "2026-10-26T21:40:12+08:00",
       "note": "用户最新明确每天晚上7:20提醒，覆盖此前只在回来时推进的选择。依赖本机及应用运行；每次一条提醒，包含倒计时和一个学习起步动作。"
+    },
+    "vocabularyPlan": {
+      "source": "2026-Winter-Exam/tasks/003-n3-sprint/冲刺200词.md",
+      "startDate": "2026-11-13",
+      "firstPassTargetDate": "2026-11-30",
+      "groupCount": 20,
+      "itemsPerGroup": 10,
+      "doubleGroupDates": [
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "reviewDaysAfterExposure": [
+        1,
+        3,
+        7
+      ],
+      "order": "01-04 verified workbook targets and repeated-sample vocabulary first, 05-20 cross-section support",
+      "priorityGroupCount": 4,
+      "priorityItemCount": 40,
+      "selectionSources": [
+        "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002500983",
+        "https://ttlab.hopto.org/blog/japanese/2026-06-12-jlpt-n3-20day-cram-vocabulary-grammar?lang=ja",
+        "https://www.jlpt.jp/e/samples/sampleindex.html"
+      ]
     }
   }
 }

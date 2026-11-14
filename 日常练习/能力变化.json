@@ -768,6 +768,409 @@
       "lastEvidenceTurn": 4,
       "writtenObservations": [],
       "teachingConfounds": []
+    },
+    {
+      "id": "2026-10-30-01",
+      "date": "2026-10-30",
+      "source": "日常练习/2026-10-30.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-wrapped",
+      "writtenEvidenceTurns": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        13,
+        15
+      ],
+      "conditions": "昨日日文完整稿与解释曾可见；跨日回应上次音频任务，但未确认播放。新句有分块拼读和发送词义。 12已学词重组的两分句通知，无先行整句中文，13待行动和原文依据。",
+      "understandingObservation": "01写出接近原句并正确指出害怕、但是、去；中间y疑似输入多余，原因未核实。 03正确判断明天截止，引用省略に；行动尚未回应。 05带发送词义提示，抓到请送邮件，措辞含去；原文未指定去哪里。 07先摘录后明确不懂，未建立本动词下的否定许可组合；不据此否定此前其他场景的正确回应。 09订正片段输入正确，仍无意义判断；10整块解释，避免反复同一追问。 13新组合通知中许可前半及电话方式正确；末尾可以请表述仍含混，14自然澄清请求。 15音频任务准确转写当前整句，方式与请求含义对应；明天之前是否含当天有歧义，16明确包含明天。",
+      "listening": {
+        "priorActivityId": "n3-20261029-01",
+        "responseTurn": 1,
+        "actualHeard": null,
+        "playbackCount": null,
+        "limitation": "原句及解释此前已展示，且是否播放和时间未知，不作为独立听力成绩。",
+        "currentActivity": {
+          "id": "n3-20261030-01",
+          "status": "accurate-transcription-with-familiar-components",
+          "actualHeard": true,
+          "playbackCount": null,
+          "fullCurrentTranscriptShown": false,
+          "heardConfirmedBy": "content-transcription-in-audio-task",
+          "responseTurn": 15,
+          "fullTranscriptShownAfterResponse": true,
+          "limitation": "成分熟悉，非官方分项或陌生听力测验。"
+        }
+      },
+      "activeLearningMinutes": null,
+      "delayedRecall": null,
+      "nextAdjustment": "下次直接上官方短阅读的一个合适小步骤，继续保护三分项基线；不重开邮件基础课。",
+      "inputDifficulties": "09在可见示范下把ても写对；07差异已订正，是否口头辨音困难未知。",
+      "closedAt": "2026-10-30T21:13:58+08:00"
+    },
+    {
+      "id": "2026-10-31-01",
+      "date": "2026-10-31",
+      "source": "日常练习/2026-10-31.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-ended-by-user",
+      "writtenEvidenceTurns": [
+        2,
+        4,
+        6
+      ],
+      "conditions": "官方原题短块，两个内容词给中译，保留分块拼读；教师自编二选一，未计时，无音频。 03新增加是否结构、十点及通知的释义，04属于提示后应用。 05原文请求含务必释义及已学确认词提示，06待答。",
+      "understandingObservation": "02把是否上课选成确定上课；03明确讲是否结构，再结合邮件通知。 04显式解释后选是否结果正确。 06提示下找对确认行动词。",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "activeLearningMinutes": null,
+      "nextAdjustment": "下次直接接官方第24题选项与所需条件，已讲的是否结构自然重遇；整题及官方音频基线仍未齐。",
+      "closedAt": "2026-10-31T23:35:59+08:00",
+      "listening": {
+        "status": "closing-audio-provided-not-assessed",
+        "actualHeard": null,
+        "playbackCount": null,
+        "fullTranscriptVisible": true
+      }
+    },
+    {
+      "id": "2026-11-01-01",
+      "date": "2026-11-01",
+      "source": "日常练习/2026-11-01.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-ended-by-user",
+      "writtenEvidenceTurns": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        16,
+        18,
+        20,
+        22,
+        26,
+        28,
+        30
+      ],
+      "conditions": "前课原邮件是否通知的部分已讲；01原题选项4有读音/分块/按键及三词提示，无整句中译。非陌生完整原题，无计时或音频。 03新增全选项词块与整句中译，后续不能视为独立识读。 05选项4答案方向已揭示，原选项3附拼读；后续不计独立官方选题。 07原文与选项1对读，提供上午/举行/开始词义，未先整译。 09社团活动范围对读，提供上午时段/社团/两者都/必须提示，10待答。 15官方原速例题，只有已学有吗词块提示，16待答。 17起问话稿与四块中译可见，18属于文本支持下交际意图判断。 25首次正式官方小题，未给全稿，只给资料词义/拼读；26待答。",
+      "understandingObservation": "02明确整句看不懂；尚未给是否可推出的判断，不按选项错误计。 04准确复述如果收到和有；没定下来可能在谈条件未发生，教师03问法含混，不能据此断言条件推理有误。05解释收到后的保证与原文通知是否的区别。 06在解释和文本支持下正确定位是否上课词块；同时抄后半分句，未单独评估其独立释义。 08能借助词义提示，用原文否定和选项十点开始的矛盾排除1，并给日文依据。 10正确识别必须中止，但选项保留错误，理由只比较动作义，时间从上午扩大到上午下午未处理；11明确范围差别。 12下午有课自报听到，B正确，上午后半明确没听清，13看稿慢读修复。 16自报没听懂；18指出音文不符，核实前段为说明而非例题，该反应不作例题能力证据。17词义教学接触仍保留。 20确认修正五秒片段无问题，限于音文一致反馈；21问话稿与意义已知下选择三回应，待答。 22在问话稿和意义支持下选官方例题2正确，但自报三回应没全懂；23逐句拆解，不判整条纯听通过。 26正式官方题选3且自报未懂后猜，不可推断其实际把夸奖听成要求修改；27才讲解语用差别。 28在27完整问话稿和三块中译后仍自报难、没看懂；当前困难不仅是声音，长句修饰及变化表达仍需缩小支撑。29仅保留资料好读短句，暂不评理解改善。 30准确复述易读性好，明确作り直してくれた仍未懂；31拆重做/连接/受惠过去和前置修饰。",
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "activeLearningMinutes": null,
+      "nextAdjustment": "当前只处理具体重做受益与资料修饰，未验证应用；无新疑问后自然收束，不重问整道正式题制造正确。",
+      "teachingConfounds": [
+        "03说定了没有混淆条件是否实现与条件成立后的保证，05已澄清，04不判逻辑错误。",
+        "15及17官方音频裁片错误，19经本地语音识别与官方脚本核实并修正；原未理解不归因用户。"
+      ],
+      "listening": {
+        "activityId": "n3-20261101-scope",
+        "status": "option-correct-afternoon-recognized-morning-incomplete",
+        "actualHeard": true,
+        "playbackCount": null,
+        "responseTurn": 12,
+        "afternoonRecognized": true,
+        "morningRecognized": false,
+        "limitation": "明确下午自报和上午没听清；不因选B而算整条通过。",
+        "guidedSoundAlignment": null,
+        "officialExample": {
+          "id": "official-2018-n3-q5-example",
+          "status": "corrected-example-choice2-correct-with-prompt-support",
+          "actualHeard": null,
+          "playbackCount": null,
+          "isScoredQuestion": false,
+          "transcriptVisible": false,
+          "responseTurn": 22,
+          "response": "没听懂",
+          "promptTranscriptShownAtTurn": 17,
+          "initialAttemptValidity": "invalid",
+          "reason": "前段为题型说明，不含标注例题问话，16没听懂不能评估例题理解。",
+          "correctedPromptProvidedAtTurn": 19,
+          "correctedPromptHeard": true,
+          "correctedPromptConfirmationTurn": 20,
+          "fullCorrectedExampleHeard": true,
+          "fullExampleReplyTurn": 22,
+          "choice": 2,
+          "choiceCorrect": true,
+          "fullResponsesUnderstood": false,
+          "allResponseTranscriptsShownAtTurn": 23
+        },
+        "officialFormalItem1": {
+          "status": "incorrect-self-reported-guess-not-understood",
+          "actualHeard": true,
+          "playbackCount": null,
+          "transcriptVisible": false,
+          "support": "资料词义与读音，允许只报意图；非无辅助。",
+          "choice": 3,
+          "choiceCorrect": false,
+          "selfReportedGuess": true,
+          "responseTurn": 26,
+          "promptAndCorrectResponseShownAtTurn": 27,
+          "postExplanationUnderstanding": "still-difficult-self-report-turn28"
+        }
+      },
+      "inputDifficulties": "下午话题助词写成わ，13提示写は读wa；不能从字形判断发音困难。",
+      "closedAt": "2026-11-01T22:41:46+08:00",
+      "closureObservation": "用户明确结束；31重做受惠解释后的理解未验证，不据此声称已懂原长句。"
+    },
+    {
+      "id": "2026-11-02-01",
+      "date": "2026-11-02",
+      "source": "日常练习/2026-11-02.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-wrapped",
+      "writtenEvidenceTurns": [
+        2,
+        4,
+        6,
+        8
+      ],
+      "conditions": "自编短请求，修改动词释义和分块拼读可见，无整句中译，无音频或计时。 03请求整句已译，A/B回应保留拼读，只给马上新词义，04待选择。",
+      "understandingObservation": "02主动指出请求句尾为请并求确认，03解释整句请修改；未要求再次重复相同判断。 04在请求场景选B正确，能选择答应修改而不套感谢；未单独验证所有词义。 06听到近似资料易读音串但明确没理解；可见字义与听音联结仍需支持，不与此前文字理解正确相矛盾。 08看稿后写出资料与易读词形，助词写わ，09纠正；没有新的中文释义/播放确认，不能判已独立听懂。",
+      "delayedRecall": null,
+      "independentTransfer": null,
+      "activeLearningMinutes": null,
+      "nextAdjustment": "下一次短新句进行音义联结，再换官方新材料；核心题型检查点证据不足仍保持pending。",
+      "listening": {
+        "activityId": "n3-20261102-intention",
+        "status": "approximate-transcription-not-understood",
+        "actualHeard": true,
+        "playbackCount": null,
+        "priorTextExposure": true,
+        "responseTurn": 6,
+        "choice": null,
+        "fullTranscriptShownAtTurn": 7
+      },
+      "inputDifficulties": "08话题助词写わ；09明确写は、读wa、按键ha。词形资料和易读在可见稿下正确。",
+      "closedAt": "2026-11-02T15:20:55+08:00"
+    },
+    {
+      "id": "2026-11-02-02",
+      "date": "2026-11-02",
+      "source": "日常练习/2026-11-02.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-ended-by-user",
+      "writtenEvidenceTurns": [
+        11,
+        15,
+        17
+      ],
+      "conditions": "只给资料词义/读音，当前完整音频稿不展；中文两动作选项。自编合成慢速125，已学词新组合，无计时。 14回到文字，两个动作与先后关系有显式词义提示，15待顺序及日文定位。 18新之前结构有显式释义，19待顺序判断。",
+      "understandingObservation": "11能报告近似资料与请求声音，明确中间动词没懂；未选动作。12先发送词义/词界说明，未判理解修复。 15在两个动词与先后连接的释义支持下，整句抄写和修改后发送意思准确。 17有确认词提示下复述确认后发送正确，未明示播放或声音依据，不夸大整句听懂。",
+      "listening": {
+        "activityId": "n3-20261102-send-request",
+        "status": "partial-transcription-send-verb-unknown",
+        "actualHeard": true,
+        "playbackCount": null,
+        "responseTurn": 11,
+        "choice": null,
+        "fullTranscriptShownAtTurn": 12,
+        "laterSequence": {
+          "activityId": "n3-20261102-sequence-check",
+          "status": "meaning-correct-with-word-support-playback-unconfirmed",
+          "actualHeard": null,
+          "playbackCount": null,
+          "support": "确认词义读音可见、当前全稿不展",
+          "responseTurn": 17,
+          "meaningCorrect": true
+        }
+      },
+      "activeLearningMinutes": null,
+      "delayedRecall": null,
+      "nextAdjustment": "下一次先少量熟词声音义联结，再新短通知的时间/先后动作；不回抄整份总结。",
+      "inputDifficulties": "近似音串中的助词与动词首元音边界不清；仅作文字/声音对齐，不能据此诊断口头发音。",
+      "closedAt": "2026-11-02T16:30:36+08:00",
+      "closureObservation": "用户要求全日总览并结束，最后前に题未答，未新增能力判断；总结不是复测。"
+    },
+    {
+      "id": "2026-11-03-01",
+      "date": "2026-11-03",
+      "source": "日常练习/2026-11-03.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "continued-next-day",
+      "writtenEvidenceTurns": [
+        2
+      ],
+      "conditions": "自编语法形式四选一；原文、分块、假名、罗马音、按键可见，无整句中译或答案。已学词新组合，未计时。 03新限制表达有中文功能提示与五项辅助，无整句中译。",
+      "understandingObservation": "02选A正确并自报见过；形式选择在读音/分块与四选项支持下成立，未说明规则或整句含义。03新增限制句教学，尚待回应。",
+      "activeLearningMinutes": null,
+      "delayedRecall": {
+        "scope": "mae-ni原形形式选择，隔日熟词新组合",
+        "result": "correct-with-reading-aids",
+        "limitation": "不属无提示验证；原因和整句意思未另测。"
+      },
+      "listening": {
+        "status": "not-started",
+        "actualHeard": null
+      },
+      "nextAdjustment": "原形选择不重复抄写；观察限制结构与否定是否能整体理解，按疑问拆分。",
+      "continuedInSessionId": "2026-11-04-01"
+    },
+    {
+      "id": "2026-11-04-01",
+      "date": "2026-11-04",
+      "source": "日常练习/2026-11-04.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "paused-by-user",
+      "writtenEvidenceTurns": [
+        2
+      ],
+      "conditions": "昨日未答自编限制通知原句承接；原文/分块/假名/罗马音/按键与中文三选项可见，昨日规则释义已见；当前不再给规则或整句中译。未计时，无音频。 04正确答案与排除其他方式的显式释义已展示。",
+      "understandingObservation": "02选A，将通知选为电话不能办理；与该句限制含义不符。没有日文依据或原因，不能确定具体卡在词义、限制搭配或否定范围。用户同时明确暂停，纠错未开展。 03只追问是否正确；04揭示B，解释只有电话可、其他方式不行，无新作答或理解确认。",
+      "activeLearningMinutes": null,
+      "delayedRecall": {
+        "scope": "昨日已释义的限制通知，隔日原句有阅读辅助选择",
+        "result": "incorrect-choice",
+        "limitation": "原句非陌生题，无理由；单题不能定义能力或遗忘程度。"
+      },
+      "listening": {
+        "status": "not-started",
+        "actualHeard": null
+      },
+      "nextAdjustment": "本次保持暂停；正式恢复后按疑问短释或新语境应用，理解修复未验证。",
+      "pausedAt": "2026-11-04T10:33:15+08:00"
+    },
+    {
+      "id": "2026-11-12-01",
+      "date": "2026-11-12",
+      "source": "日常练习/2026-11-12.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-ended-by-user",
+      "writtenEvidenceTurns": [
+        2,
+        4
+      ],
+      "conditions": "新自编短应答，实际合成日语音频11.55秒，选项在音频内；可见数字及编号读法，当前不展示题干、选项稿、翻译、答案。建议播放一遍，实播及作答未知。 02之后只展示问话原文和释义，原选项稿及答案未展示。 05正确回应原音、原文、分块、读音与中文可见；首次条件保持不变。",
+      "understandingObservation": "02自报久未学，听到本题但未懂，未选。未知听了几遍、是否听完整或卡在哪个词。03展示问话稿、中文和约2秒原音截片，尚未收到对应听音反馈。 04明确仍没听懂，并问したいん的构成与答案。能指出所问文字，来源可能是可见稿，不能推断纯听辨认。05拆释并展示正确2，尚无修复或声音对齐证据。",
+      "listening": {
+        "activityId": "n3-20261112-quick-response-elevenlabs",
+        "status": "first-pass-not-understood-guidance-provided",
+        "actualHeard": true,
+        "playbackCount": null,
+        "requestedPlaybackCount": 1,
+        "responseTurn": 2,
+        "choice": null,
+        "guidedPrompt": {
+          "teacherTurn": 3,
+          "replyTurn": 4,
+          "actualHeard": null,
+          "playbackCount": null,
+          "status": "still-not-understood-form-question",
+          "responseTurn": 4
+        },
+        "guidedResponse": {
+          "teacherTurn": 5,
+          "replyTurn": 6,
+          "actualHeard": null,
+          "playbackCount": null,
+          "status": "acknowledged-alignment-unverified"
+        }
+      },
+      "activeLearningMinutes": null,
+      "delayedRecall": null,
+      "nextAdjustment": "下一步只观察正确回应里疑问词的有稿辨认，按反馈调整难度。",
+      "closedAt": "2026-11-13T11:43:42+08:00",
+      "closureObservation": "用户回应OK后结束；无具体听音证据，听辨修复与实际净时长未知。"
+    },
+    {
+      "id": "2026-11-13-01",
+      "date": "2026-11-13",
+      "source": "日常练习/2026-11-13.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-ended-at-brief-landing",
+      "writtenEvidenceTurns": [
+        2,
+        4
+      ],
+      "conditions": "上次已解释的同一录音；原文、读音、目标词义及其在句中的位置可见。 只见旧词预订的意义和读音、中文两个选项；完整新句、答案及目标词义不展示。建议听一遍。",
+      "understandingObservation": "02普通确认；04有旧词提示与中文两选项时选对B，询问日期和姓名如何写及读，选择依据、实播次数与独立听辨未知。05提供读音与输入区分、正确句稿，未复测。",
+      "activeLearningMinutes": null,
+      "delayedRecall": null,
+      "listening": {
+        "status": "acknowledged-alignment-unverified",
+        "actualHeard": null,
+        "playbackCount": null,
+        "teacherTurn": 1,
+        "replyTurn": 2,
+        "responseTurn": 2,
+        "newActivity": {
+          "teacherTurn": 3,
+          "replyTurn": 4,
+          "actualHeard": null,
+          "playbackCount": null,
+          "status": "correct-choice-with-cues-playback-unconfirmed",
+          "responseTurn": 4,
+          "choice": "B",
+          "correct": true
+        }
+      },
+      "nextAdjustment": "后续新场景自然复现日期和姓名，区分实际听辨、猜测与读稿理解。",
+      "closedAt": "2026-11-13T20:51:17+08:00",
+      "closureObservation": "本次按少量学习意愿在反馈后收束，净学习时间未知。"
+    },
+    {
+      "id": "2026-11-13-02",
+      "date": "2026-11-13",
+      "source": "日常练习/2026-11-13.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "session-ended-at-brief-landing",
+      "writtenEvidenceTurns": [
+        8
+      ],
+      "conditions": "只见预订词读音/意义和中文今天、明天两个选项；完整日文稿与答案留待反馈。",
+      "understandingObservation": "08正确回答明天，并明确报告听到了日期词。熟悉背景词与中文两选项可见，具体播放次数和整句理解程度未知。",
+      "activeLearningMinutes": null,
+      "delayedRecall": null,
+      "listening": {
+        "status": "correct-date-with-reported-keyword",
+        "teacherTurn": 7,
+        "replyTurn": 8,
+        "actualHeard": true,
+        "playbackCount": null,
+        "responseTurn": 8,
+        "correct": true,
+        "heardWord": "あした"
+      },
+      "nextAdjustment": "下次用新日期短句逐步减少选项提示。",
+      "closedAt": "2026-11-13T20:56:54+08:00",
+      "closureObservation": "反馈后短段收束，实际净学习时间未知。"
+    },
+    {
+      "id": "2026-11-13-03",
+      "date": "2026-11-13",
+      "source": "日常练习/2026-11-13.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "ended",
+      "writtenEvidenceTurns": [
+        11
+      ],
+      "conditions": "直接做官方原卷第4至6题，只有原卷自带标注和中文流程说明；不提供题义、逐题读音、答案或选项提示。建议总计4分钟，由用户报告实际用时。 按用户要求也提供同一原卷裁图，原有振假名与选项顺序保留。",
+      "understandingObservation": "11提交123并自报懵，按4至6题选1、2、3判读。官方答案1、4、2，正确1/3；题4无理解依据，题5、6错误的个人原因尚未知。12解释限制、举办及请求。 14按用户要求详讲三题，原13未答，15讲后同题重答待证据。 用户自述看不懂的太多；尚未说明是哪些词。16提供词义最小锚点及排除步骤，17未答。 18补第6题排除法和本题10条词汇，尚无重答或复习证据。 20已呈现优先组及近义题，尚未收到21回应，不能判断掌握。",
+      "activeLearningMinutes": null,
+      "delayedRecall": null,
+      "listening": null,
+      "nextAdjustment": "本次停止。明天从核心词第1组简短应用接续，21未答，掌握未知；不追加后台教学准备。",
+      "examAttempt": {
+        "turn": 11,
+        "questions": [
+          4,
+          5,
+          6
+        ],
+        "correctCount": 1,
+        "itemCount": 3,
+        "actualTimeSeconds": null
+      },
+      "endedAt": "2026-11-13T22:27:31+08:00",
+      "loadObservation": {
+        "type": "user-report",
+        "quote": "累了，明天学",
+        "file": "日常练习/2026-11-13.md",
+        "turn": 22
+      }
     }
   ]
 }
