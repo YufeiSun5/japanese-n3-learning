@@ -958,6 +958,15 @@
           "quote": "もう",
           "kind": "supported-correct",
           "support": "model-and-translation-visible"
+        },
+        {
+          "id": "mou-20261114-exposure-1",
+          "date": "2026-11-14",
+          "file": "日常练习/2026-11-14.md",
+          "turn": 1,
+          "quote": "もう",
+          "kind": "exposure",
+          "support": "sentence-and-options-with-readings-visible-gloss-not-repeated"
         }
       ]
     },
@@ -5678,6 +5687,15 @@
           "quote": "疲れる",
           "kind": "exposure",
           "support": "evidence-prioritized-first-group-and-glosses-visible"
+        },
+        {
+          "id": "tsukareru-20261114-exposure-1",
+          "date": "2026-11-14",
+          "file": "日常练习/2026-11-14.md",
+          "turn": 1,
+          "quote": "疲れました",
+          "kind": "exposure",
+          "support": "sentence-and-options-with-readings-visible-gloss-not-repeated"
         }
       ]
     },
@@ -5696,6 +5714,15 @@
           "quote": "くたびれる",
           "kind": "exposure",
           "support": "evidence-prioritized-first-group-and-glosses-visible"
+        },
+        {
+          "id": "kutabireru-20261114-exposure-1",
+          "date": "2026-11-14",
+          "file": "日常练习/2026-11-14.md",
+          "turn": 1,
+          "quote": "くたびれました",
+          "kind": "exposure",
+          "support": "sentence-and-options-with-readings-visible-gloss-not-repeated"
         }
       ]
     },
@@ -9380,6 +9407,107 @@
       },
       "endedAt": "2026-11-13T22:27:31+08:00",
       "endReason": "用户自报累了，明确今天结束、明天接续。"
+    },
+    {
+      "id": "2026-11-14-01",
+      "date": "2026-11-14",
+      "source": "日常练习/2026-11-14.md",
+      "taskId": "JP-N3-003",
+      "status": "active",
+      "assessmentSessionId": "2026-11-14-01",
+      "recordingMode": "chat",
+      "newItemIds": [],
+      "revisitedItemIds": [
+        "mou",
+        "kutabireru",
+        "tsukareru"
+      ],
+      "contentSummary": "文字聊天。只重开昨天未答的第1组近义句もうくたびれました，02待选项。旧词もう放在句首，不另开测验。尚无作答。",
+      "reviewPlan": {
+        "arrangedOn": "2026-11-14",
+        "stage": "before-first-teaching",
+        "selectionBasis": "11月13日用户在近义题作答前说累了并停止。くたびれる与疲れる已有释义接触，题未答，不计错。もう上次有提示写对是9月17日，隔日无提示记忆未知，能自然放在这句状态前面。今天只做这一句，不重开词表，也不把未答的文法重做算成失败。",
+        "targets": [
+          {
+            "itemId": "kutabireru",
+            "priorEvidence": {
+              "file": "日常练习/2026-11-13.md",
+              "turn": 20
+            },
+            "integration": "原句もうくたびれました再次呈现，请选最接近的一项。",
+            "presentedAt": {
+              "file": "日常练习/2026-11-14.md",
+              "turn": 1
+            },
+            "status": "presented-awaiting-response",
+            "support": "sentence-and-options-with-readings-visible-gloss-not-repeated",
+            "nextAction": "读聊天或第02回合的选项号后再判断；未答不算错。"
+          },
+          {
+            "itemId": "mou",
+            "priorEvidence": {
+              "file": "日常练习/2026-09-17.md",
+              "turn": 3
+            },
+            "integration": "作为「已经」出现在同一句开头，不单独提问。",
+            "presentedAt": {
+              "file": "日常练习/2026-11-14.md",
+              "turn": 1
+            },
+            "status": "presented-not-assessed",
+            "support": "model-and-translation-visible",
+            "nextAction": "不另考。若用户问到「已经」，再看这一处。"
+          }
+        ],
+        "priorUnfinished": [
+          {
+            "sessionId": "2026-11-13-03",
+            "itemId": "tsukareru",
+            "decision": "continue-in-this-question",
+            "reason": "与くたびれる同题，今天作为选项出现，等实际选择。"
+          },
+          {
+            "sessionId": "2026-11-13-03",
+            "itemId": "kakunin",
+            "decision": "deferred",
+            "reason": "官方第6题讲后重答仍空着。用户昨天停止，今天先完成这一句近义，不把空题记成失败。"
+          },
+          {
+            "sessionId": "2026-11-13-03",
+            "itemId": "namae",
+            "decision": "deferred",
+            "reason": "这句近义里没有姓名，留到后面的场景。"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "itemId": "kutabireru",
+          "status": "awaiting-response",
+          "evidence": {
+            "file": "日常练习/2026-11-14.md",
+            "turn": 2
+          },
+          "reason": "第02回合还没有选择。",
+          "nextAction": "核对选项号；需要时再给这一对的短解释。"
+        }
+      ],
+      "pacingPlan": {
+        "arrangedAt": "2026-11-14T17:42:23+08:00",
+        "timezone": "Asia/Singapore",
+        "status": "in-progress",
+        "plannedLanding": "这一句有实际选择后再决定收束或接下一小步。",
+        "activeLearningMinutes": null,
+        "decisionBasis": "昨天用户说累了并约定今天从第1组短应用继续。当前只准备一句。"
+      },
+      "materialReadiness": {
+        "checkedOn": "2026-11-14",
+        "page": "日常练习/2026-11-14.md",
+        "teacherTurn": 1,
+        "replyTurn": 2,
+        "ready": true,
+        "verification": "study_progress.py ready passed"
+      }
     }
   ]
 }

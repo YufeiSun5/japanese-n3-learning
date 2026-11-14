@@ -1171,6 +1171,32 @@
         "file": "日常练习/2026-11-13.md",
         "turn": 22
       }
+    },
+    {
+      "id": "2026-11-14-01",
+      "date": "2026-11-14",
+      "source": "日常练习/2026-11-14.md",
+      "taskId": "JP-N3-003",
+      "recordStatus": "in-progress",
+      "writtenEvidenceTurns": [],
+      "finalCorrect": null,
+      "observedWrittenTargets": null,
+      "conditions": "近义句和三个选项的原文、分块、假名、罗马音、按键可见。今天没有重印昨天的中文词表。第02回合尚无选择。不是听力，也没有计时。",
+      "understandingObservation": null,
+      "independentTransfer": null,
+      "delayedRecall": null,
+      "listening": null,
+      "pronunciation": null,
+      "activeLearningMinutes": null,
+      "speed": null,
+      "selfReportedLoad": null,
+      "motivationScore": null,
+      "inputDifficulties": null,
+      "comparison": "昨天官方文法第4至6题是1/3，和这句自编近义的材料和提示都不同，不能比较。",
+      "nextAdjustment": "先看这一句的选项。对上了再进第2组的一个读音点；对不上就只讲这一对，不展开十词。",
+      "confidence": "材料已写入。理解、输出和速度都还没有今天的证据。",
+      "lastEvidenceTurn": 1,
+      "writtenObservations": []
     }
   ]
 }

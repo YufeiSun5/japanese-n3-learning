@@ -18,7 +18,7 @@
     ]
   },
   "status": "active",
-  "currentStage": "session-ended-priority-vocabulary-group-one-pending-response",
+  "currentStage": "group-one-synonym-awaiting-chat-response",
   "owner": "tutor",
   "dependencies": [],
   "skills": [],
@@ -44,7 +44,7 @@
   "acceptedExceptions": [],
   "activeChange": null,
   "createdAt": "2026-10-26T20:58:27+08:00",
-  "updatedAt": "2026-11-13T22:27:31+08:00",
+  "updatedAt": "2026-11-14T17:44:37+08:00",
   "sprint": {
     "examDate": "2026-12-06",
     "learningTimezone": "Asia/Singapore",
@@ -175,8 +175,8 @@
       "reviewAtEveryStudyResume": true,
       "whenOverdue": "以实际日期和证据标记缺口，当轮重排取舍，不重置第1天、不自动视为完成。",
       "pausePolicy": "用户暂停即停止教学及后台准备；恢复后重新核对真实剩余时间。",
-      "lastReviewedAt": "2026-11-13T21:06:10+08:00",
-      "lastReview": "11月13日余23天。首轮分项限时逾期，用户要求加强考场准备。改为先做官方原卷小段再补实际错因，第一组文法第4至6题待作答与实际时间；检查点按证据保持待完成。",
+      "lastReviewedAt": "2026-11-14T17:44:37+08:00",
+      "lastReview": "11月14日余22天。首轮分项限时仍缺完整作答和用时，检查点保持待完成。昨天用户停止在第1组近义题前。今天只重开这一句，不重置第1天。",
       "sessionPacingPolicy": {
         "reference": ".ai/instructions/teaching.md",
         "sourceRecord": ".ai/records/2026-10-27-突击课时与自然收束约定.md",
